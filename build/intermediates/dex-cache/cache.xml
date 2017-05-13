@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="H:\Users\haily\Desktop\fancaiProject-master\fancaiProject-master\androidbase\build\intermediates\bundles\default\libs\universal-image-loader-1.9.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2ef539b6c1a74f529257e59434795e782a5ae40a">
+        <dex dex="H:\Users\haily\Desktop\fancaiProject-master\fancaiProject-master\app\build\intermediates\pre-dexed\release\universal-image-loader-1.9.4_daa62fce4ab708f79a7e4cfa28d637dcbd62f113.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Users\haily\Desktop\fancaiProject-master\fancaiProject-master\androidbase\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e720466d96b981a572b3ba26893f461c3d69341c">
+        <dex dex="H:\Users\haily\Desktop\fancaiProject-master\fancaiProject-master\app\build\intermediates\pre-dexed\release\classes_945e54c6dfef2c804974e846aca0d437bf3732ac.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\Users\haily\Desktop\fancaiProject-master\fancaiProject-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14b929d8a0ea1607efa70c677f43012278db555b">
+        <dex dex="H:\Users\haily\Desktop\fancaiProject-master\fancaiProject-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a5cb032b4024505e6e7865e2aea5fb81329ad127\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\Users\haily\.android\build-cache\c7b9d8deed068509b24da0303e8a556cb3f9f912\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="H:\Users\haily\Desktop\fancaiProject-master\fancaiProject-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2ee393395460145f1716282fb9e2bf09091c658f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Users\haily\Desktop\fancaiProject-master\fancaiProject-master\androidbase\build\intermediates\bundles\default\libs\sun.misc.BASE64Decoder.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2ce82c44dff33530a6399041e5bea62f2a679452">
+        <dex dex="H:\Users\haily\Desktop\fancaiProject-master\fancaiProject-master\app\build\intermediates\pre-dexed\release\sun.misc.BASE64Decoder_cd53600306a8edbcf124daca28f2de9a7fb58e12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Users\haily\Desktop\fancaiProject-master\fancaiProject-master\catloadinglibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e077222441abf57b3d54dc7566b9e5d9e9788d1">
+        <dex dex="H:\Users\haily\Desktop\fancaiProject-master\fancaiProject-master\app\build\intermediates\pre-dexed\release\classes_8018cca0ab8405acdf3255b190fde090920fe85d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\Users\haily\Desktop\fancaiProject-master\fancaiProject-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="H:\Users\haily\Desktop\fancaiProject-master\fancaiProject-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3090612bca89c243cb06cb0ce85fa9f419d7d62a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\Users\haily\Desktop\fancaiProject-master\fancaiProject-master\androidbase\build\intermediates\bundles\default\libs\sun.misc.BASE64Decoder.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2ce82c44dff33530a6399041e5bea62f2a679452">
+        <dex dex="H:\Users\haily\Desktop\fancaiProject-master\fancaiProject-master\app\build\intermediates\transforms\dex\debug\folders\1000\8\sun.misc.BASE64Decoder_cd53600306a8edbcf124daca28f2de9a7fb58e12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\Users\haily\Desktop\fancaiProject-master\fancaiProject-master\androidbase\build\intermediates\bundles\default\libs\universal-image-loader-1.9.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2ef539b6c1a74f529257e59434795e782a5ae40a">
+        <dex dex="H:\Users\haily\Desktop\fancaiProject-master\fancaiProject-master\app\build\intermediates\transforms\dex\debug\folders\1000\8\universal-image-loader-1.9.4_daa62fce4ab708f79a7e4cfa28d637dcbd62f113\classes.dex" />
+    </item>
+
+</items>

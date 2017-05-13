@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="buyAddress">收货地址</string>
+    <string name="default_address">默认地址</string>
+    <string name="delivery_time">送货时间</string>
+    <string name="time">12 : 00</string>
+    <string name="notifyTitle">提示</string>
+    <string name="notifyMsg">当前应用缺少必要权限。\\n\\n请点击\\\"设置\\\"-\\\"权限\\\"-打开所需权限。</string>
+    <string name="inputshequ">请输入社区名</string>
+</resources>

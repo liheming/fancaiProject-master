@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.suctan.huigang"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="25" />
+
+    <!-- Required  一些系统要求的权限，如访问网络等 -->
+    <uses-permission android:name="android.permission.RECEIVE_USER_PRESENT" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <!-- Optional for location -->
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS" />
+    <!-- 这个权限用于进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <!-- 这个权限用于访问GPS定位 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <!-- 用于访问wifi网络信息，wifi信息会用于进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!-- 获取运营商信息，用于支持提供运营商信息相关的接口 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 用于读取手机当前的状态 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!-- 写入扩展存储，向扩展卡写入数据，用于写入离线定位数据 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+
+    <!-- 调用手机相册 -->
+    <uses-permission android:name="android.permission.MANAGE_DOCUMENTS" />
+
+    <!-- Normal Permissions 不需要运行时注册 -->
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+
+    <!-- 请求网络 -->
+
+
+    <!-- 需要运行时注册的权限 -->
+
+
+    <!-- 3.2.0版本增加 -->
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <!-- 3.2.0版本增加 -->
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:name="com.suctan.huigang.acache.HuiGangApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+
+        <!-- 设置key -->
+        <meta-data
+            android:name="com.amap.api.v2.apikey"
+            android:value="288defbfdd87bf5dd63d671cf0b2fa5b" />
+
+        <service android:name="com.amap.api.location.APSService" >
+        </service>
+        <!-- " -->
+        <activity
+            android:name="com.suctan.huigang.activity.login.LoginActivity"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.suctan.huigang.activity.MainActivity"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.Home_Page.HomeActivity"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.search.SearchActivity"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.recommend.RecommendActivity"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.do_want.DoWant"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.want.Want"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.share.ServiceList"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.share.ReleaseService"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.circle.PostRelease"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.circle.CirclePostDetails"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.circle.NoticeDetail"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.circle.MoreNotice"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.share.ServiceDetail"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+
+        <!-- 我的页面中的注册文件 -->
+        <activity
+            android:name="com.suctan.huigang.activity.search.Search_Result"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.myself.SettingActivity"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+
+        <!-- 用户信息设置 -->
+        <activity
+            android:name="com.suctan.huigang.activity.setting.SeetingFogetPwd"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.setting.SeetingUserAge"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.setting.SeetingUserDegree"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.setting.SeetingUserHoppy"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.setting.SeetingUserKnowArea"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.setting.SeetingUserName"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.setting.SeetingUserSex"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.setting.SeetingVeriatyBody"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+
+        <!-- 我的页面中的注册文件 -->
+        <activity
+            android:name="com.suctan.huigang.activity.address.addressActivity"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.order.BuyActivity"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.order.SellActivity"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.myself.MymoneyActivity"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.myself.MydiscountAcitity"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.myself.MykitchenActity"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.myself.WaitOrdersActivity"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.myself.WaitfoodActitity"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.myself.WaitassessActivity"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.myself.WaitrealActivity"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.myself.release_todayfood_Activiity"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.myself.release_new_todayfoodActivity"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.myself.WithdarwasActivity"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:launchMode="singleTask"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.myself.incaseActivity"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:launchMode="singleTask"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.myself.foobBookActivity"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.address.address_listitemActivity"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.screen_Activity"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.myself.my_assess"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.password.PasswordActivity"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.signup.signupActivity"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.eatfood.EatFoodDetail"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.do_want.DoWantOrderDetatil"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.cart.ShoppingCart"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.myself.Already_release_today_foodActivity"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.order.BuyOrderDetailActivity"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.order.SellOrderDetailActivity"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.order.BuyOrderPublicComment"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.order.SellOrderPublicComment"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.order.SellOrderAublicComment"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.order.BuyOrderAublicComment"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.suctan.huigang.activity.ShopMap"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="com.suctan.huigang.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

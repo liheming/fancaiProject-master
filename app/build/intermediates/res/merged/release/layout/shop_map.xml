@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <EditText
+            android:inputType="text"
+            android:hint="请输入你的社区名"
+            android:id="@+id/edit_query"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <Button
+            android:textColor="#fff"
+            android:background="@drawable/set_btn_sign_up_bg"
+            android:id="@+id/searchMap"
+            android:text="确定"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+    <TextView
+        android:textColor="#ff0000"
+        android:textSize="15sp"
+        android:text="请在下方地图选择一个点作为你的位置,不选择就是以默认定位为准噢！"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <com.amap.api.maps.MapView
+        android:id="@+id/map"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+    </com.amap.api.maps.MapView>
+
+</LinearLayout>

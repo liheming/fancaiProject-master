@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+    <!--<LinearLayout
+        style="@style/tab_title"
+        android:gravity="center"
+        android:orientation="horizontal" >
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="6"
+            android:gravity="center"
+            android:text="圈子"
+            style="@style/title_font" />
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/share_fb"
+            android:background="#00000000"
+            style="@style/title_font"
+            android:textSize="16sp"
+            android:id="@+id/circle_fb"/>
+    </LinearLayout>-->
+
+    <TextView
+        style="@style/tv_paoma"
+        android:text="关于享享我好吗App上线的最新消息通知，下载后就能在校区内使用" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/my_kitchen_bg" />
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/swipe_circle"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <GridView
+            android:id="@+id/gridViewCircle"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:horizontalSpacing="10dp"
+            android:numColumns="1"
+            android:verticalSpacing="10dp" />
+    </android.support.v4.widget.SwipeRefreshLayout>
+</LinearLayout>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="#9db830"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+
+        <ImageView
+            android:id="@+id/imv_chang_back"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_gravity="left|center_vertical"
+            android:layout_marginLeft="1dp"
+            android:src="@mipmap/return_128" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="45sp"
+            android:layout_marginRight="25dp"
+            android:gravity="center"
+            android:text="@string/modf_age"
+            android:textColor="#fff"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <LinearLayout style="@style/mid_layout">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/text_clo"
+                android:textSize="18sp"
+                android:text="@string/age"/>
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RadioGroup
+                android:id="@+id/ragp_change_age"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:orientation="vertical"
+
+                >
+
+                <RadioButton
+                    android:id="@+id/rab_aftZero"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:button="@drawable/radio"
+                    android:paddingLeft="10dp"
+                    android:text="@string/age_00"
+                    android:layout_marginBottom="5dp"
+                    android:textSize="18dp" />
+
+                <RadioButton
+                    android:id="@+id/rab_aftNight"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:button="@drawable/radio"
+                    android:paddingLeft="10dp"
+                    android:text="@string/age_90"
+                    android:layout_marginBottom="5dp"
+                    android:textSize="18dp" />
+
+                <RadioButton
+                    android:id="@+id/rab_aftEight"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:button="@drawable/radio"
+                    android:paddingLeft="10dp"
+                    android:text="@string/age_80"
+                    android:layout_marginBottom="5dp"
+                    android:textSize="18dp" />
+
+                <RadioButton
+                    android:id="@+id/rab_aftseven"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:button="@drawable/radio"
+                    android:paddingLeft="10dp"
+                    android:text="@string/age_70"
+                    android:layout_marginBottom="5dp"
+                    android:textSize="17dp" />
+
+                <RadioButton
+                    android:id="@+id/rab_aftOther"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:button="@drawable/radio"
+                    android:paddingLeft="10dp"
+                    android:text="@string/age_other"
+                    android:layout_marginBottom="5dp"
+                    android:textSize="18dp" />
+
+
+            </RadioGroup>
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="40dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_changeAge_comfirm"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@drawable/real_button_selector"
+                android:text="确认"
+                style="@style/title_font"/>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,7 @@
+#Thu May 11 10:43:46 CST 2017
+base.0=H\:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=H\:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex
+base.1=H\:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+file.0=H\:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes2.dex

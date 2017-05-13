@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="#9db830"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+
+        <ImageView
+            android:id="@+id/sell_back"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_centerVertical="true"
+            android:layout_gravity="left|center_vertical"
+            android:layout_marginLeft="1dp"
+            android:src="@mipmap/return_128" />
+
+        <com.sevenheaven.segmentcontrol.SegmentControl xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/segment_sellOrder_sort"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:textSize="18sp"
+            app:block_direction="horizon"
+            app:cornerRadius="5dp"
+            app:horizonGap="10dp"
+            app:normalColor="@color/green"
+            app:selectedColor="@color/bg_gray"
+            app:separatorWidth="2dp"
+            app:texts="接单|卖出"
+            app:verticalGap="10dp" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:baselineAligned="false"
+            android:orientation="horizontal">
+
+            <!--全部-->
+            <LinearLayout
+                android:id="@+id/llmysell_all"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/tvmysell_all"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="全部"
+                    android:textColor="#FF9db830"
+                    android:textSize="16dp" />
+            </LinearLayout>
+
+
+            <!--待同意-->
+            <LinearLayout
+                android:id="@+id/llmysell_dty"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/tvmysell_dty"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="待同意"
+                    android:textSize="16dp" />
+            </LinearLayout>
+
+            <!--进行中-->
+            <LinearLayout
+                android:id="@+id/llmysell_jxz"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/tvmysell_jxz"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="进行中"
+                    android:textSize="16dp" />
+            </LinearLayout>
+
+            <!--已完成-->
+            <LinearLayout
+                android:id="@+id/llmysell_ywc"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/tvmysell_ywc"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/my_sell_old"
+                    android:textSize="16dp" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/sell_viewPagep"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/sell_viewPageA"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone" />
+</LinearLayout>

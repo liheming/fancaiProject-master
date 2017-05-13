@@ -1,0 +1,4 @@
+#Thu May 11 11:14:00 CST 2017
+base.0=H\:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=H\:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

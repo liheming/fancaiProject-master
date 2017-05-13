@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\eeb5eec8622beaa00e8d47091b30416a703403dc\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\eeb5eec8622beaa00e8d47091b30416a703403dc\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_media.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\include_pickerview_topbar.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\33047460074c86d09121991ff50e3d70ff3014ca\\output\\res\\layout\\include_pickerview_topbar.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\waitdialog.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\bundles\\debug\\res\\layout\\waitdialog.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\info_toast_layout.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\bundles\\debug\\res\\layout\\info_toast_layout.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pickerview_time.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\33047460074c86d09121991ff50e3d70ff3014ca\\output\\res\\layout\\pickerview_time.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\eeb5eec8622beaa00e8d47091b30416a703403dc\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_item.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\eeb5eec8622beaa00e8d47091b30416a703403dc\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\error_toast_layout.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\bundles\\debug\\res\\layout\\error_toast_layout.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_simple.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_search_view.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_time.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\eeb5eec8622beaa00e8d47091b30416a703403dc\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_action.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_menu.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\eeb5eec8622beaa00e8d47091b30416a703403dc\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\eeb5eec8622beaa00e8d47091b30416a703403dc\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\default_toast_layout.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\bundles\\debug\\res\\layout\\default_toast_layout.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pickerview_options.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\33047460074c86d09121991ff50e3d70ff3014ca\\output\\res\\layout\\pickerview_options.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\eeb5eec8622beaa00e8d47091b30416a703403dc\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\success_toast_layout.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\bundles\\debug\\res\\layout\\success_toast_layout.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\popup_bubble.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\27a86f46da703c48808406a82bb689ca44a6f5ef\\output\\res\\layout\\popup_bubble.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\eeb5eec8622beaa00e8d47091b30416a703403dc\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\eeb5eec8622beaa00e8d47091b30416a703403dc\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_media_action.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\eeb5eec8622beaa00e8d47091b30416a703403dc\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_basepickerview.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\33047460074c86d09121991ff50e3d70ff3014ca\\output\\res\\layout\\layout_basepickerview.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\eeb5eec8622beaa00e8d47091b30416a703403dc\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\popup_base.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\27a86f46da703c48808406a82bb689ca44a6f5ef\\output\\res\\layout\\popup_base.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\eeb5eec8622beaa00e8d47091b30416a703403dc\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\eeb5eec8622beaa00e8d47091b30416a703403dc\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\include_viewpager.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\301535371a6eaedd416b5e79c4ba4d6ecf5da78b\\output\\res\\layout\\include_viewpager.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\warning_toast_layout.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\bundles\\debug\\res\\layout\\warning_toast_layout.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\b7dd26386b15afefd0320c0f2ac06948d9ee9b15\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    }
+]

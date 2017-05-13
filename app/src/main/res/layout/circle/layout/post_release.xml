@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        style="@style/tab_title"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/post_back"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#00000000"
+            android:src="@mipmap/back_white" />
+
+        <TextView
+            style="@style/title_font"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="6"
+            android:gravity="center"
+            android:text="@string/fb_title" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/bg_gray"
+        android:orientation="vertical"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/two_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/p_title" />
+
+            <EditText
+                android:id="@+id/post_title"
+                style="@style/two_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:maxLength="15" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/line_gray" />
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/post_content"
+        style="@style/text_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="1"
+        android:background="@android:drawable/editbox_background_normal"
+        android:enabled="true"
+        android:gravity="top"
+        android:hint="内容"
+        android:inputType="textMultiLine"
+        android:lineSpacingMultiplier="1.2"
+        android:paddingTop="10dp"
+        android:scrollbars="vertical"
+        android:windowSoftInputMode="adjustResize"></EditText>
+
+
+    <LinearLayout
+        android:id="@+id/pic_ly"
+        android:layout_width="match_parent"
+        android:layout_height="95dp"
+        android:layout_marginBottom="15dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        android:paddingLeft="13dp">
+
+        <FrameLayout
+            android:id="@+id/img_layout"
+            android:layout_width="95dp"
+            android:layout_height="95dp">
+
+            <ImageButton
+                android:id="@+id/select_img"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_gravity="bottom"
+                android:background="#00000000"
+                android:scaleType="centerCrop"
+                android:src="@mipmap/upload_img" />
+
+            <ImageButton
+                android:id="@+id/delete_img"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_gravity="right"
+                android:background="#00000000"
+                android:scaleType="fitXY"
+                android:src="@mipmap/delete_img"
+                android:visibility="gone" />
+        </FrameLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/tab_title"
+        android:background="#00000000"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/post_fb"
+            style="@style/title_font"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:background="@color/green"
+            android:gravity="center"
+            android:text="@string/share_fb" />
+    </LinearLayout>
+</LinearLayout>

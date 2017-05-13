@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="bga-badgeview-1.1.2">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/f879d30a1bc61998a373f56e385171a7fd9f87c2/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/f879d30a1bc61998a373f56e385171a7fd9f87c2/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.bingoogolapple/bga-badgeview/1.1.2/fcf8c556ff46b09276040477038b8c2226f93af1/bga-badgeview-1.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

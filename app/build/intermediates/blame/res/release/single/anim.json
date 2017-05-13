@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\pop_enter_anim.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\anim\\pop_enter_anim.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\eeb5eec8622beaa00e8d47091b30416a703403dc\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\push_left_in.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\bundles\\default\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_in.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\eeb5eec8622beaa00e8d47091b30416a703403dc\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\29a72737f81337e27e952ca1eab913d7486547c7\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\29a72737f81337e27e952ca1eab913d7486547c7\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\pop_exit_anim.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\anim\\pop_exit_anim.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\pop_enter.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\layout\\home\\anim\\pop_enter.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_out.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\eeb5eec8622beaa00e8d47091b30416a703403dc\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\push_right_out.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\bundles\\default\\res\\anim\\push_right_out.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_in.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\eeb5eec8622beaa00e8d47091b30416a703403dc\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\29a72737f81337e27e952ca1eab913d7486547c7\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\29a72737f81337e27e952ca1eab913d7486547c7\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\pop_exit.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\layout\\home\\anim\\pop_exit.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\29a72737f81337e27e952ca1eab913d7486547c7\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_bottom.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\33047460074c86d09121991ff50e3d70ff3014ca\\output\\res\\anim\\slide_out_bottom.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_bottom.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\33047460074c86d09121991ff50e3d70ff3014ca\\output\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\29a72737f81337e27e952ca1eab913d7486547c7\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\29a72737f81337e27e952ca1eab913d7486547c7\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\29a72737f81337e27e952ca1eab913d7486547c7\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\eeb5eec8622beaa00e8d47091b30416a703403dc\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_out.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\eeb5eec8622beaa00e8d47091b30416a703403dc\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\dialog_load_animation.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\anim\\dialog_load_animation.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\push_left_out.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\bundles\\default\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\push_right_in.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\bundles\\default\\res\\anim\\push_right_in.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\29a72737f81337e27e952ca1eab913d7486547c7\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "H:\\Users\\haily\\.android\\build-cache\\29a72737f81337e27e952ca1eab913d7486547c7\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    }
+]

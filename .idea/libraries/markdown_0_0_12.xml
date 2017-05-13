@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="markdown-0.0.12">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/0718d524c1b42edd9735cdb41cd20520c8092a9e/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/0718d524c1b42edd9735cdb41cd20520c8092a9e/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zzhoujay.markdown/markdown/0.0.12/64ad0b8884f3e6ef4120bf545559d2b1617681b6/markdown-0.0.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

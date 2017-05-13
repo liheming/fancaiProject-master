@@ -1,0 +1,7 @@
+#Sat May 13 14:32:36 CST 2017
+base.0=H\:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a5cb032b4024505e6e7865e2aea5fb81329ad127
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=H\:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3090612bca89c243cb06cb0ce85fa9f419d7d62a\\classes.dex
+base.1=H\:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3090612bca89c243cb06cb0ce85fa9f419d7d62a
+file.0=H\:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a5cb032b4024505e6e7865e2aea5fb81329ad127\\classes.dex

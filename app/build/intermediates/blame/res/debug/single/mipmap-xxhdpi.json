@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\sell_32.png",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\mipmap-xxhdpi\\sell_32.png"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\my_wait_list_32.png",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\mipmap-xxhdpi\\my_wait_list_32.png"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\arrow_left.png",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\mipmap-xxhdpi\\arrow_left.png"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\address_32.png",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\mipmap-xxhdpi\\address_32.png"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\radiobutton_select.png",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\mipmap-xxhdpi\\radiobutton_select.png"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\placeholder.png",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\mipmap-xxhdpi\\placeholder.png"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\my_wait_assess_32.png",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\mipmap-xxhdpi\\my_wait_assess_32.png"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\my_wait_room_32.png",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\mipmap-xxhdpi\\my_wait_room_32.png"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\buy_32.png",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\mipmap-xxhdpi\\buy_32.png"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\coupon_32.png",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\mipmap-xxhdpi\\coupon_32.png"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\money_32.png",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\mipmap-xxhdpi\\money_32.png"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\my_wait_confirm_32.png",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\mipmap-xxhdpi\\my_wait_confirm_32.png"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\my_setting_32.png",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\mipmap-xxhdpi\\my_setting_32.png"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\user.png",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\mipmap-xxhdpi\\user.png"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\my_wait_transparent_bar.png",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\mipmap-xxhdpi\\my_wait_transparent_bar.png"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\evaluate_32.png",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\mipmap-xxhdpi\\evaluate_32.png"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\radiobutton_unselected.png",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\mipmap-xxhdpi\\radiobutton_unselected.png"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\cook_32.png",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\mipmap-xxhdpi\\cook_32.png"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\mallet_money.png",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\mipmap-xxhdpi\\mallet_money.png"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    }
+]

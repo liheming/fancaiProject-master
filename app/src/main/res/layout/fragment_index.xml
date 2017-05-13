@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/common_swipe_fresh_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="180dp">
+
+            <com.jude.rollviewpager.RollPagerView
+                android:id="@+id/rollViewpager"
+                rollviewpager_play_delay="3000"
+                android:layout_width="match_parent"
+                android:layout_height="180dp" />
+        </FrameLayout>
+
+        <RadioGroup
+            android:id="@+id/tab_rg_menu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:orientation="horizontal">
+
+            <cn.bingoogolapple.badgeview.BGABadgeRadioButton
+                android:id="@+id/tab_index"
+                style="@style/tab_rb_style"
+                android:checked="false"
+                android:drawableTop="@drawable/selector_tab_com"
+                android:text="@string/tab_recommend" />
+
+            <cn.bingoogolapple.badgeview.BGABadgeRadioButton
+                android:id="@+id/tab_want"
+                style="@style/tab_rb_style"
+                android:checked="false"
+                android:drawableTop="@drawable/selector_tab_want_com"
+                android:text="@string/tab_want" />
+
+            <cn.bingoogolapple.badgeview.BGABadgeRadioButton
+                android:id="@+id/tab_do"
+                style="@style/tab_rb_style"
+                android:checked="false"
+                android:drawableTop="@drawable/selector_tab_do_com"
+                android:text="@string/tab_do" />
+
+        </RadioGroup>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@color/background"
+            android:orientation="horizontal"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:gravity="center">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:gravity="center">
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/my_food_mark"
+                    android:layout_gravity="center" />
+                <TextView
+                    android:id="@+id/recommend_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:text="菜品推荐"
+                    style="@style/text_main"/>
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:layout_alignParentRight="true"
+                android:gravity="center">
+                <TextView
+                    android:id="@+id/more_texts"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="更多"
+                    android:layout_centerVertical="true" />
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:src="@mipmap/more_gray"/>
+            </LinearLayout>
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@color/background"
+            android:orientation="vertical"
+            android:paddingBottom="5dp"
+            android:paddingLeft="12dp"
+            android:paddingRight="12dp"
+            android:paddingTop="5dp">
+
+            <GridView
+                android:id="@+id/gridview"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:horizontalSpacing="10dp"
+                android:numColumns="2"
+                android:verticalSpacing="10dp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</android.support.v4.widget.SwipeRefreshLayout>
