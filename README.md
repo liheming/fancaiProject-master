@@ -6,4 +6,4 @@
 下班后的生活问题，也解决了老年人独处的时间问题，实现共赢。我们的APP不仅可以共享
 妈妈们做的菜，还拓展了很多其他功能，比如：邻里间帮收快递、帮接送小孩、上下班互搭
 顺风车等等，既方便了邻居们的生活，还为促进邻里间的交流搭建了重要桥梁。
-![Image text](https://raw.github.com/yourName/repositpry/master/fancaiProject-master/img/share.png)
+![Image text](https://github.com/liheming/fancaiProject-master/blob/master/img/share.png)
