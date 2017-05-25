@@ -821,6 +821,7 @@
     <string name="recommend">今日推荐</string>
     <string name="release">发布</string>
     <string name="remain">还剩</string>
+    <string name="rememberPass">记住密码</string>
     <string name="same_food_from_one">同厨房美食</string>
     <string name="search_menu_title">Search</string>
     <string name="select_qw_time">请选择期待完成时间</string>
@@ -2451,6 +2452,13 @@
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:src">@mipmap/more_gray</item>
+    </style>
+    <style name="loading_dialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/dialog_load_bg</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
     </style>
     <style name="mid_layout" parent="base_layout">
         <item name="android:background">@drawable/mid_layout_selector</item>

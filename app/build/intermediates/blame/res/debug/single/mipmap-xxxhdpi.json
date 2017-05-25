@@ -20,6 +20,10 @@
         "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\coupon_32.png"
     },
     {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\logo.png",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo.png"
+    },
+    {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
         "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },

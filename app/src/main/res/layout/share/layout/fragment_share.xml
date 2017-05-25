@@ -102,7 +102,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:scaleType="centerCrop"
-            android:src="@mipmap/bj" />
+            android:src="@drawable/share_02" />
     </LinearLayout>
 
     <LinearLayout
@@ -115,7 +115,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:scaleType="centerCrop"
-            android:src="@mipmap/my_kitchen_bg" />
+            android:src="@drawable/share_01" />
     </LinearLayout>
 
 </LinearLayout>

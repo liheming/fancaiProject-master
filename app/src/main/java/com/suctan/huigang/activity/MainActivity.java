@@ -20,13 +20,9 @@ import com.amap.api.location.AMapLocationListener;
 import com.amap.api.maps.AMapUtils;
 import com.amap.api.maps.model.LatLng;
 import com.example.androidbase.ActivityTask;
-import com.example.androidbase.BaseActivity;
-import com.example.androidbase.mvp.BasePresenter;
 import com.example.androidbase.mvp.MvpActivity;
-import com.example.androidbase.utils.ToastTool;
 import com.jaeger.library.StatusBarUtil;
 import com.suctan.huigang.R;
-import com.suctan.huigang.acache.CurrentUser;
 import com.suctan.huigang.acache.TokenManager;
 import com.suctan.huigang.activity.circle.PostRelease;
 import com.suctan.huigang.activity.search.SearchActivity;
@@ -90,7 +86,8 @@ public class MainActivity extends MvpActivity<LocationPresenter> implements Loca
         setContentView(R.layout.activity_main);
         StatusBarUtil.setColor(this, getResources().getColor(R.color.colorPrimary), 0);
         ActivityTask.getInstanse().addActivity(this);//添加进栈
-        ToastTool.showToast(TokenManager.getToken(), 2);
+        Log.i(TAG, "onCreate: token是"+TokenManager.getToken());
+//        ToastTool.showToast(TokenManager.getToken(), 2);
         System.out.println("token是：" + TokenManager.getToken() + "user是电话号码是");
 //        getIntentData();
         initBarStatus();//初始化状态栏
@@ -362,7 +359,8 @@ public class MainActivity extends MvpActivity<LocationPresenter> implements Loca
 
     @Override
     public void LocationReturn(String msg , int status) {
-        ToastTool.showToast(msg , status);
+        Log.i(TAG, "LocationReturn: "+status+msg);
+//        ToastTool.showToast(msg , status);
 
     }
 }

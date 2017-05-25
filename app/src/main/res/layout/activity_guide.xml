@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_guide"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp_guide"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+    </android.support.v4.view.ViewPager>
+
+<ImageButton
+    android:background="@drawable/come"
+    android:id="@+id/tv_liji"
+    android:layout_gravity="bottom|center"
+    android:padding="10dp"
+    android:layout_marginBottom="60dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" />
+    <!--
+         <Button
+        android:id="@+id/bt_guide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="63dp"
+        android:background="@drawable/guide_button_selector"
+        android:text="Button"
+        android:textColor="@drawable/guide_textcolor_selector"
+        android:visibility="invisible" />
+    -->
+
+
+    <LinearLayout
+        android:id="@+id/ll_guide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center"
+        android:layout_marginBottom="26dp"
+        android:orientation="horizontal" >
+    </LinearLayout>
+
+</FrameLayout>

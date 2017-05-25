@@ -312,12 +312,12 @@
         "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\layout\\circle\\layout\\circle_notice_item.xml"
     },
     {
-        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_kitchen_release.xml",
-        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\layout\\my\\layout\\my_kitchen_release.xml"
-    },
-    {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\address_manager.xml",
         "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\layout\\my\\layout\\address_manager.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_kitchen_release.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\layout\\my\\layout\\my_kitchen_release.xml"
     },
     {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
@@ -412,6 +412,10 @@
         "source": "H:\\Users\\haily\\.android\\build-cache\\33047460074c86d09121991ff50e3d70ff3014ca\\output\\res\\layout\\pickerview_options.xml"
     },
     {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_popupwindow.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\layout\\layout_popupwindow.xml"
+    },
+    {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dialog.xml",
         "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\layout\\home\\layout\\activity_dialog.xml"
     },
@@ -482,6 +486,10 @@
     {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\firsts_fragment.xml",
         "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\layout\\my\\layout\\firsts_fragment.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\layout\\activity_guide.xml"
     },
     {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\already_release_today_food.xml",
@@ -586,6 +594,10 @@
     {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
         "source": "H:\\Users\\haily\\.android\\build-cache\\29a72737f81337e27e952ca1eab913d7486547c7\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\take_photo_pop.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\layout\\take_photo_pop.xml"
     },
     {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
@@ -756,12 +768,20 @@
         "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\layout\\my\\layout\\recommend_cancelorder_list.xml"
     },
     {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\service_release.xml",
         "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\layout\\share\\layout\\service_release.xml"
     },
     {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\release_service_ywc.xml",
         "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\layout\\my\\layout\\release_service_ywc.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading_dialog.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\layout\\loading_dialog.xml"
     },
     {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pulldown.xml",

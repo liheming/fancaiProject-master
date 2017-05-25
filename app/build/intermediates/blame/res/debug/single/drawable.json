@@ -12,12 +12,20 @@
         "source": "H:\\Users\\haily\\.android\\build-cache\\29a72737f81337e27e952ca1eab913d7486547c7\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\two.png",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\two.png"
+    },
+    {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tab_com.xml",
         "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\selector_tab_com.xml"
     },
     {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popup_window_transparent.xml",
         "source": "H:\\Users\\haily\\.android\\build-cache\\4e58c2dd373b44c613f799695c0b729a8760e0a1\\output\\res\\drawable\\popup_window_transparent.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\guide_textcolor_selector.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\guide_textcolor_selector.xml"
     },
     {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\set_btn_sign_up_bg.xml",
@@ -60,6 +68,10 @@
         "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\icon_tanchuang_tanhao.png"
     },
     {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\four.png",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\four.png"
+    },
+    {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
         "source": "H:\\Users\\haily\\.android\\build-cache\\29a72737f81337e27e952ca1eab913d7486547c7\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
@@ -84,8 +96,16 @@
         "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\bundles\\default\\res\\drawable\\error_toast.xml"
     },
     {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_load_bg.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\dialog_load_bg.xml"
+    },
+    {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_check_bg.xml",
         "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\androidbase\\build\\intermediates\\bundles\\default\\res\\drawable\\item_check_bg.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_normal.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\bg_edittext_normal.xml"
     },
     {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_style.xml",
@@ -132,6 +152,10 @@
         "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\shape_timepick_comfirm.xml"
     },
     {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\community_01.jpg",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\community_01.jpg"
+    },
+    {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_shape.xml",
         "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\textview_shape.xml"
     },
@@ -140,20 +164,28 @@
         "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\cancle_edittext_shape.xml"
     },
     {
-        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_edt_bg.xml",
-        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\shape_edt_bg.xml"
-    },
-    {
-        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\real_button_unselect.xml",
-        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\real_button_unselect.xml"
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_01.jpg",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\share_01.jpg"
     },
     {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\select_imv_myselft.xml",
         "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\select_imv_myselft.xml"
     },
     {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\real_button_unselect.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\real_button_unselect.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_edt_bg.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\shape_edt_bg.xml"
+    },
+    {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textviewstyle_circular.xml",
         "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\textviewstyle_circular.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.jpg",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\splash.jpg"
     },
     {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
@@ -164,20 +196,28 @@
         "source": "H:\\Users\\haily\\.android\\build-cache\\eeb5eec8622beaa00e8d47091b30416a703403dc\\output\\res\\drawable\\design_ic_visibility.xml"
     },
     {
-        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_head_dialog.xml",
-        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\shape_head_dialog.xml"
-    },
-    {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
         "source": "H:\\Users\\haily\\.android\\build-cache\\29a72737f81337e27e952ca1eab913d7486547c7\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_head_dialog.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\shape_head_dialog.xml"
     },
     {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dot_selected.xml",
         "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\dot_selected.xml"
     },
     {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green_pressed9.png",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\btn_green_pressed9.png"
+    },
+    {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
         "source": "H:\\Users\\haily\\.android\\build-cache\\29a72737f81337e27e952ca1eab913d7486547c7\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\three.png",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\three.png"
     },
     {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\warning_toast.xml",
@@ -190,6 +230,10 @@
     {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
         "source": "H:\\Users\\haily\\.android\\build-cache\\eeb5eec8622beaa00e8d47091b30416a703403dc\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\come.png",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\come.png"
     },
     {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.xml",
@@ -212,12 +256,24 @@
         "source": "H:\\Users\\haily\\.android\\build-cache\\29a72737f81337e27e952ca1eab913d7486547c7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yuancha.png",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\yuancha.png"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green_normal9.png",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\btn_green_normal9.png"
+    },
+    {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
         "source": "H:\\Users\\haily\\.android\\build-cache\\29a72737f81337e27e952ca1eab913d7486547c7\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selector_checked_bg.xml",
         "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\tab_selector_checked_bg.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\move_point_shape.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\move_point_shape.xml"
     },
     {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_border_g.xml",
@@ -266,6 +322,10 @@
     {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
         "source": "H:\\Users\\haily\\.android\\build-cache\\29a72737f81337e27e952ca1eab913d7486547c7\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\guide_button_selector.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\guide_button_selector.xml"
     },
     {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_text_stock.xml",
@@ -360,6 +420,14 @@
         "source": "H:\\Users\\haily\\.android\\build-cache\\29a72737f81337e27e952ca1eab913d7486547c7\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\bg_edittext.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_focused.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\bg_edittext_focused.xml"
+    },
+    {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_popupwin_shape.xml",
         "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\button_popupwin_shape.xml"
     },
@@ -370,6 +438,10 @@
     {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_box_gray.xml",
         "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\bg_box_gray.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\one.png",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\one.png"
     },
     {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tab_want_com.xml",
@@ -406,6 +478,14 @@
     {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\single_select.xml",
         "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\single_select.xml"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_02.jpg",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\share_02.jpg"
+    },
+    {
+        "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\guide_point_shape.xml",
+        "source": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\src\\main\\res\\drawable\\guide_point_shape.xml"
     },
     {
         "merged": "H:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",

@@ -21,11 +21,11 @@ public class address_listitemActivity$$ViewBinder<T extends address_listitemActi
     protected InnerUnbinder(T target, Finder finder, Object source) {
       this.target = target;
 
-      target.people = finder.findRequiredViewAsType(source, 2131558610, "field 'people'", EditText.class);
-      target.phone = finder.findRequiredViewAsType(source, 2131558611, "field 'phone'", EditText.class);
-      target.Area = finder.findRequiredViewAsType(source, 2131558612, "field 'Area'", EditText.class);
-      target.Community = finder.findRequiredViewAsType(source, 2131558613, "field 'Community'", EditText.class);
-      target.AllAera = finder.findRequiredViewAsType(source, 2131558614, "field 'AllAera'", EditText.class);
+      target.people = finder.findRequiredViewAsType(source, 2131558615, "field 'people'", EditText.class);
+      target.phone = finder.findRequiredViewAsType(source, 2131558616, "field 'phone'", EditText.class);
+      target.Area = finder.findRequiredViewAsType(source, 2131558617, "field 'Area'", EditText.class);
+      target.Community = finder.findRequiredViewAsType(source, 2131558618, "field 'Community'", EditText.class);
+      target.AllAera = finder.findRequiredViewAsType(source, 2131558619, "field 'AllAera'", EditText.class);
     }
 
     @Override

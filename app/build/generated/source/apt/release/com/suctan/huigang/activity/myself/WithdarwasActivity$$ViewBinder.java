@@ -23,10 +23,10 @@ public class WithdarwasActivity$$ViewBinder<T extends WithdarwasActivity> implem
     protected InnerUnbinder(T target, Finder finder, Object source) {
       this.target = target;
 
-      target.btnwitharwals = finder.findRequiredViewAsType(source, 2131559229, "field 'btnwitharwals'", Button.class);
-      target.witharwals = finder.findRequiredViewAsType(source, 2131559226, "field 'witharwals'", EditText.class);
-      target.all_money = finder.findRequiredViewAsType(source, 2131559227, "field 'all_money'", TextView.class);
-      target.select_AllMoney = finder.findRequiredViewAsType(source, 2131559228, "field 'select_AllMoney'", TextView.class);
+      target.btnwitharwals = finder.findRequiredViewAsType(source, 2131559240, "field 'btnwitharwals'", Button.class);
+      target.witharwals = finder.findRequiredViewAsType(source, 2131559237, "field 'witharwals'", EditText.class);
+      target.all_money = finder.findRequiredViewAsType(source, 2131559238, "field 'all_money'", TextView.class);
+      target.select_AllMoney = finder.findRequiredViewAsType(source, 2131559239, "field 'select_AllMoney'", TextView.class);
     }
 
     @Override

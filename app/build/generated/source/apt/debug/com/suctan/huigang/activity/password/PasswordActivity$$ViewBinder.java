@@ -23,11 +23,11 @@ public class PasswordActivity$$ViewBinder<T extends PasswordActivity> implements
     protected InnerUnbinder(T target, Finder finder, Object source) {
       this.target = target;
 
-      target.btn_psw = finder.findRequiredViewAsType(source, 2131558591, "field 'btn_psw'", Button.class);
-      target.Pswedit_phone = finder.findRequiredViewAsType(source, 2131558588, "field 'Pswedit_phone'", EditText.class);
-      target.pswedit_old = finder.findRequiredViewAsType(source, 2131558589, "field 'pswedit_old'", EditText.class);
-      target.pswedit_new = finder.findRequiredViewAsType(source, 2131558590, "field 'pswedit_new'", EditText.class);
-      target.psw_back = finder.findRequiredViewAsType(source, 2131558587, "field 'psw_back'", ImageView.class);
+      target.btn_psw = finder.findRequiredViewAsType(source, 2131558595, "field 'btn_psw'", Button.class);
+      target.Pswedit_phone = finder.findRequiredViewAsType(source, 2131558592, "field 'Pswedit_phone'", EditText.class);
+      target.pswedit_old = finder.findRequiredViewAsType(source, 2131558593, "field 'pswedit_old'", EditText.class);
+      target.pswedit_new = finder.findRequiredViewAsType(source, 2131558594, "field 'pswedit_new'", EditText.class);
+      target.psw_back = finder.findRequiredViewAsType(source, 2131558591, "field 'psw_back'", ImageView.class);
     }
 
     @Override

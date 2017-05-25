@@ -1,5 +1,6 @@
 package com.suctan.huigang.activity.myself;
 
+import android.content.DialogInterface;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.GridView;
@@ -14,6 +15,7 @@ import com.suctan.huigang.bean.user.MykitchenBean;
 import com.suctan.huigang.mvp.login.myChiken.MyAlreadyChikenPresenter;
 import com.suctan.huigang.mvp.login.myChiken.MyAlreadyChikenView;
 import com.suctan.huigang.widget.TipsCancelOrderDialog;
+import com.suctan.huigang.widget.dialog.AlertDialog;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -132,22 +134,51 @@ public class Already_release_today_foodActivity extends MvpActivity<MyAlreadyChi
         mvpPresenter.DownMakeFood(map, mykitchenList.get(position).getOrder_id());
     }
 
-    private void showDownlTip(final int position) {
-        final TipsCancelOrderDialog cancelDialog = new TipsCancelOrderDialog(this);
-        cancelDialog.setTipClickLisener(new TipsCancelOrderDialog.OnTipLisetner() {
-            @Override
-            public void comfirm() {
-                cancelDialog.dismiss();
-                requstDeleteFood(position);
-            }
 
-            @Override
-            public void cancel() {
-                cancelDialog.dismiss();
-            }
-        });
-        cancelDialog.show();
+
+    private AlertDialog mDialog;
+    private void showDownlTip(final int position) {
+
+        AlertDialog.Builder builder = new AlertDialog.Builder(this);
+        builder.setTitle("提示")
+                .setMessage("确定要下架该菜色嘛！")
+                .setTopImage(R.drawable.icon_tanchuang_tanhao)
+                .setNegativeButton("取消", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+                        mDialog.dismiss();
+                    }
+                })
+                .setPositiveButton("确定", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+                        mDialog.dismiss();
+                        requstDeleteFood(position);
+                    }
+                });
+        mDialog = builder.create();
+        mDialog.show();
     }
+
+
+
+
+//    private void showDownlTip(final int position) {
+//        final TipsCancelOrderDialog cancelDialog = new TipsCancelOrderDialog(this);
+//        cancelDialog.setTipClickLisener(new TipsCancelOrderDialog.OnTipLisetner() {
+//            @Override
+//            public void comfirm() {
+//                cancelDialog.dismiss();
+//                requstDeleteFood(position);
+//            }
+//
+//            @Override
+//            public void cancel() {
+//                cancelDialog.dismiss();
+//            }
+//        });
+//        cancelDialog.show();
+//    }
 
     @Override
     public void downMakeOrder(int status, String msg) {

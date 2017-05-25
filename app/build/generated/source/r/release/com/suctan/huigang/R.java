@@ -4241,228 +4241,245 @@ containing a value of this type.
         public static final int background_toast=0x7f020054;
         public static final int bg_black=0x7f020055;
         public static final int bg_box_gray=0x7f020056;
-        public static final int bg_layout_shape=0x7f020057;
-        public static final int bottom_layout_selector=0x7f020058;
-        public static final int bottom_select=0x7f020059;
-        public static final int bottom_unselect=0x7f02005a;
-        public static final int btn_background=0x7f02005b;
-        public static final int btn_circle=0x7f02005c;
-        public static final int buildings=0x7f02005d;
-        public static final int button_popupwin_shape=0x7f02005e;
-        public static final int cancle_edittext_shape=0x7f02005f;
-        public static final int checkbox_style=0x7f020060;
-        public static final int d_aini=0x7f020061;
-        public static final int d_aoteman=0x7f020062;
-        public static final int d_baibai=0x7f020063;
-        public static final int d_beishang=0x7f020064;
-        public static final int d_bishi=0x7f020065;
-        public static final int d_bizui=0x7f020066;
-        public static final int d_chanzui=0x7f020067;
-        public static final int d_chijing=0x7f020068;
-        public static final int d_dahaqi=0x7f020069;
-        public static final int d_dalian=0x7f02006a;
-        public static final int d_ding=0x7f02006b;
-        public static final int d_doge=0x7f02006c;
-        public static final int d_feizao=0x7f02006d;
-        public static final int d_ganmao=0x7f02006e;
-        public static final int d_guzhang=0x7f02006f;
-        public static final int d_haha=0x7f020070;
-        public static final int d_haixiu=0x7f020071;
-        public static final int d_han=0x7f020072;
-        public static final int d_hehe=0x7f020073;
-        public static final int d_heixian=0x7f020074;
-        public static final int d_heng=0x7f020075;
-        public static final int d_huaxin=0x7f020076;
-        public static final int d_jiyan=0x7f020077;
-        public static final int d_keai=0x7f020078;
-        public static final int d_kelian=0x7f020079;
-        public static final int d_ku=0x7f02007a;
-        public static final int d_kun=0x7f02007b;
-        public static final int d_landelini=0x7f02007c;
-        public static final int d_lei=0x7f02007d;
-        public static final int d_madaochenggong=0x7f02007e;
-        public static final int d_miao=0x7f02007f;
-        public static final int d_nanhaier=0x7f020080;
-        public static final int d_nu=0x7f020081;
-        public static final int d_numa=0x7f020082;
-        public static final int d_nvhaier=0x7f020083;
-        public static final int d_qian=0x7f020084;
-        public static final int d_qinqin=0x7f020085;
-        public static final int d_shayan=0x7f020086;
-        public static final int d_shengbing=0x7f020087;
-        public static final int d_shenshou=0x7f020088;
-        public static final int d_shiwang=0x7f020089;
-        public static final int d_shuai=0x7f02008a;
-        public static final int d_shuijiao=0x7f02008b;
-        public static final int d_sikao=0x7f02008c;
-        public static final int d_taikaixin=0x7f02008d;
-        public static final int d_touxiao=0x7f02008e;
-        public static final int d_tu=0x7f02008f;
-        public static final int d_tuzi=0x7f020090;
-        public static final int d_wabishi=0x7f020091;
-        public static final int d_weiqu=0x7f020092;
-        public static final int d_xiaoku=0x7f020093;
-        public static final int d_xiongmao=0x7f020094;
-        public static final int d_xixi=0x7f020095;
-        public static final int d_xu=0x7f020096;
-        public static final int d_yinxian=0x7f020097;
-        public static final int d_yiwen=0x7f020098;
-        public static final int d_youhengheng=0x7f020099;
-        public static final int d_yun=0x7f02009a;
-        public static final int d_zhajipijiu=0x7f02009b;
-        public static final int d_zhuakuang=0x7f02009c;
-        public static final int d_zhutou=0x7f02009d;
-        public static final int d_zuiyou=0x7f02009e;
-        public static final int d_zuohengheng=0x7f02009f;
-        public static final int default_toast=0x7f0200a0;
-        public static final int design_bottom_navigation_item_background=0x7f0200a1;
-        public static final int design_fab_background=0x7f0200a2;
-        public static final int design_ic_visibility=0x7f0200a3;
-        public static final int design_snackbar_background=0x7f0200a4;
-        public static final int dialog_background=0x7f0200a5;
-        public static final int dot_selected=0x7f0200a6;
-        public static final int dot_unselected=0x7f0200a7;
-        public static final int error_toast=0x7f0200a8;
-        public static final int et_shape=0x7f0200a9;
-        public static final int f_geili=0x7f0200aa;
-        public static final int f_hufen=0x7f0200ab;
-        public static final int f_jiong=0x7f0200ac;
-        public static final int f_meng=0x7f0200ad;
-        public static final int f_shenma=0x7f0200ae;
-        public static final int f_v5=0x7f0200af;
-        public static final int f_xi=0x7f0200b0;
-        public static final int f_zhi=0x7f0200b1;
-        public static final int fab_add=0x7f0200b2;
-        public static final int face_delete=0x7f0200b3;
-        public static final int gps_point=0x7f0200b4;
-        public static final int h_buyao=0x7f0200b5;
-        public static final int h_good=0x7f0200b6;
-        public static final int h_haha=0x7f0200b7;
-        public static final int h_lai=0x7f0200b8;
-        public static final int h_ok=0x7f0200b9;
-        public static final int h_quantou=0x7f0200ba;
-        public static final int h_ruo=0x7f0200bb;
-        public static final int h_woshou=0x7f0200bc;
-        public static final int h_ye=0x7f0200bd;
-        public static final int h_zan=0x7f0200be;
-        public static final int h_zuoyi=0x7f0200bf;
-        public static final int ic_evangelist_tip=0x7f0200c0;
-        public static final int icon_tanchuang_tanhao=0x7f0200c1;
-        public static final int icon_tanchuang_wenhao=0x7f0200c2;
-        public static final int indicator_point_nomal=0x7f0200c3;
-        public static final int indicator_point_select=0x7f0200c4;
-        public static final int info_toast=0x7f0200c5;
-        public static final int item_check_bg=0x7f0200c6;
-        public static final int item_check_normal=0x7f0200c7;
-        public static final int item_check_press=0x7f0200c8;
-        public static final int l_shangxin=0x7f0200c9;
-        public static final int l_xin=0x7f0200ca;
-        public static final int mid_layout_selector=0x7f0200cb;
-        public static final int mouse=0x7f0200cc;
-        public static final int navigation_empty_icon=0x7f0200cd;
-        public static final int notification_action_background=0x7f0200ce;
-        public static final int notification_bg=0x7f0200cf;
-        public static final int notification_bg_low=0x7f0200d0;
-        public static final int notification_bg_low_normal=0x7f0200d1;
-        public static final int notification_bg_low_pressed=0x7f0200d2;
-        public static final int notification_bg_normal=0x7f0200d3;
-        public static final int notification_bg_normal_pressed=0x7f0200d4;
-        public static final int notification_icon_background=0x7f0200d5;
-        public static final int notification_template_icon_bg=0x7f020115;
-        public static final int notification_template_icon_low_bg=0x7f020116;
-        public static final int notification_tile_bg=0x7f0200d6;
-        public static final int notify_panel_notification_icon_bg=0x7f0200d7;
-        public static final int o_dangao=0x7f0200d8;
-        public static final int o_feiji=0x7f0200d9;
-        public static final int o_ganbei=0x7f0200da;
-        public static final int o_huatong=0x7f0200db;
-        public static final int o_lazhu=0x7f0200dc;
-        public static final int o_liwu=0x7f0200dd;
-        public static final int o_lvsidai=0x7f0200de;
-        public static final int o_weibo=0x7f0200df;
-        public static final int o_weiguan=0x7f0200e0;
-        public static final int o_yinyue=0x7f0200e1;
-        public static final int o_zhaoxiangji=0x7f0200e2;
-        public static final int o_zhong=0x7f0200e3;
-        public static final int popup_window_transparent=0x7f0200e4;
-        public static final int radio=0x7f0200e5;
-        public static final int real_button_gray=0x7f0200e6;
-        public static final int real_button_gray_h=0x7f0200e7;
-        public static final int real_button_gray_select=0x7f0200e8;
-        public static final int real_button_select=0x7f0200e9;
-        public static final int real_button_selector=0x7f0200ea;
-        public static final int real_button_unselect=0x7f0200eb;
-        public static final int sel_btn_bg=0x7f0200ec;
-        public static final int select_imv_chanel=0x7f0200ed;
-        public static final int select_imv_find=0x7f0200ee;
-        public static final int select_imv_index=0x7f0200ef;
-        public static final int select_imv_myselft=0x7f0200f0;
-        public static final int selector_face_text=0x7f0200f1;
-        public static final int selector_pickerview_btn=0x7f0200f2;
-        public static final int selector_stock_arrow=0x7f0200f3;
-        public static final int selector_tab_com=0x7f0200f4;
-        public static final int selector_tab_do_com=0x7f0200f5;
-        public static final int selector_tab_want_com=0x7f0200f6;
-        public static final int selector_text_stock=0x7f0200f7;
-        public static final int set_btn_sign_up_bg=0x7f0200f8;
-        public static final int shape_edt_bg=0x7f0200f9;
-        public static final int shape_head_dialog=0x7f0200fa;
-        public static final int shape_timepick_cancel=0x7f0200fb;
-        public static final int shape_timepick_comfirm=0x7f0200fc;
-        public static final int shape_waitdialog=0x7f0200fd;
-        public static final int single_layout_selector=0x7f0200fe;
-        public static final int single_select=0x7f0200ff;
-        public static final int single_unselect=0x7f020100;
-        public static final int sky=0x7f020101;
-        public static final int success_toast=0x7f020102;
-        public static final int sun=0x7f020103;
-        public static final int tab_selector_checked_bg=0x7f020104;
-        public static final int tab_selector_tv_color=0x7f020105;
-        public static final int text_border_g=0x7f020106;
-        public static final int text_border_w=0x7f020107;
-        public static final int textview_shape=0x7f020108;
-        public static final int textviewstyle_circular=0x7f020109;
-        public static final int top_layout_selector=0x7f02010a;
-        public static final int top_select=0x7f02010b;
-        public static final int top_unselect=0x7f02010c;
-        public static final int w_fuyun=0x7f02010d;
-        public static final int w_shachenbao=0x7f02010e;
-        public static final int w_taiyang=0x7f02010f;
-        public static final int w_weifeng=0x7f020110;
-        public static final int w_xianhua=0x7f020111;
-        public static final int w_xiayu=0x7f020112;
-        public static final int w_yueliang=0x7f020113;
-        public static final int warning_toast=0x7f020114;
+        public static final int bg_edittext=0x7f020057;
+        public static final int bg_edittext_focused=0x7f020058;
+        public static final int bg_edittext_normal=0x7f020059;
+        public static final int bg_layout_shape=0x7f02005a;
+        public static final int bottom_layout_selector=0x7f02005b;
+        public static final int bottom_select=0x7f02005c;
+        public static final int bottom_unselect=0x7f02005d;
+        public static final int btn_background=0x7f02005e;
+        public static final int btn_circle=0x7f02005f;
+        public static final int btn_green_normal9=0x7f020060;
+        public static final int btn_green_pressed9=0x7f020061;
+        public static final int buildings=0x7f020062;
+        public static final int button_popupwin_shape=0x7f020063;
+        public static final int cancle_edittext_shape=0x7f020064;
+        public static final int checkbox_style=0x7f020065;
+        public static final int come=0x7f020066;
+        public static final int d_aini=0x7f020067;
+        public static final int d_aoteman=0x7f020068;
+        public static final int d_baibai=0x7f020069;
+        public static final int d_beishang=0x7f02006a;
+        public static final int d_bishi=0x7f02006b;
+        public static final int d_bizui=0x7f02006c;
+        public static final int d_chanzui=0x7f02006d;
+        public static final int d_chijing=0x7f02006e;
+        public static final int d_dahaqi=0x7f02006f;
+        public static final int d_dalian=0x7f020070;
+        public static final int d_ding=0x7f020071;
+        public static final int d_doge=0x7f020072;
+        public static final int d_feizao=0x7f020073;
+        public static final int d_ganmao=0x7f020074;
+        public static final int d_guzhang=0x7f020075;
+        public static final int d_haha=0x7f020076;
+        public static final int d_haixiu=0x7f020077;
+        public static final int d_han=0x7f020078;
+        public static final int d_hehe=0x7f020079;
+        public static final int d_heixian=0x7f02007a;
+        public static final int d_heng=0x7f02007b;
+        public static final int d_huaxin=0x7f02007c;
+        public static final int d_jiyan=0x7f02007d;
+        public static final int d_keai=0x7f02007e;
+        public static final int d_kelian=0x7f02007f;
+        public static final int d_ku=0x7f020080;
+        public static final int d_kun=0x7f020081;
+        public static final int d_landelini=0x7f020082;
+        public static final int d_lei=0x7f020083;
+        public static final int d_madaochenggong=0x7f020084;
+        public static final int d_miao=0x7f020085;
+        public static final int d_nanhaier=0x7f020086;
+        public static final int d_nu=0x7f020087;
+        public static final int d_numa=0x7f020088;
+        public static final int d_nvhaier=0x7f020089;
+        public static final int d_qian=0x7f02008a;
+        public static final int d_qinqin=0x7f02008b;
+        public static final int d_shayan=0x7f02008c;
+        public static final int d_shengbing=0x7f02008d;
+        public static final int d_shenshou=0x7f02008e;
+        public static final int d_shiwang=0x7f02008f;
+        public static final int d_shuai=0x7f020090;
+        public static final int d_shuijiao=0x7f020091;
+        public static final int d_sikao=0x7f020092;
+        public static final int d_taikaixin=0x7f020093;
+        public static final int d_touxiao=0x7f020094;
+        public static final int d_tu=0x7f020095;
+        public static final int d_tuzi=0x7f020096;
+        public static final int d_wabishi=0x7f020097;
+        public static final int d_weiqu=0x7f020098;
+        public static final int d_xiaoku=0x7f020099;
+        public static final int d_xiongmao=0x7f02009a;
+        public static final int d_xixi=0x7f02009b;
+        public static final int d_xu=0x7f02009c;
+        public static final int d_yinxian=0x7f02009d;
+        public static final int d_yiwen=0x7f02009e;
+        public static final int d_youhengheng=0x7f02009f;
+        public static final int d_yun=0x7f0200a0;
+        public static final int d_zhajipijiu=0x7f0200a1;
+        public static final int d_zhuakuang=0x7f0200a2;
+        public static final int d_zhutou=0x7f0200a3;
+        public static final int d_zuiyou=0x7f0200a4;
+        public static final int d_zuohengheng=0x7f0200a5;
+        public static final int default_toast=0x7f0200a6;
+        public static final int design_bottom_navigation_item_background=0x7f0200a7;
+        public static final int design_fab_background=0x7f0200a8;
+        public static final int design_ic_visibility=0x7f0200a9;
+        public static final int design_snackbar_background=0x7f0200aa;
+        public static final int dialog_background=0x7f0200ab;
+        public static final int dialog_load_bg=0x7f0200ac;
+        public static final int dot_selected=0x7f0200ad;
+        public static final int dot_unselected=0x7f0200ae;
+        public static final int error_toast=0x7f0200af;
+        public static final int et_shape=0x7f0200b0;
+        public static final int f_geili=0x7f0200b1;
+        public static final int f_hufen=0x7f0200b2;
+        public static final int f_jiong=0x7f0200b3;
+        public static final int f_meng=0x7f0200b4;
+        public static final int f_shenma=0x7f0200b5;
+        public static final int f_v5=0x7f0200b6;
+        public static final int f_xi=0x7f0200b7;
+        public static final int f_zhi=0x7f0200b8;
+        public static final int fab_add=0x7f0200b9;
+        public static final int face_delete=0x7f0200ba;
+        public static final int four=0x7f0200bb;
+        public static final int gps_point=0x7f0200bc;
+        public static final int guide_button_selector=0x7f0200bd;
+        public static final int guide_point_shape=0x7f0200be;
+        public static final int guide_textcolor_selector=0x7f0200bf;
+        public static final int h_buyao=0x7f0200c0;
+        public static final int h_good=0x7f0200c1;
+        public static final int h_haha=0x7f0200c2;
+        public static final int h_lai=0x7f0200c3;
+        public static final int h_ok=0x7f0200c4;
+        public static final int h_quantou=0x7f0200c5;
+        public static final int h_ruo=0x7f0200c6;
+        public static final int h_woshou=0x7f0200c7;
+        public static final int h_ye=0x7f0200c8;
+        public static final int h_zan=0x7f0200c9;
+        public static final int h_zuoyi=0x7f0200ca;
+        public static final int ic_evangelist_tip=0x7f0200cb;
+        public static final int icon_tanchuang_tanhao=0x7f0200cc;
+        public static final int icon_tanchuang_wenhao=0x7f0200cd;
+        public static final int indicator_point_nomal=0x7f0200ce;
+        public static final int indicator_point_select=0x7f0200cf;
+        public static final int info_toast=0x7f0200d0;
+        public static final int item_check_bg=0x7f0200d1;
+        public static final int item_check_normal=0x7f0200d2;
+        public static final int item_check_press=0x7f0200d3;
+        public static final int l_shangxin=0x7f0200d4;
+        public static final int l_xin=0x7f0200d5;
+        public static final int mid_layout_selector=0x7f0200d6;
+        public static final int mouse=0x7f0200d7;
+        public static final int move_point_shape=0x7f0200d8;
+        public static final int navigation_empty_icon=0x7f0200d9;
+        public static final int notification_action_background=0x7f0200da;
+        public static final int notification_bg=0x7f0200db;
+        public static final int notification_bg_low=0x7f0200dc;
+        public static final int notification_bg_low_normal=0x7f0200dd;
+        public static final int notification_bg_low_pressed=0x7f0200de;
+        public static final int notification_bg_normal=0x7f0200df;
+        public static final int notification_bg_normal_pressed=0x7f0200e0;
+        public static final int notification_icon_background=0x7f0200e1;
+        public static final int notification_template_icon_bg=0x7f020126;
+        public static final int notification_template_icon_low_bg=0x7f020127;
+        public static final int notification_tile_bg=0x7f0200e2;
+        public static final int notify_panel_notification_icon_bg=0x7f0200e3;
+        public static final int o_dangao=0x7f0200e4;
+        public static final int o_feiji=0x7f0200e5;
+        public static final int o_ganbei=0x7f0200e6;
+        public static final int o_huatong=0x7f0200e7;
+        public static final int o_lazhu=0x7f0200e8;
+        public static final int o_liwu=0x7f0200e9;
+        public static final int o_lvsidai=0x7f0200ea;
+        public static final int o_weibo=0x7f0200eb;
+        public static final int o_weiguan=0x7f0200ec;
+        public static final int o_yinyue=0x7f0200ed;
+        public static final int o_zhaoxiangji=0x7f0200ee;
+        public static final int o_zhong=0x7f0200ef;
+        public static final int one=0x7f0200f0;
+        public static final int popup_window_transparent=0x7f0200f1;
+        public static final int radio=0x7f0200f2;
+        public static final int real_button_gray=0x7f0200f3;
+        public static final int real_button_gray_h=0x7f0200f4;
+        public static final int real_button_gray_select=0x7f0200f5;
+        public static final int real_button_select=0x7f0200f6;
+        public static final int real_button_selector=0x7f0200f7;
+        public static final int real_button_unselect=0x7f0200f8;
+        public static final int sel_btn_bg=0x7f0200f9;
+        public static final int select_imv_chanel=0x7f0200fa;
+        public static final int select_imv_find=0x7f0200fb;
+        public static final int select_imv_index=0x7f0200fc;
+        public static final int select_imv_myselft=0x7f0200fd;
+        public static final int selector_face_text=0x7f0200fe;
+        public static final int selector_pickerview_btn=0x7f0200ff;
+        public static final int selector_stock_arrow=0x7f020100;
+        public static final int selector_tab_com=0x7f020101;
+        public static final int selector_tab_do_com=0x7f020102;
+        public static final int selector_tab_want_com=0x7f020103;
+        public static final int selector_text_stock=0x7f020104;
+        public static final int set_btn_sign_up_bg=0x7f020105;
+        public static final int shape_edt_bg=0x7f020106;
+        public static final int shape_head_dialog=0x7f020107;
+        public static final int shape_timepick_cancel=0x7f020108;
+        public static final int shape_timepick_comfirm=0x7f020109;
+        public static final int shape_waitdialog=0x7f02010a;
+        public static final int single_layout_selector=0x7f02010b;
+        public static final int single_select=0x7f02010c;
+        public static final int single_unselect=0x7f02010d;
+        public static final int sky=0x7f02010e;
+        public static final int splash=0x7f02010f;
+        public static final int success_toast=0x7f020110;
+        public static final int sun=0x7f020111;
+        public static final int tab_selector_checked_bg=0x7f020112;
+        public static final int tab_selector_tv_color=0x7f020113;
+        public static final int text_border_g=0x7f020114;
+        public static final int text_border_w=0x7f020115;
+        public static final int textview_shape=0x7f020116;
+        public static final int textviewstyle_circular=0x7f020117;
+        public static final int three=0x7f020118;
+        public static final int top_layout_selector=0x7f020119;
+        public static final int top_select=0x7f02011a;
+        public static final int top_unselect=0x7f02011b;
+        public static final int two=0x7f02011c;
+        public static final int w_fuyun=0x7f02011d;
+        public static final int w_shachenbao=0x7f02011e;
+        public static final int w_taiyang=0x7f02011f;
+        public static final int w_weifeng=0x7f020120;
+        public static final int w_xianhua=0x7f020121;
+        public static final int w_xiayu=0x7f020122;
+        public static final int w_yueliang=0x7f020123;
+        public static final int warning_toast=0x7f020124;
+        public static final int yuancha=0x7f020125;
     }
     public static final class id {
-        public static final int AlreadyBack=0x7f0d00e7;
+        public static final int AlreadyBack=0x7f0d00ec;
         public static final int BOTTOM_LEFT=0x7f0d0046;
         public static final int BOTTOM_RIGHT=0x7f0d0047;
-        public static final int I_buy=0x7f0d020d;
-        public static final int I_have_received_Up_Image=0x7f0d01d5;
-        public static final int I_have_received_Up_Text=0x7f0d01d4;
-        public static final int I_have_received_Up_gridview=0x7f0d0136;
-        public static final int I_have_received_Up_hand=0x7f0d01d3;
-        public static final int I_sell=0x7f0d020e;
-        public static final int ItemImage=0x7f0d00e6;
+        public static final int I_buy=0x7f0d0215;
+        public static final int I_have_received_Up_Image=0x7f0d01e3;
+        public static final int I_have_received_Up_Text=0x7f0d01e2;
+        public static final int I_have_received_Up_gridview=0x7f0d013b;
+        public static final int I_have_received_Up_hand=0x7f0d01e1;
+        public static final int I_sell=0x7f0d0216;
+        public static final int ItemImage=0x7f0d00eb;
         public static final int ItemTitle=0x7f0d008a;
-        public static final int My_discount=0x7f0d0211;
-        public static final int My_discount_back=0x7f0d0127;
-        public static final int My_evaluation_thridFrament_gridview=0x7f0d0308;
-        public static final int Myalreadykitchen_gridview=0x7f0d00e8;
-        public static final int Mykitchen=0x7f0d0212;
-        public static final int Mykitchen_ItemImage=0x7f0d01ff;
-        public static final int Mykitchen_ItemMoney=0x7f0d0202;
-        public static final int Mykitchen_ItemText=0x7f0d0201;
-        public static final int Mykitchen_ItemTitle=0x7f0d0200;
-        public static final int Mykitchen_back=0x7f0d00ea;
-        public static final int Mykitchen_gridview=0x7f0d01e2;
-        public static final int Mymoney=0x7f0d01fc;
-        public static final int Pswedit_phone=0x7f0d00bc;
-        public static final int StarBar_WEOC_level=0x7f0d00f8;
+        public static final int My_discount=0x7f0d0219;
+        public static final int My_discount_back=0x7f0d012c;
+        public static final int My_evaluation_thridFrament_gridview=0x7f0d0313;
+        public static final int Myalreadykitchen_gridview=0x7f0d00ed;
+        public static final int Mykitchen=0x7f0d021a;
+        public static final int Mykitchen_ItemImage=0x7f0d020c;
+        public static final int Mykitchen_ItemMoney=0x7f0d020f;
+        public static final int Mykitchen_ItemText=0x7f0d020e;
+        public static final int Mykitchen_ItemTitle=0x7f0d020d;
+        public static final int Mykitchen_back=0x7f0d00ef;
+        public static final int Mykitchen_gridview=0x7f0d01f0;
+        public static final int Mymoney=0x7f0d0209;
+        public static final int Pswedit_phone=0x7f0d00c0;
+        public static final int StarBar_WEOC_level=0x7f0d00fd;
         public static final int TOP_LEFT=0x7f0d0048;
         public static final int TOP_RIGHT=0x7f0d0049;
-        public static final int action0=0x7f0d0216;
+        public static final int action0=0x7f0d021e;
         public static final int action_bar=0x7f0d007b;
         public static final int action_bar_activity_content=0x7f0d0000;
         public static final int action_bar_container=0x7f0d007a;
@@ -4470,460 +4487,470 @@ containing a value of this type.
         public static final int action_bar_spinner=0x7f0d0001;
         public static final int action_bar_subtitle=0x7f0d0059;
         public static final int action_bar_title=0x7f0d0058;
-        public static final int action_container=0x7f0d0213;
+        public static final int action_container=0x7f0d021b;
         public static final int action_context_bar=0x7f0d007c;
-        public static final int action_divider=0x7f0d021a;
-        public static final int action_image=0x7f0d0214;
+        public static final int action_divider=0x7f0d0222;
+        public static final int action_image=0x7f0d021c;
         public static final int action_menu_divider=0x7f0d0002;
         public static final int action_menu_presenter=0x7f0d0003;
         public static final int action_mode_bar=0x7f0d0078;
         public static final int action_mode_bar_stub=0x7f0d0077;
         public static final int action_mode_close_button=0x7f0d005a;
-        public static final int action_text=0x7f0d0215;
-        public static final int actions=0x7f0d0223;
+        public static final int action_text=0x7f0d021d;
+        public static final int actions=0x7f0d022b;
         public static final int activity_chooser_view_content=0x7f0d005b;
-        public static final int activity_json_data=0x7f0d00a2;
-        public static final int ad1=0x7f0d0151;
-        public static final int ad2=0x7f0d0152;
+        public static final int activity_json_data=0x7f0d00a6;
+        public static final int ad1=0x7f0d0156;
+        public static final int ad2=0x7f0d0157;
         public static final int add=0x7f0d0020;
-        public static final int add_address_back=0x7f0d00d1;
-        public static final int add_post=0x7f0d0183;
-        public static final int address=0x7f0d02ea;
-        public static final int addressAllAera=0x7f0d00d6;
-        public static final int addressArea=0x7f0d00d4;
-        public static final int addressCommunity=0x7f0d00d5;
-        public static final int addressPeople=0x7f0d00d2;
-        public static final int addressPhone=0x7f0d00d3;
-        public static final int address_add=0x7f0d00de;
-        public static final int address_back=0x7f0d00dd;
-        public static final int address_setting=0x7f0d020c;
+        public static final int add_address_back=0x7f0d00d6;
+        public static final int add_post=0x7f0d0191;
+        public static final int address=0x7f0d02f2;
+        public static final int addressAllAera=0x7f0d00db;
+        public static final int addressArea=0x7f0d00d9;
+        public static final int addressCommunity=0x7f0d00da;
+        public static final int addressPeople=0x7f0d00d7;
+        public static final int addressPhone=0x7f0d00d8;
+        public static final int address_add=0x7f0d00e3;
+        public static final int address_back=0x7f0d00e2;
+        public static final int address_setting=0x7f0d0214;
         public static final int alertTitle=0x7f0d006f;
         public static final int all=0x7f0d003d;
-        public static final int all_money=0x7f0d033b;
+        public static final int all_money=0x7f0d0346;
         public static final int always=0x7f0d004c;
-        public static final int assess_back=0x7f0d0318;
-        public static final int assess_back_1=0x7f0d01c8;
-        public static final int assess_vp=0x7f0d01cd;
+        public static final int assess_back=0x7f0d0323;
+        public static final int assess_back_1=0x7f0d01d6;
+        public static final int assess_vp=0x7f0d01db;
         public static final int auto=0x7f0d002a;
-        public static final int base_layout=0x7f0d0117;
+        public static final int base_layout=0x7f0d011c;
         public static final int beginning=0x7f0d004a;
-        public static final int big_img=0x7f0d00f3;
+        public static final int big_img=0x7f0d00f8;
         public static final int bottom=0x7f0d002b;
-        public static final int bottom_listview_comment=0x7f0d00f5;
-        public static final int bottom_recycle_detail=0x7f0d00f4;
-        public static final int btnBack=0x7f0d0153;
-        public static final int btnCancel=0x7f0d0161;
+        public static final int bottom_listview_comment=0x7f0d00fa;
+        public static final int bottom_recycle_detail=0x7f0d00f9;
+        public static final int btnBack=0x7f0d0158;
+        public static final int btnCancel=0x7f0d0166;
         public static final int btnIdentityCode=0x7f0d00a0;
-        public static final int btnRegister=0x7f0d00d0;
+        public static final int btnRegister=0x7f0d00d4;
         public static final int btnReset=0x7f0d00a1;
-        public static final int btnSubmit=0x7f0d0163;
-        public static final int btnSubmitOrder=0x7f0d0327;
-        public static final int btn_BuyAcomment_psot=0x7f0d02a0;
-        public static final int btn_addFood_comfirm=0x7f0d01ee;
-        public static final int btn_add_new_food=0x7f0d01e5;
-        public static final int btn_add_pcomment=0x7f0d00cf;
-        public static final int btn_add_today_food=0x7f0d01e4;
-        public static final int btn_addcart_comfrim=0x7f0d0317;
-        public static final int btn_aleady_today_food=0x7f0d01e6;
-        public static final int btn_book_eatfood=0x7f0d017f;
+        public static final int btnSubmit=0x7f0d0168;
+        public static final int btnSubmitOrder=0x7f0d0332;
+        public static final int btn_BuyAcomment_psot=0x7f0d02a8;
+        public static final int btn_addFood_comfirm=0x7f0d01fb;
+        public static final int btn_add_new_food=0x7f0d01f2;
+        public static final int btn_add_pcomment=0x7f0d00d3;
+        public static final int btn_add_today_food=0x7f0d01f1;
+        public static final int btn_addcart_comfrim=0x7f0d0322;
+        public static final int btn_aleady_today_food=0x7f0d01f3;
+        public static final int btn_book_eatfood=0x7f0d018a;
         public static final int btn_cancel=0x7f0d0096;
-        public static final int btn_changUserName_comfirm=0x7f0d01c7;
-        public static final int btn_changeAge_comfirm=0x7f0d01ae;
-        public static final int btn_checkcomment_comment=0x7f0d00db;
+        public static final int btn_changUserName_comfirm=0x7f0d01d5;
+        public static final int btn_changeAge_comfirm=0x7f0d01bc;
+        public static final int btn_checkcomment_comment=0x7f0d00e0;
         public static final int btn_comfirm=0x7f0d0095;
-        public static final int btn_data=0x7f0d00a3;
-        public static final int btn_degree_comfirm=0x7f0d01b8;
-        public static final int btn_hoppy_comfirm=0x7f0d01bb;
-        public static final int btn_knowArea_comfirm=0x7f0d01c3;
-        public static final int btn_login=0x7f0d00a9;
-        public static final int btn_makefood_sure=0x7f0d0135;
-        public static final int btn_pay_cart=0x7f0d02ff;
-        public static final int btn_psw=0x7f0d00bf;
-        public static final int btn_send_comment=0x7f0d0251;
-        public static final int btn_sex_comfirm=0x7f0d01c0;
-        public static final int btn_show=0x7f0d00a4;
-        public static final int btn_signup=0x7f0d00aa;
-        public static final int btn_varity_comfirm=0x7f0d016b;
-        public static final int btn_wanteat_send=0x7f0d0335;
-        public static final int btn_wanteattime_add=0x7f0d0332;
-        public static final int btn_wanteattime_minus=0x7f0d0330;
-        public static final int btnadressSave=0x7f0d00d7;
-        public static final int btncash=0x7f0d0160;
-        public static final int btnwitharwals=0x7f0d033d;
+        public static final int btn_data=0x7f0d00a7;
+        public static final int btn_degree_comfirm=0x7f0d01c6;
+        public static final int btn_hoppy_comfirm=0x7f0d01c9;
+        public static final int btn_knowArea_comfirm=0x7f0d01d1;
+        public static final int btn_login=0x7f0d00ad;
+        public static final int btn_makefood_sure=0x7f0d013a;
+        public static final int btn_pay_cart=0x7f0d0308;
+        public static final int btn_pick_photo=0x7f0d0312;
+        public static final int btn_psw=0x7f0d00c3;
+        public static final int btn_send_comment=0x7f0d0259;
+        public static final int btn_sex_comfirm=0x7f0d01ce;
+        public static final int btn_show=0x7f0d00a8;
+        public static final int btn_signup=0x7f0d00ae;
+        public static final int btn_take_photo=0x7f0d0311;
+        public static final int btn_varity_comfirm=0x7f0d0170;
+        public static final int btn_wanteat_send=0x7f0d0340;
+        public static final int btn_wanteattime_add=0x7f0d033d;
+        public static final int btn_wanteattime_minus=0x7f0d033b;
+        public static final int btnadressSave=0x7f0d00dc;
+        public static final int btncash=0x7f0d0165;
+        public static final int btnwitharwals=0x7f0d0348;
         public static final int buttonPanel=0x7f0d0062;
-        public static final int buy_back=0x7f0d01d6;
-        public static final int cancel_action=0x7f0d0217;
-        public static final int cbLoopViewPager=0x7f0d0164;
+        public static final int buy_back=0x7f0d01e4;
+        public static final int cancel_action=0x7f0d021f;
+        public static final int cancle=0x7f0d017b;
+        public static final int cbLoopViewPager=0x7f0d0169;
         public static final int cb_item_tag=0x7f0d0004;
-        public static final int cb_place=0x7f0d0158;
-        public static final int cb_time=0x7f0d015c;
-        public static final int cb_type=0x7f0d015a;
+        public static final int cb_place=0x7f0d015d;
+        public static final int cb_time=0x7f0d0161;
+        public static final int cb_type=0x7f0d015f;
         public static final int center=0x7f0d0031;
         public static final int centerCrop=0x7f0d003f;
         public static final int centerInside=0x7f0d0040;
         public static final int center_horizontal=0x7f0d0032;
         public static final int center_vertical=0x7f0d0033;
-        public static final int chart_face_gv=0x7f0d0174;
+        public static final int chart_face_gv=0x7f0d0179;
         public static final int checkbox=0x7f0d0072;
-        public static final int checkbox_cart_all=0x7f0d02fd;
-        public static final int checkbox_cartitem=0x7f0d0300;
-        public static final int chiken_UserHead=0x7f0d00eb;
-        public static final int chronometer=0x7f0d021f;
-        public static final int cir_cookCommend_pic=0x7f0d00c6;
-        public static final int cir_cusComment_pic=0x7f0d00cb;
+        public static final int checkbox_cart_all=0x7f0d0306;
+        public static final int checkbox_cartitem=0x7f0d0309;
+        public static final int chiken_UserHead=0x7f0d00f0;
+        public static final int chronometer=0x7f0d0227;
+        public static final int cir_cookCommend_pic=0x7f0d00ca;
+        public static final int cir_cusComment_pic=0x7f0d00cf;
         public static final int circle=0x7f0d000f;
-        public static final int circleImv_psb_userHead=0x7f0d0248;
-        public static final int circle_WEOC_userHead=0x7f0d00f6;
-        public static final int circle_notice=0x7f0d0107;
+        public static final int circleImv_psb_userHead=0x7f0d0250;
+        public static final int circle_WEOC_userHead=0x7f0d00fb;
+        public static final int circle_notice=0x7f0d010c;
         public static final int clip_horizontal=0x7f0d0039;
         public static final int clip_vertical=0x7f0d003a;
         public static final int collapseActionView=0x7f0d004d;
-        public static final int common_load_more_footer_container=0x7f0d010f;
-        public static final int common_load_more_footer_msg=0x7f0d0111;
-        public static final int common_load_more_footer_progress=0x7f0d0110;
-        public static final int common_swipe_fresh_layout=0x7f0d0114;
-        public static final int common_swipe_fresh_listview=0x7f0d0115;
+        public static final int common_load_more_footer_container=0x7f0d0114;
+        public static final int common_load_more_footer_msg=0x7f0d0116;
+        public static final int common_load_more_footer_progress=0x7f0d0115;
+        public static final int common_swipe_fresh_layout=0x7f0d0119;
+        public static final int common_swipe_fresh_listview=0x7f0d011a;
         public static final int container=0x7f0d008c;
-        public static final int content=0x7f0d02e6;
+        public static final int content=0x7f0d02ee;
         public static final int contentPanel=0x7f0d0065;
-        public static final int content_container=0x7f0d0173;
+        public static final int content_container=0x7f0d0178;
         public static final int custom=0x7f0d006c;
         public static final int customPanel=0x7f0d006b;
-        public static final int day=0x7f0d023f;
+        public static final int day=0x7f0d0247;
         public static final int decor_content_parent=0x7f0d0079;
-        public static final int defaultView=0x7f0d0119;
-        public static final int defaultViewLayout=0x7f0d0118;
+        public static final int defaultView=0x7f0d011e;
+        public static final int defaultViewLayout=0x7f0d011d;
         public static final int default_activity_button=0x7f0d005e;
-        public static final int delete_img=0x7f0d0259;
-        public static final int design_bottom_sheet=0x7f0d011e;
-        public static final int design_menu_item_action_area=0x7f0d0125;
-        public static final int design_menu_item_action_area_stub=0x7f0d0124;
-        public static final int design_menu_item_text=0x7f0d0123;
-        public static final int design_navigation_view=0x7f0d0122;
+        public static final int delete_img=0x7f0d0261;
+        public static final int design_bottom_sheet=0x7f0d0123;
+        public static final int design_menu_item_action_area=0x7f0d012a;
+        public static final int design_menu_item_action_area_stub=0x7f0d0129;
+        public static final int design_menu_item_text=0x7f0d0128;
+        public static final int design_navigation_view=0x7f0d0127;
+        public static final int dialog_view=0x7f0d018b;
         public static final int disableHome=0x7f0d0014;
-        public static final int dowant_ordertail_back=0x7f0d031d;
-        public static final int eat_select_time=0x7f0d02f4;
+        public static final int dowant_ordertail_back=0x7f0d0328;
+        public static final int eat_select_time=0x7f0d02fc;
+        public static final int ed_pay=0x7f0d017f;
         public static final int edit_query=0x7f0d007d;
-        public static final int edt_BuyAcomment_content=0x7f0d029c;
-        public static final int edt_addFood_detail=0x7f0d01eb;
-        public static final int edt_addFood_moneny=0x7f0d01e9;
-        public static final int edt_addFood_name=0x7f0d01e8;
-        public static final int edt_changeUserName=0x7f0d01c6;
-        public static final int edt_checkcomment_content=0x7f0d022c;
-        public static final int edt_hobby=0x7f0d01ba;
-        public static final int edt_know_Area=0x7f0d01c2;
-        public static final int edt_login_user_name=0x7f0d00a6;
-        public static final int edt_login_user_pwd=0x7f0d00a7;
-        public static final int edt_makefood_care=0x7f0d0134;
-        public static final int edt_makefood_matiria=0x7f0d0132;
-        public static final int edt_makefood_progress=0x7f0d0133;
-        public static final int edt_varity_IDCard=0x7f0d016a;
-        public static final int edt_varity_Name=0x7f0d0169;
-        public static final int emojicons_layout=0x7f0d0252;
+        public static final int edt_BuyAcomment_content=0x7f0d02a4;
+        public static final int edt_addFood_detail=0x7f0d01f8;
+        public static final int edt_addFood_moneny=0x7f0d01f6;
+        public static final int edt_addFood_name=0x7f0d01f5;
+        public static final int edt_changeUserName=0x7f0d01d4;
+        public static final int edt_checkcomment_content=0x7f0d0234;
+        public static final int edt_hobby=0x7f0d01c8;
+        public static final int edt_know_Area=0x7f0d01d0;
+        public static final int edt_login_user_name=0x7f0d00aa;
+        public static final int edt_login_user_pwd=0x7f0d00ab;
+        public static final int edt_makefood_care=0x7f0d0139;
+        public static final int edt_makefood_matiria=0x7f0d0137;
+        public static final int edt_makefood_progress=0x7f0d0138;
+        public static final int edt_varity_IDCard=0x7f0d016f;
+        public static final int edt_varity_Name=0x7f0d016e;
+        public static final int emojicons_layout=0x7f0d025a;
         public static final int end=0x7f0d0034;
-        public static final int end_padder=0x7f0d0229;
+        public static final int end_padder=0x7f0d0231;
         public static final int enterAlways=0x7f0d001b;
         public static final int enterAlwaysCollapsed=0x7f0d001c;
-        public static final int errorView=0x7f0d012d;
-        public static final int errorViewLayout=0x7f0d012c;
-        public static final int et_checkcomment_reply=0x7f0d00da;
-        public static final int et_reply=0x7f0d0250;
-        public static final int et_search=0x7f0d02a7;
-        public static final int et_wanteat_bei=0x7f0d0334;
-        public static final int et_wanteat_hopetime=0x7f0d0333;
-        public static final int et_wanteat_money=0x7f0d032e;
-        public static final int et_wanteat_name=0x7f0d032a;
-        public static final int et_wanteat_title=0x7f0d0329;
-        public static final int evaluate_Text=0x7f0d01d1;
-        public static final int evaluate_hand_Image=0x7f0d01ce;
-        public static final int evaluate_star=0x7f0d01d0;
-        public static final int evaluate_user=0x7f0d01cf;
+        public static final int errorView=0x7f0d0132;
+        public static final int errorViewLayout=0x7f0d0131;
+        public static final int et_checkcomment_reply=0x7f0d00df;
+        public static final int et_reply=0x7f0d0258;
+        public static final int et_search=0x7f0d02af;
+        public static final int et_wanteat_bei=0x7f0d033f;
+        public static final int et_wanteat_hopetime=0x7f0d033e;
+        public static final int et_wanteat_money=0x7f0d0339;
+        public static final int et_wanteat_name=0x7f0d0335;
+        public static final int et_wanteat_title=0x7f0d0334;
+        public static final int evaluate_Text=0x7f0d01df;
+        public static final int evaluate_hand_Image=0x7f0d01dc;
+        public static final int evaluate_star=0x7f0d01de;
+        public static final int evaluate_user=0x7f0d01dd;
         public static final int exitUntilCollapsed=0x7f0d001d;
         public static final int expand_activities_button=0x7f0d005c;
         public static final int expanded_menu=0x7f0d0071;
-        public static final int face_first_set=0x7f0d013c;
-        public static final int face_image=0x7f0d0167;
-        public static final int face_indicator=0x7f0d013a;
-        public static final int face_recent=0x7f0d013b;
-        public static final int face_viewPager=0x7f0d0139;
+        public static final int face_first_set=0x7f0d0141;
+        public static final int face_image=0x7f0d016c;
+        public static final int face_indicator=0x7f0d013f;
+        public static final int face_recent=0x7f0d0140;
+        public static final int face_viewPager=0x7f0d013e;
         public static final int fill=0x7f0d003b;
         public static final int fill_horizontal=0x7f0d003c;
         public static final int fill_vertical=0x7f0d0035;
-        public static final int fill_view=0x7f0d013d;
-        public static final int first_ItemImage=0x7f0d012e;
-        public static final int first_ItemTitle=0x7f0d012f;
+        public static final int fill_view=0x7f0d0142;
+        public static final int first_ItemImage=0x7f0d0133;
+        public static final int first_ItemTitle=0x7f0d0134;
         public static final int fitCenter=0x7f0d0041;
         public static final int fitEnd=0x7f0d0042;
         public static final int fitStart=0x7f0d0043;
         public static final int fitXY=0x7f0d0044;
         public static final int fixed=0x7f0d0056;
-        public static final int fl_checkcomment_emojicons_layout=0x7f0d00dc;
+        public static final int fl_checkcomment_emojicons_layout=0x7f0d00e1;
         public static final int focusCrop=0x7f0d0045;
-        public static final int food_ItemImage=0x7f0d0175;
-        public static final int food_ItemMoney=0x7f0d0178;
-        public static final int food_ItemReturn=0x7f0d0179;
-        public static final int food_ItemText=0x7f0d0177;
-        public static final int food_ItemTitle=0x7f0d0176;
-        public static final int food_book_back=0x7f0d0131;
-        public static final int forgetpsw=0x7f0d00ab;
-        public static final int graduallyTextView=0x7f0d00fd;
-        public static final int gridView=0x7f0d015d;
-        public static final int gridViewCircle=0x7f0d0138;
-        public static final int gridview=0x7f0d0146;
-        public static final int head_title=0x7f0d01c5;
-        public static final int help=0x7f0d02eb;
+        public static final int food_ItemImage=0x7f0d0180;
+        public static final int food_ItemMoney=0x7f0d0183;
+        public static final int food_ItemReturn=0x7f0d0184;
+        public static final int food_ItemText=0x7f0d0182;
+        public static final int food_ItemTitle=0x7f0d0181;
+        public static final int food_book_back=0x7f0d0136;
+        public static final int forgetpsw=0x7f0d00af;
+        public static final int graduallyTextView=0x7f0d0102;
+        public static final int gridView=0x7f0d0162;
+        public static final int gridViewCircle=0x7f0d013d;
+        public static final int gridview=0x7f0d014b;
+        public static final int head_title=0x7f0d01d3;
+        public static final int help=0x7f0d02f3;
         public static final int home=0x7f0d0005;
         public static final int homeAsUp=0x7f0d0015;
-        public static final int home_banner=0x7f0d013e;
+        public static final int home_banner=0x7f0d0143;
         public static final int horizon=0x7f0d0054;
-        public static final int hour=0x7f0d0240;
+        public static final int hour=0x7f0d0248;
         public static final int icon=0x7f0d0060;
-        public static final int icon_group=0x7f0d0224;
-        public static final int id_index_gallery_item_Momeny=0x7f0d030c;
-        public static final int id_index_gallery_item_image=0x7f0d030a;
-        public static final int id_index_gallery_item_text=0x7f0d030b;
+        public static final int icon_group=0x7f0d022c;
+        public static final int id_index_gallery_item_Momeny=0x7f0d0317;
+        public static final int id_index_gallery_item_image=0x7f0d0315;
+        public static final int id_index_gallery_item_text=0x7f0d0316;
         public static final int identityCode=0x7f0d009f;
         public static final int ifRoom=0x7f0d004e;
         public static final int image=0x7f0d005d;
-        public static final int imageView=0x7f0d020b;
-        public static final int imb_cart_back=0x7f0d02f8;
-        public static final int imb_checkcomment_back=0x7f0d022b;
-        public static final int imb_checkcomment_post_emoticon=0x7f0d022d;
-        public static final int img_layout=0x7f0d0257;
-        public static final int imv_BuyAcomment_back=0x7f0d029b;
-        public static final int imv_BuyPcommend_back=0x7f0d00c5;
-        public static final int imv_UserName_back=0x7f0d01c4;
-        public static final int imv_addFood=0x7f0d01ea;
-        public static final int imv_camera=0x7f0d00c1;
-        public static final int imv_cart_image=0x7f0d0301;
-        public static final int imv_chang_back=0x7f0d01a7;
-        public static final int imv_degree_back=0x7f0d01af;
-        public static final int imv_eat_deail=0x7f0d0312;
-        public static final int imv_eatdeatil_back=0x7f0d030d;
-        public static final int imv_goto_cart=0x7f0d030f;
-        public static final int imv_head=0x7f0d0204;
-        public static final int imv_hoppy_back=0x7f0d01b9;
-        public static final int imv_know_Area=0x7f0d01c1;
-        public static final int imv_makebuyF_pic=0x7f0d0190;
-        public static final int imv_makebuyWS_pic=0x7f0d0197;
-        public static final int imv_makebuyW_pic=0x7f0d01a0;
-        public static final int imv_makebuy_pic=0x7f0d0186;
-        public static final int imv_pbs_delete=0x7f0d0246;
-        public static final int imv_pbs_imvdetail=0x7f0d024d;
-        public static final int imv_photo=0x7f0d00c3;
-        public static final int imv_sellAllA_pic=0x7f0d02b0;
-        public static final int imv_selldoingA_pic=0x7f0d02c2;
-        public static final int imv_sellfinshA_pic=0x7f0d02c8;
-        public static final int imv_setting_back=0x7f0d0260;
-        public static final int imv_sex_back=0x7f0d01bc;
-        public static final int imv_varityBody_back=0x7f0d0168;
-        public static final int imvb_comment_delete=0x7f0d025e;
-        public static final int imvb_wanteat_add=0x7f0d032c;
-        public static final int imvb_wanteat_back=0x7f0d0328;
-        public static final int imvb_wanteat_item_delete=0x7f0d0337;
-        public static final int incase=0x7f0d01fd;
-        public static final int incase_back=0x7f0d015e;
-        public static final int incashmoney=0x7f0d015f;
-        public static final int info=0x7f0d0220;
-        public static final int infoView=0x7f0d0166;
+        public static final int imb_cart_back=0x7f0d0301;
+        public static final int imb_checkcomment_back=0x7f0d0233;
+        public static final int imb_checkcomment_post_emoticon=0x7f0d0235;
+        public static final int img=0x7f0d018c;
+        public static final int img_layout=0x7f0d025f;
+        public static final int imv_BuyAcomment_back=0x7f0d02a3;
+        public static final int imv_BuyPcommend_back=0x7f0d00c9;
+        public static final int imv_UserName_back=0x7f0d01d2;
+        public static final int imv_addFood=0x7f0d01f7;
+        public static final int imv_camera=0x7f0d00c5;
+        public static final int imv_cart_image=0x7f0d030a;
+        public static final int imv_chang_back=0x7f0d01b5;
+        public static final int imv_degree_back=0x7f0d01bd;
+        public static final int imv_eat_deail=0x7f0d031d;
+        public static final int imv_eatdeatil_back=0x7f0d0318;
+        public static final int imv_goto_cart=0x7f0d031a;
+        public static final int imv_head=0x7f0d0211;
+        public static final int imv_hoppy_back=0x7f0d01c7;
+        public static final int imv_know_Area=0x7f0d01cf;
+        public static final int imv_makebuyF_pic=0x7f0d019e;
+        public static final int imv_makebuyWS_pic=0x7f0d01a5;
+        public static final int imv_makebuyW_pic=0x7f0d01ae;
+        public static final int imv_makebuy_pic=0x7f0d0194;
+        public static final int imv_pbs_delete=0x7f0d024e;
+        public static final int imv_pbs_imvdetail=0x7f0d0255;
+        public static final int imv_photo=0x7f0d00c7;
+        public static final int imv_sellAllA_pic=0x7f0d02b8;
+        public static final int imv_selldoingA_pic=0x7f0d02ca;
+        public static final int imv_sellfinshA_pic=0x7f0d02d0;
+        public static final int imv_setting_back=0x7f0d0268;
+        public static final int imv_sex_back=0x7f0d01ca;
+        public static final int imv_varityBody_back=0x7f0d016d;
+        public static final int imvb_comment_delete=0x7f0d0266;
+        public static final int imvb_wanteat_add=0x7f0d0337;
+        public static final int imvb_wanteat_back=0x7f0d0333;
+        public static final int imvb_wanteat_item_delete=0x7f0d0342;
+        public static final int incase=0x7f0d020a;
+        public static final int incase_back=0x7f0d0163;
+        public static final int incashmoney=0x7f0d0164;
+        public static final int info=0x7f0d0228;
+        public static final int infoView=0x7f0d016b;
         public static final int invisible=0x7f0d002f;
-        public static final int item_boolean=0x7f0d02ee;
-        public static final int item_content=0x7f0d02ed;
-        public static final int item_money=0x7f0d02ef;
-        public static final int item_name=0x7f0d0100;
-        public static final int item_reply_num=0x7f0d0103;
-        public static final int item_time=0x7f0d0101;
-        public static final int item_title=0x7f0d0102;
+        public static final int item_boolean=0x7f0d02f6;
+        public static final int item_content=0x7f0d02f5;
+        public static final int item_money=0x7f0d02f7;
+        public static final int item_name=0x7f0d0105;
+        public static final int item_reply_num=0x7f0d0108;
+        public static final int item_time=0x7f0d0106;
+        public static final int item_title=0x7f0d0107;
         public static final int item_touch_helper_previous_elevation=0x7f0d0006;
-        public static final int item_tx=0x7f0d00ff;
-        public static final int iv_search=0x7f0d02a8;
-        public static final int largeLabel=0x7f0d011c;
+        public static final int item_tx=0x7f0d0104;
+        public static final int iv_search=0x7f0d02b0;
+        public static final int largeLabel=0x7f0d0121;
         public static final int left=0x7f0d002c;
-        public static final int line1=0x7f0d0225;
-        public static final int line3=0x7f0d0227;
-        public static final int linearLayout=0x7f0d0306;
-        public static final int linear_common_problem=0x7f0d00ee;
-        public static final int linear_my_assess=0x7f0d01c9;
-        public static final int linear_my_get_assess=0x7f0d01cb;
-        public static final int linear_seller_description=0x7f0d00ec;
+        public static final int line1=0x7f0d022d;
+        public static final int line3=0x7f0d022f;
+        public static final int linearLayout=0x7f0d030f;
+        public static final int linear_common_problem=0x7f0d00f3;
+        public static final int linear_my_assess=0x7f0d01d7;
+        public static final int linear_my_get_assess=0x7f0d01d9;
+        public static final int linear_seller_description=0x7f0d00f1;
         public static final int listMode=0x7f0d0011;
-        public static final int listView=0x7f0d02aa;
+        public static final int listView=0x7f0d02b2;
         public static final int list_item=0x7f0d005f;
-        public static final int ll_content=0x7f0d0242;
-        public static final int ll_mybuy_all=0x7f0d01d8;
-        public static final int ll_mybuy_djd=0x7f0d01da;
-        public static final int ll_mybuy_dsc=0x7f0d01dc;
-        public static final int ll_mybuy_ywc=0x7f0d01de;
-        public static final int ll_place_tab=0x7f0d0157;
-        public static final int ll_stay_visit_selsect=0x7f0d0156;
-        public static final int ll_time=0x7f0d015b;
+        public static final int ll_content=0x7f0d024a;
+        public static final int ll_guide=0x7f0d00a5;
+        public static final int ll_mybuy_all=0x7f0d01e6;
+        public static final int ll_mybuy_djd=0x7f0d01e8;
+        public static final int ll_mybuy_dsc=0x7f0d01ea;
+        public static final int ll_mybuy_ywc=0x7f0d01ec;
+        public static final int ll_place_tab=0x7f0d015c;
+        public static final int ll_stay_visit_selsect=0x7f0d015b;
+        public static final int ll_time=0x7f0d0160;
         public static final int ll_top=0x7f0d009c;
-        public static final int ll_type=0x7f0d0159;
-        public static final int llmysell_all=0x7f0d01f1;
-        public static final int llmysell_dty=0x7f0d01f3;
-        public static final int llmysell_jxz=0x7f0d01f5;
-        public static final int llmysell_ywc=0x7f0d01f7;
-        public static final int loPageTurningPoint=0x7f0d0165;
-        public static final int loadGridView=0x7f0d02a3;
-        public static final int location=0x7f0d017e;
-        public static final int login_back=0x7f0d0180;
-        public static final int login_recommend_back=0x7f0d0277;
-        public static final int login_recommend_title=0x7f0d0278;
-        public static final int login_title=0x7f0d0181;
-        public static final int logins_back=0x7f0d00a5;
-        public static final int lv_address=0x7f0d00df;
-        public static final int lv_dowant_detail=0x7f0d031f;
-        public static final int lv_orderdetail_item=0x7f0d0230;
-        public static final int lv_pop=0x7f0d0112;
-        public static final int lv_wanteat_list=0x7f0d032d;
-        public static final int ly_KnowArea=0x7f0d026c;
-        public static final int ly_ageDegree=0x7f0d0268;
-        public static final int ly_arroud_detail=0x7f0d0311;
-        public static final int ly_chanel_select=0x7f0d00b1;
-        public static final int ly_changPwd=0x7f0d0270;
-        public static final int ly_change_receiveTime=0x7f0d02fa;
-        public static final int ly_chose_camera=0x7f0d00c0;
-        public static final int ly_chose_photo=0x7f0d00c2;
-        public static final int ly_degree=0x7f0d026a;
-        public static final int ly_emotion=0x7f0d00d9;
-        public static final int ly_find_select=0x7f0d00b4;
-        public static final int ly_head_setting=0x7f0d0261;
-        public static final int ly_hobby=0x7f0d026e;
-        public static final int ly_index_select=0x7f0d00ae;
-        public static final int ly_loginQuit=0x7f0d0271;
-        public static final int ly_myselft_select=0x7f0d00b7;
-        public static final int ly_pcomment=0x7f0d00c4;
-        public static final int ly_sex=0x7f0d0266;
-        public static final int ly_show=0x7f0d022a;
+        public static final int ll_type=0x7f0d015e;
+        public static final int llmysell_all=0x7f0d01fe;
+        public static final int llmysell_dty=0x7f0d0200;
+        public static final int llmysell_jxz=0x7f0d0202;
+        public static final int llmysell_ywc=0x7f0d0204;
+        public static final int loPageTurningPoint=0x7f0d016a;
+        public static final int loadGridView=0x7f0d02ab;
+        public static final int location=0x7f0d0189;
+        public static final int login_back=0x7f0d018e;
+        public static final int login_recommend_back=0x7f0d027f;
+        public static final int login_recommend_title=0x7f0d0280;
+        public static final int login_title=0x7f0d018f;
+        public static final int logins_back=0x7f0d00a9;
+        public static final int lv_address=0x7f0d00e4;
+        public static final int lv_dowant_detail=0x7f0d032a;
+        public static final int lv_orderdetail_item=0x7f0d0238;
+        public static final int lv_pop=0x7f0d0117;
+        public static final int lv_wanteat_list=0x7f0d0338;
+        public static final int ly_KnowArea=0x7f0d0274;
+        public static final int ly_ageDegree=0x7f0d0270;
+        public static final int ly_arroud_detail=0x7f0d031c;
+        public static final int ly_chanel_select=0x7f0d00b5;
+        public static final int ly_changPwd=0x7f0d0278;
+        public static final int ly_change_receiveTime=0x7f0d0303;
+        public static final int ly_chose_camera=0x7f0d00c4;
+        public static final int ly_chose_photo=0x7f0d00c6;
+        public static final int ly_degree=0x7f0d0272;
+        public static final int ly_emotion=0x7f0d00de;
+        public static final int ly_find_select=0x7f0d00b8;
+        public static final int ly_head_setting=0x7f0d0269;
+        public static final int ly_hobby=0x7f0d0276;
+        public static final int ly_index_select=0x7f0d00b2;
+        public static final int ly_loginQuit=0x7f0d0279;
+        public static final int ly_myselft_select=0x7f0d00bb;
+        public static final int ly_pcomment=0x7f0d00c8;
+        public static final int ly_sex=0x7f0d026e;
+        public static final int ly_show=0x7f0d0232;
         public static final int ly_time_pick=0x7f0d0092;
-        public static final int ly_topic_arroud=0x7f0d00fe;
-        public static final int ly_userAlias=0x7f0d0262;
-        public static final int ly_username=0x7f0d0264;
-        public static final int mViewpager=0x7f0d00f0;
-        public static final int main_fragment_viewPage=0x7f0d00ad;
-        public static final int main_imv_chancel=0x7f0d00b2;
-        public static final int main_imv_find=0x7f0d00b5;
-        public static final int main_imv_index=0x7f0d00af;
-        public static final int main_imv_myselft=0x7f0d00b8;
-        public static final int main_tv_chanel=0x7f0d00b3;
-        public static final int main_tv_find=0x7f0d00b6;
-        public static final int main_tv_index=0x7f0d00b0;
-        public static final int main_tv_myselft=0x7f0d00b9;
-        public static final int main_view=0x7f0d00e9;
-        public static final int map=0x7f0d02f7;
-        public static final int media_actions=0x7f0d0219;
-        public static final int message=0x7f0d016c;
+        public static final int ly_topic_arroud=0x7f0d0103;
+        public static final int ly_userAlias=0x7f0d026a;
+        public static final int ly_username=0x7f0d026c;
+        public static final int mViewpager=0x7f0d00f5;
+        public static final int main_fragment_viewPage=0x7f0d00b1;
+        public static final int main_imv_chancel=0x7f0d00b6;
+        public static final int main_imv_find=0x7f0d00b9;
+        public static final int main_imv_index=0x7f0d00b3;
+        public static final int main_imv_myselft=0x7f0d00bc;
+        public static final int main_tv_chanel=0x7f0d00b7;
+        public static final int main_tv_find=0x7f0d00ba;
+        public static final int main_tv_index=0x7f0d00b4;
+        public static final int main_tv_myselft=0x7f0d00bd;
+        public static final int main_view=0x7f0d00ee;
+        public static final int main_view_pop=0x7f0d0300;
+        public static final int map=0x7f0d02ff;
+        public static final int media_actions=0x7f0d0221;
+        public static final int message=0x7f0d0171;
         public static final int middle=0x7f0d004b;
-        public static final int min=0x7f0d0241;
+        public static final int min=0x7f0d0249;
         public static final int mini=0x7f0d003e;
-        public static final int money_back=0x7f0d01fb;
-        public static final int month=0x7f0d023e;
-        public static final int more_texts=0x7f0d0145;
-        public static final int mouse=0x7f0d00fc;
+        public static final int money_back=0x7f0d0208;
+        public static final int month=0x7f0d0246;
+        public static final int more_texts=0x7f0d014a;
+        public static final int mouse=0x7f0d0101;
         public static final int multiply=0x7f0d0021;
-        public static final int myAssessGo_TextView=0x7f0d01d2;
-        public static final int myBuyMakeViewpager=0x7f0d01e1;
-        public static final int myBuyViewpager=0x7f0d01e0;
-        public static final int my_assess=0x7f0d01ca;
-        public static final int my_assess_me=0x7f0d020f;
-        public static final int my_get_assess=0x7f0d01cc;
-        public static final int my_money=0x7f0d0210;
-        public static final int navigation_header_container=0x7f0d0121;
+        public static final int myAssessGo_TextView=0x7f0d01e0;
+        public static final int myBuyMakeViewpager=0x7f0d01ef;
+        public static final int myBuyViewpager=0x7f0d01ee;
+        public static final int my_assess=0x7f0d01d8;
+        public static final int my_assess_me=0x7f0d0217;
+        public static final int my_get_assess=0x7f0d01da;
+        public static final int my_money=0x7f0d0218;
+        public static final int navigation_header_container=0x7f0d0126;
         public static final int never=0x7f0d004f;
-        public static final int new_food_back=0x7f0d01e7;
-        public static final int new_food_ideas=0x7f0d01ed;
+        public static final int new_food_back=0x7f0d01f4;
+        public static final int new_food_ideas=0x7f0d01fa;
         public static final int none=0x7f0d0016;
         public static final int normal=0x7f0d0012;
-        public static final int notice_back=0x7f0d0104;
-        public static final int notice_details_content=0x7f0d010b;
-        public static final int notice_details_time=0x7f0d010a;
-        public static final int notice_details_title=0x7f0d0109;
-        public static final int notice_fb=0x7f0d0106;
-        public static final int notice_item_content=0x7f0d010e;
-        public static final int notice_item_time=0x7f0d010d;
-        public static final int notice_item_title=0x7f0d010c;
-        public static final int notice_more=0x7f0d0108;
-        public static final int notification_background=0x7f0d0222;
-        public static final int notification_main_column=0x7f0d021c;
-        public static final int notification_main_column_container=0x7f0d021b;
+        public static final int notice_back=0x7f0d0109;
+        public static final int notice_details_content=0x7f0d0110;
+        public static final int notice_details_time=0x7f0d010f;
+        public static final int notice_details_title=0x7f0d010e;
+        public static final int notice_fb=0x7f0d010b;
+        public static final int notice_item_content=0x7f0d0113;
+        public static final int notice_item_time=0x7f0d0112;
+        public static final int notice_item_title=0x7f0d0111;
+        public static final int notice_more=0x7f0d010d;
+        public static final int notification_background=0x7f0d022a;
+        public static final int notification_main_column=0x7f0d0224;
+        public static final int notification_main_column_container=0x7f0d0223;
         public static final int number=0x7f0d0052;
         public static final int numberpick_hour=0x7f0d0093;
         public static final int numpick_mimute=0x7f0d0094;
-        public static final int one=0x7f0d0147;
-        public static final int options1=0x7f0d0239;
-        public static final int options2=0x7f0d023a;
-        public static final int options3=0x7f0d023b;
-        public static final int optionspicker=0x7f0d0238;
-        public static final int orders_back=0x7f0d031a;
-        public static final int outmost_container=0x7f0d0172;
+        public static final int one=0x7f0d014c;
+        public static final int options1=0x7f0d0241;
+        public static final int options2=0x7f0d0242;
+        public static final int options3=0x7f0d0243;
+        public static final int optionspicker=0x7f0d0240;
+        public static final int orders_back=0x7f0d0325;
+        public static final int outmost_container=0x7f0d0177;
         public static final int parallax=0x7f0d0037;
         public static final int parentPanel=0x7f0d0064;
-        public static final int phone=0x7f0d02e9;
-        public static final int pic_ly=0x7f0d0256;
+        public static final int pay_type=0x7f0d017d;
+        public static final int phone=0x7f0d02f1;
+        public static final int pic_ly=0x7f0d025e;
         public static final int pin=0x7f0d0038;
         public static final int point=0x7f0d0053;
-        public static final int pop_layout=0x7f0d01e3;
-        public static final int post_back=0x7f0d0253;
-        public static final int post_content=0x7f0d0255;
-        public static final int post_details_ScrollView=0x7f0d0247;
-        public static final int post_details_back=0x7f0d0244;
-        public static final int post_emoticon=0x7f0d024f;
-        public static final int post_fb=0x7f0d025a;
-        public static final int post_recyclerview=0x7f0d024e;
-        public static final int post_title=0x7f0d0254;
+        public static final int pop_layout=0x7f0d017a;
+        public static final int post_back=0x7f0d025b;
+        public static final int post_content=0x7f0d025d;
+        public static final int post_details_ScrollView=0x7f0d024f;
+        public static final int post_details_back=0x7f0d024c;
+        public static final int post_emoticon=0x7f0d0257;
+        public static final int post_fb=0x7f0d0262;
+        public static final int post_recyclerview=0x7f0d0256;
+        public static final int post_title=0x7f0d025c;
         public static final int progress_circular=0x7f0d0007;
         public static final int progress_horizontal=0x7f0d0008;
-        public static final int psw_back=0x7f0d00bb;
-        public static final int pswedit_new=0x7f0d00be;
-        public static final int pswedit_old=0x7f0d00bd;
-        public static final int pub_time=0x7f0d02e5;
-        public static final int pub_user=0x7f0d02e4;
-        public static final int publishFood=0x7f0d02a4;
-        public static final int quit_layout=0x7f0d016d;
-        public static final int quit_text=0x7f0d016e;
-        public static final int rab_aftEight=0x7f0d01ab;
-        public static final int rab_aftNight=0x7f0d01aa;
-        public static final int rab_aftOther=0x7f0d01ad;
-        public static final int rab_aftZero=0x7f0d01a9;
-        public static final int rab_aftseven=0x7f0d01ac;
-        public static final int rab_degree_doctor=0x7f0d01b6;
-        public static final int rab_degree_junior=0x7f0d01b1;
-        public static final int rab_degree_master=0x7f0d01b5;
-        public static final int rab_degree_other=0x7f0d01b7;
-        public static final int rab_degree_senior=0x7f0d01b2;
-        public static final int rab_degree_specialist=0x7f0d01b3;
-        public static final int rab_degree_underGradte=0x7f0d01b4;
-        public static final int rab_sex_boy=0x7f0d01be;
+        public static final int psw_back=0x7f0d00bf;
+        public static final int pswedit_new=0x7f0d00c2;
+        public static final int pswedit_old=0x7f0d00c1;
+        public static final int pub_time=0x7f0d02ed;
+        public static final int pub_user=0x7f0d02ec;
+        public static final int publishFood=0x7f0d02ac;
+        public static final int quit_layout=0x7f0d0172;
+        public static final int quit_text=0x7f0d0173;
+        public static final int rab_aftEight=0x7f0d01b9;
+        public static final int rab_aftNight=0x7f0d01b8;
+        public static final int rab_aftOther=0x7f0d01bb;
+        public static final int rab_aftZero=0x7f0d01b7;
+        public static final int rab_aftseven=0x7f0d01ba;
+        public static final int rab_degree_doctor=0x7f0d01c4;
+        public static final int rab_degree_junior=0x7f0d01bf;
+        public static final int rab_degree_master=0x7f0d01c3;
+        public static final int rab_degree_other=0x7f0d01c5;
+        public static final int rab_degree_senior=0x7f0d01c0;
+        public static final int rab_degree_specialist=0x7f0d01c1;
+        public static final int rab_degree_underGradte=0x7f0d01c2;
+        public static final int rab_sex_boy=0x7f0d01cc;
         public static final int radio=0x7f0d0074;
-        public static final int rag_sex_girl=0x7f0d01bf;
-        public static final int ragp_change_age=0x7f0d01a8;
-        public static final int ragp_change_sex=0x7f0d01bd;
-        public static final int ragp_degree=0x7f0d01b0;
-        public static final int real_back=0x7f0d031b;
-        public static final int recommend_ItemImage=0x7f0d0272;
-        public static final int recommend_ItemMoney=0x7f0d0275;
-        public static final int recommend_ItemReturn=0x7f0d0276;
-        public static final int recommend_ItemText=0x7f0d0274;
-        public static final int recommend_ItemTitle=0x7f0d0273;
-        public static final int recommend_gridview=0x7f0d0279;
-        public static final int recommend_index_ItemImage=0x7f0d028a;
-        public static final int recommend_index_ItemText=0x7f0d028b;
-        public static final int recommend_text=0x7f0d0144;
-        public static final int recommend_today_ItemImage=0x7f0d017a;
-        public static final int recommend_today_ItemMoney=0x7f0d017d;
-        public static final int recommend_today_ItemTitle=0x7f0d017b;
-        public static final int recommend_today_descript=0x7f0d017c;
-        public static final int recycleImv_comment_userHead=0x7f0d025b;
-        public static final int remember_pass=0x7f0d00a8;
+        public static final int rag_sex_girl=0x7f0d01cd;
+        public static final int ragp_change_age=0x7f0d01b6;
+        public static final int ragp_change_sex=0x7f0d01cb;
+        public static final int ragp_degree=0x7f0d01be;
+        public static final int real_back=0x7f0d0326;
+        public static final int recommend_ItemImage=0x7f0d027a;
+        public static final int recommend_ItemMoney=0x7f0d027d;
+        public static final int recommend_ItemReturn=0x7f0d027e;
+        public static final int recommend_ItemText=0x7f0d027c;
+        public static final int recommend_ItemTitle=0x7f0d027b;
+        public static final int recommend_gridview=0x7f0d0281;
+        public static final int recommend_index_ItemImage=0x7f0d0292;
+        public static final int recommend_index_ItemText=0x7f0d0293;
+        public static final int recommend_text=0x7f0d0149;
+        public static final int recommend_today_ItemImage=0x7f0d0185;
+        public static final int recommend_today_ItemMoney=0x7f0d0188;
+        public static final int recommend_today_ItemTitle=0x7f0d0186;
+        public static final int recommend_today_descript=0x7f0d0187;
+        public static final int recycleImv_comment_userHead=0x7f0d0263;
+        public static final int remember_pass=0x7f0d00ac;
         public static final int right=0x7f0d002d;
         public static final int rightBottom=0x7f0d0027;
         public static final int rightCenter=0x7f0d0028;
         public static final int rightTop=0x7f0d0029;
-        public static final int right_icon=0x7f0d0221;
-        public static final int right_side=0x7f0d021d;
-        public static final int rollViewpager=0x7f0d013f;
-        public static final int room_back=0x7f0d0319;
-        public static final int root_layout=0x7f0d0116;
+        public static final int right_icon=0x7f0d0229;
+        public static final int right_side=0x7f0d0225;
+        public static final int rl_guide=0x7f0d00a2;
+        public static final int rl_splash=0x7f0d00d5;
+        public static final int rollViewpager=0x7f0d0144;
+        public static final int room_back=0x7f0d0324;
+        public static final int root_layout=0x7f0d011b;
         public static final int round=0x7f0d0010;
         public static final int ry_eat_type=0x7f0d009a;
         public static final int screen=0x7f0d0022;
@@ -4932,98 +4959,99 @@ containing a value of this type.
         public static final int scrollIndicatorUp=0x7f0d0066;
         public static final int scrollView=0x7f0d0067;
         public static final int scrollable=0x7f0d0057;
-        public static final int scv_fooddetail=0x7f0d0310;
-        public static final int sdv_background=0x7f0d00f1;
-        public static final int search=0x7f0d0182;
-        public static final int searchMap=0x7f0d02f6;
-        public static final int search_back=0x7f0d02a6;
+        public static final int scv_fooddetail=0x7f0d031b;
+        public static final int sdv_background=0x7f0d00f6;
+        public static final int search=0x7f0d0190;
+        public static final int searchMap=0x7f0d02fe;
+        public static final int search_back=0x7f0d02ae;
         public static final int search_badge=0x7f0d007f;
         public static final int search_bar=0x7f0d007e;
         public static final int search_button=0x7f0d0080;
         public static final int search_close_btn=0x7f0d0085;
         public static final int search_edit_frame=0x7f0d0081;
         public static final int search_go_btn=0x7f0d0087;
-        public static final int search_layout=0x7f0d02a5;
+        public static final int search_layout=0x7f0d02ad;
         public static final int search_mag_icon=0x7f0d0082;
         public static final int search_plate=0x7f0d0083;
         public static final int search_src_text=0x7f0d0084;
         public static final int search_voice_btn=0x7f0d0088;
-        public static final int second_ItemImage=0x7f0d02ac;
-        public static final int second_ItemTitle=0x7f0d02ad;
-        public static final int segmentView_OrderType_choose=0x7f0d01ec;
-        public static final int segment_buyOrder_sort=0x7f0d01d7;
-        public static final int segment_sellOrder_sort=0x7f0d01f0;
-        public static final int segment_wanteat_control=0x7f0d032f;
-        public static final int select_AllMoney=0x7f0d033c;
+        public static final int second_ItemImage=0x7f0d02b4;
+        public static final int second_ItemTitle=0x7f0d02b5;
+        public static final int segmentView_OrderType_choose=0x7f0d01f9;
+        public static final int segment_buyOrder_sort=0x7f0d01e5;
+        public static final int segment_sellOrder_sort=0x7f0d01fd;
+        public static final int segment_wanteat_control=0x7f0d033a;
+        public static final int select_AllMoney=0x7f0d0347;
         public static final int select_dialog_listview=0x7f0d0089;
-        public static final int select_img=0x7f0d0258;
-        public static final int sell_back=0x7f0d01ef;
-        public static final int sell_viewPageA=0x7f0d01fa;
-        public static final int sell_viewPagep=0x7f0d01f9;
-        public static final int service_content=0x7f0d02f0;
-        public static final int service_fb=0x7f0d02f5;
-        public static final int service_list=0x7f0d02ec;
-        public static final int service_money=0x7f0d02e7;
-        public static final int service_time=0x7f0d02f2;
-        public static final int service_time_add=0x7f0d02f3;
-        public static final int service_time_minus=0x7f0d02f1;
-        public static final int service_title=0x7f0d0105;
-        public static final int setting=0x7f0d0206;
-        public static final int share_dg=0x7f0d0149;
-        public static final int share_dskd=0x7f0d014b;
-        public static final int share_esjy=0x7f0d014f;
-        public static final int share_jqqd=0x7f0d0150;
-        public static final int share_jsxh=0x7f0d014d;
-        public static final int share_jz=0x7f0d0148;
-        public static final int share_phlr=0x7f0d014e;
-        public static final int share_sfc=0x7f0d014a;
-        public static final int shopMap=0x7f0d00ac;
-        public static final int shopping_cart=0x7f0d0155;
-        public static final int shopping_cart_gridView=0x7f0d02fc;
+        public static final int select_img=0x7f0d0260;
+        public static final int sell_back=0x7f0d01fc;
+        public static final int sell_viewPageA=0x7f0d0207;
+        public static final int sell_viewPagep=0x7f0d0206;
+        public static final int service_content=0x7f0d02f8;
+        public static final int service_fb=0x7f0d02fd;
+        public static final int service_list=0x7f0d02f4;
+        public static final int service_money=0x7f0d02ef;
+        public static final int service_time=0x7f0d02fa;
+        public static final int service_time_add=0x7f0d02fb;
+        public static final int service_time_minus=0x7f0d02f9;
+        public static final int service_title=0x7f0d010a;
+        public static final int setting=0x7f0d0213;
+        public static final int share_dg=0x7f0d014e;
+        public static final int share_dskd=0x7f0d0150;
+        public static final int share_esjy=0x7f0d0154;
+        public static final int share_jqqd=0x7f0d0155;
+        public static final int share_jsxh=0x7f0d0152;
+        public static final int share_jz=0x7f0d014d;
+        public static final int share_phlr=0x7f0d0153;
+        public static final int share_sfc=0x7f0d014f;
+        public static final int shopMap=0x7f0d00b0;
+        public static final int shopping_cart=0x7f0d015a;
+        public static final int shopping_cart_gridView=0x7f0d0305;
         public static final int shortcut=0x7f0d0073;
         public static final int showCustom=0x7f0d0017;
         public static final int showHome=0x7f0d0018;
         public static final int showTitle=0x7f0d0019;
-        public static final int smallLabel=0x7f0d011b;
-        public static final int snackbar_action=0x7f0d0120;
-        public static final int snackbar_text=0x7f0d011f;
+        public static final int smallLabel=0x7f0d0120;
+        public static final int snackbar_action=0x7f0d0125;
+        public static final int snackbar_text=0x7f0d0124;
         public static final int snap=0x7f0d001f;
         public static final int spacer=0x7f0d0063;
-        public static final int spiner_wanteat_item=0x7f0d032b;
+        public static final int spiner_wanteat_item=0x7f0d0336;
         public static final int split_action_bar=0x7f0d0009;
         public static final int src_atop=0x7f0d0023;
         public static final int src_in=0x7f0d0024;
         public static final int src_over=0x7f0d0025;
         public static final int start=0x7f0d0036;
-        public static final int start_BuyAcomment_level=0x7f0d029f;
-        public static final int start_BuyAcomment_miao=0x7f0d029d;
-        public static final int start_BuyAcomment_serivice=0x7f0d029e;
-        public static final int status_bar_latest_event_content=0x7f0d0218;
+        public static final int start_BuyAcomment_level=0x7f0d02a7;
+        public static final int start_BuyAcomment_miao=0x7f0d02a5;
+        public static final int start_BuyAcomment_serivice=0x7f0d02a6;
+        public static final int status_bar_latest_event_content=0x7f0d0220;
         public static final int submenuarrow=0x7f0d0075;
         public static final int submit_area=0x7f0d0086;
-        public static final int successView=0x7f0d0307;
+        public static final int successView=0x7f0d0310;
         public static final int sun=0x7f0d0051;
-        public static final int sure_layout=0x7f0d016f;
-        public static final int sure_text=0x7f0d0170;
-        public static final int swipe_circle=0x7f0d0137;
+        public static final int sure_layout=0x7f0d0174;
+        public static final int sure_text=0x7f0d0175;
+        public static final int swipe_circle=0x7f0d013c;
         public static final int tabMode=0x7f0d0013;
-        public static final int tab_do=0x7f0d0143;
-        public static final int tab_index=0x7f0d0141;
-        public static final int tab_rg_menu=0x7f0d0140;
-        public static final int tab_want=0x7f0d0142;
-        public static final int text=0x7f0d0228;
-        public static final int text2=0x7f0d0226;
+        public static final int tab_do=0x7f0d0148;
+        public static final int tab_index=0x7f0d0146;
+        public static final int tab_rg_menu=0x7f0d0145;
+        public static final int tab_want=0x7f0d0147;
+        public static final int text=0x7f0d0230;
+        public static final int text2=0x7f0d022e;
         public static final int textSpacerNoButtons=0x7f0d0069;
         public static final int textSpacerNoTitle=0x7f0d0068;
-        public static final int textView2=0x7f0d0130;
-        public static final int textView3=0x7f0d031c;
+        public static final int textView2=0x7f0d0135;
+        public static final int textView3=0x7f0d0327;
         public static final int textView4=0x7f0d008b;
-        public static final int textView5=0x7f0d02a1;
-        public static final int text_common_problem=0x7f0d00ef;
-        public static final int text_input_password_toggle=0x7f0d0126;
-        public static final int text_seller_description=0x7f0d00ed;
-        public static final int time=0x7f0d021e;
-        public static final int timepicker=0x7f0d023c;
+        public static final int textView5=0x7f0d02a9;
+        public static final int text_common_problem=0x7f0d00f4;
+        public static final int text_input_password_toggle=0x7f0d012b;
+        public static final int text_seller_description=0x7f0d00f2;
+        public static final int time=0x7f0d0226;
+        public static final int timepicker=0x7f0d0244;
+        public static final int tip=0x7f0d018d;
         public static final int tipdialog_cancel=0x7f0d0090;
         public static final int tipdialog_comfirm=0x7f0d008f;
         public static final int tipdialog_contents=0x7f0d008e;
@@ -5031,240 +5059,240 @@ containing a value of this type.
         public static final int title=0x7f0d0061;
         public static final int titleDividerNoCustom=0x7f0d0070;
         public static final int title_template=0x7f0d006e;
-        public static final int toastMessage=0x7f0d011a;
-        public static final int today_food_back=0x7f0d02a2;
+        public static final int toastMessage=0x7f0d011f;
+        public static final int today_food_back=0x7f0d02aa;
         public static final int top=0x7f0d002e;
         public static final int topPanel=0x7f0d006d;
-        public static final int top_image=0x7f0d0171;
-        public static final int topicTitle=0x7f0d0245;
-        public static final int touch_outside=0x7f0d011d;
-        public static final int tpv1=0x7f0d028c;
+        public static final int top_image=0x7f0d0176;
+        public static final int topicTitle=0x7f0d024d;
+        public static final int total_money=0x7f0d017e;
+        public static final int touch_outside=0x7f0d0122;
+        public static final int tpv1=0x7f0d0294;
         public static final int transition_current_scene=0x7f0d000a;
         public static final int transition_scene_layoutid_cache=0x7f0d000b;
-        public static final int triangle_view=0x7f0d0243;
-        public static final int tv1=0x7f0d028d;
-        public static final int tvTitle=0x7f0d0162;
-        public static final int tv_CurComment_content=0x7f0d00cd;
-        public static final int tv_CurComment_time=0x7f0d00ce;
-        public static final int tv_CurComment_userName=0x7f0d00cc;
-        public static final int tv_WEOC_content=0x7f0d00fb;
-        public static final int tv_WEOC_score=0x7f0d00f9;
-        public static final int tv_WEOC_time=0x7f0d00fa;
-        public static final int tv_WEOC_userName=0x7f0d00f7;
-        public static final int tv_address_area=0x7f0d00e3;
-        public static final int tv_address_community=0x7f0d00e4;
-        public static final int tv_address_detail=0x7f0d00e5;
-        public static final int tv_address_userPhone=0x7f0d00e1;
-        public static final int tv_address_username=0x7f0d00e0;
-        public static final int tv_ageDegree=0x7f0d0269;
-        public static final int tv_allMoney=0x7f0d02fe;
-        public static final int tv_anore_address=0x7f0d02f9;
-        public static final int tv_cartitem_delete=0x7f0d0305;
-        public static final int tv_cartitem_momeny=0x7f0d0304;
-        public static final int tv_cartitem_servertype=0x7f0d0303;
-        public static final int tv_cartitme_title=0x7f0d0302;
-        public static final int tv_clear=0x7f0d02ab;
-        public static final int tv_comemnt_username=0x7f0d025c;
-        public static final int tv_comment=0x7f0d00d8;
-        public static final int tv_comment_content=0x7f0d025f;
-        public static final int tv_comment_time=0x7f0d025d;
-        public static final int tv_common_listpop_title=0x7f0d0113;
-        public static final int tv_cookCommend_content=0x7f0d00c8;
-        public static final int tv_cookCommend_time=0x7f0d00ca;
-        public static final int tv_cookCommend_userName=0x7f0d00c7;
-        public static final int tv_degree=0x7f0d026b;
-        public static final int tv_do_address=0x7f0d012a;
-        public static final int tv_do_hopetime=0x7f0d012b;
-        public static final int tv_do_momeny=0x7f0d0129;
-        public static final int tv_do_title=0x7f0d0128;
-        public static final int tv_dodeatil_title=0x7f0d031e;
-        public static final int tv_dodetailreceivername=0x7f0d0322;
-        public static final int tv_dowant_expecttime=0x7f0d0237;
-        public static final int tv_dowant_price=0x7f0d0321;
-        public static final int tv_dowant_reponsetime=0x7f0d0326;
-        public static final int tv_dowant_servicetype=0x7f0d0323;
-        public static final int tv_eat_momeny=0x7f0d0314;
-        public static final int tv_eat_name=0x7f0d030e;
+        public static final int triangle_view=0x7f0d024b;
+        public static final int tv1=0x7f0d0295;
+        public static final int tvTitle=0x7f0d0167;
+        public static final int tv_CurComment_content=0x7f0d00d1;
+        public static final int tv_CurComment_time=0x7f0d00d2;
+        public static final int tv_CurComment_userName=0x7f0d00d0;
+        public static final int tv_WEOC_content=0x7f0d0100;
+        public static final int tv_WEOC_score=0x7f0d00fe;
+        public static final int tv_WEOC_time=0x7f0d00ff;
+        public static final int tv_WEOC_userName=0x7f0d00fc;
+        public static final int tv_address_area=0x7f0d00e8;
+        public static final int tv_address_community=0x7f0d00e9;
+        public static final int tv_address_detail=0x7f0d00ea;
+        public static final int tv_address_userPhone=0x7f0d00e6;
+        public static final int tv_address_username=0x7f0d00e5;
+        public static final int tv_ageDegree=0x7f0d0271;
+        public static final int tv_allMoney=0x7f0d0307;
+        public static final int tv_anore_address=0x7f0d0302;
+        public static final int tv_cartitem_delete=0x7f0d030e;
+        public static final int tv_cartitem_momeny=0x7f0d030d;
+        public static final int tv_cartitem_servertype=0x7f0d030c;
+        public static final int tv_cartitme_title=0x7f0d030b;
+        public static final int tv_clear=0x7f0d02b3;
+        public static final int tv_comemnt_username=0x7f0d0264;
+        public static final int tv_comment=0x7f0d00dd;
+        public static final int tv_comment_content=0x7f0d0267;
+        public static final int tv_comment_time=0x7f0d0265;
+        public static final int tv_common_listpop_title=0x7f0d0118;
+        public static final int tv_cookCommend_content=0x7f0d00cc;
+        public static final int tv_cookCommend_time=0x7f0d00ce;
+        public static final int tv_cookCommend_userName=0x7f0d00cb;
+        public static final int tv_degree=0x7f0d0273;
+        public static final int tv_do_address=0x7f0d012f;
+        public static final int tv_do_hopetime=0x7f0d0130;
+        public static final int tv_do_momeny=0x7f0d012e;
+        public static final int tv_do_title=0x7f0d012d;
+        public static final int tv_dodeatil_title=0x7f0d0329;
+        public static final int tv_dodetailreceivername=0x7f0d032d;
+        public static final int tv_dowant_expecttime=0x7f0d023f;
+        public static final int tv_dowant_price=0x7f0d032c;
+        public static final int tv_dowant_reponsetime=0x7f0d0331;
+        public static final int tv_dowant_servicetype=0x7f0d032e;
+        public static final int tv_eat_momeny=0x7f0d031f;
+        public static final int tv_eat_name=0x7f0d0319;
         public static final int tv_eat_type=0x7f0d009b;
-        public static final int tv_foodDetails=0x7f0d0316;
-        public static final int tv_food_decripts=0x7f0d0315;
+        public static final int tv_foodDetails=0x7f0d0321;
+        public static final int tv_food_decripts=0x7f0d0320;
         public static final int tv_food_name=0x7f0d0097;
         public static final int tv_food_num=0x7f0d0098;
-        public static final int tv_food_title=0x7f0d00c9;
+        public static final int tv_food_title=0x7f0d00cd;
         public static final int tv_food_type=0x7f0d0099;
-        public static final int tv_head=0x7f0d0154;
-        public static final int tv_hobby=0x7f0d026f;
-        public static final int tv_inorge_statu=0x7f0d00e2;
-        public static final int tv_knowArea=0x7f0d026d;
-        public static final int tv_makebuyF_checkCommend=0x7f0d0194;
-        public static final int tv_makebuyF_detail=0x7f0d0195;
-        public static final int tv_makebuyF_foodname=0x7f0d0191;
-        public static final int tv_makebuyF_orderId=0x7f0d0193;
-        public static final int tv_makebuyF_price=0x7f0d0192;
-        public static final int tv_makebuyF_time=0x7f0d018f;
-        public static final int tv_makebuyWS_comfirm=0x7f0d019c;
-        public static final int tv_makebuyWS_detail=0x7f0d019d;
-        public static final int tv_makebuyWS_foodname=0x7f0d0198;
-        public static final int tv_makebuyWS_orderId=0x7f0d019a;
-        public static final int tv_makebuyWS_price=0x7f0d0199;
-        public static final int tv_makebuyWS_result=0x7f0d019b;
-        public static final int tv_makebuyWS_time=0x7f0d0196;
-        public static final int tv_makebuyW_cancel=0x7f0d01a5;
-        public static final int tv_makebuyW_detial=0x7f0d01a6;
-        public static final int tv_makebuyW_expecttime=0x7f0d01a4;
-        public static final int tv_makebuyW_foodname=0x7f0d01a1;
-        public static final int tv_makebuyW_orderId=0x7f0d01a3;
-        public static final int tv_makebuyW_price=0x7f0d01a2;
-        public static final int tv_makebuyW_status=0x7f0d019e;
-        public static final int tv_makebuyW_time=0x7f0d019f;
-        public static final int tv_makebuy_cancel=0x7f0d018c;
-        public static final int tv_makebuy_checkcommend=0x7f0d018b;
-        public static final int tv_makebuy_comfirm=0x7f0d018d;
-        public static final int tv_makebuy_detail=0x7f0d018e;
-        public static final int tv_makebuy_foodname=0x7f0d0187;
-        public static final int tv_makebuy_orderId=0x7f0d0189;
-        public static final int tv_makebuy_price=0x7f0d0188;
-        public static final int tv_makebuy_result=0x7f0d018a;
-        public static final int tv_makebuy_status=0x7f0d0184;
-        public static final int tv_makebuy_time=0x7f0d0185;
-        public static final int tv_mybuy_all=0x7f0d01d9;
-        public static final int tv_mybuy_djd=0x7f0d01db;
-        public static final int tv_mybuy_dsc=0x7f0d01dd;
-        public static final int tv_mybuy_ywc=0x7f0d01df;
-        public static final int tv_note_dodetail=0x7f0d0320;
-        public static final int tv_operateAction=0x7f0d0203;
-        public static final int tv_orderdetail_allprice=0x7f0d0232;
-        public static final int tv_orderdetail_back=0x7f0d022e;
-        public static final int tv_orderdetail_note=0x7f0d0231;
-        public static final int tv_orderdetail_nubmer=0x7f0d022f;
-        public static final int tv_orderdetail_username=0x7f0d0233;
-        public static final int tv_ordertail_address=0x7f0d0235;
-        public static final int tv_ordertail_phone=0x7f0d0236;
-        public static final int tv_ordertail_servicetype=0x7f0d0234;
-        public static final int tv_pbs_commentTime=0x7f0d024a;
-        public static final int tv_pbs_content=0x7f0d024c;
-        public static final int tv_pbs_title=0x7f0d024b;
-        public static final int tv_pbs_userName=0x7f0d0249;
-        public static final int tv_receiver_address=0x7f0d0324;
-        public static final int tv_receiver_phone=0x7f0d0325;
-        public static final int tv_receiver_time=0x7f0d02fb;
-        public static final int tv_remain_food=0x7f0d0313;
-        public static final int tv_remdAll_cancel_order=0x7f0d0281;
-        public static final int tv_remdAll_checkcommend=0x7f0d0280;
-        public static final int tv_remdAll_checkdetial=0x7f0d0283;
-        public static final int tv_remdAll_comfirm_food=0x7f0d0282;
-        public static final int tv_remdAll_foodname=0x7f0d027c;
-        public static final int tv_remdAll_foodprice=0x7f0d027d;
-        public static final int tv_remdAll_orderNumber=0x7f0d027e;
-        public static final int tv_remdAll_orderReuslt=0x7f0d027f;
-        public static final int tv_remdAll_order_status=0x7f0d027a;
-        public static final int tv_remdAll_time=0x7f0d027b;
-        public static final int tv_remdWS_comfirm=0x7f0d0299;
-        public static final int tv_remdWS_detail=0x7f0d029a;
-        public static final int tv_remdWS_foodname=0x7f0d0296;
-        public static final int tv_remdWS_orderId=0x7f0d0298;
-        public static final int tv_remdWS_price=0x7f0d0297;
-        public static final int tv_remdWS_time=0x7f0d0295;
-        public static final int tv_remdWait_cancel=0x7f0d0293;
-        public static final int tv_remdWait_detial=0x7f0d0294;
-        public static final int tv_remdWait_foodname=0x7f0d028f;
-        public static final int tv_remdWait_orderId=0x7f0d0291;
-        public static final int tv_remdWait_price=0x7f0d0290;
-        public static final int tv_remdWait_recTime=0x7f0d0292;
-        public static final int tv_remdf_checkCommend=0x7f0d0288;
-        public static final int tv_remdf_detail=0x7f0d0289;
-        public static final int tv_remdf_foodname=0x7f0d0285;
-        public static final int tv_remdf_orderId=0x7f0d0287;
-        public static final int tv_remdf_price=0x7f0d0286;
-        public static final int tv_remdf_time=0x7f0d0284;
-        public static final int tv_remodWait_time=0x7f0d028e;
-        public static final int tv_sellAgreeA_accept=0x7f0d02be;
-        public static final int tv_sellAgreeA_cancel=0x7f0d02bf;
-        public static final int tv_sellAgreeA_detail=0x7f0d02c0;
-        public static final int tv_sellAgreeA_expecttime=0x7f0d02bd;
-        public static final int tv_sellAgreeA_foodName=0x7f0d02ba;
-        public static final int tv_sellAgreeA_orderId=0x7f0d02bc;
-        public static final int tv_sellAgreeA_price=0x7f0d02bb;
-        public static final int tv_sellAgreeA_time=0x7f0d02b9;
-        public static final int tv_sellAllA_accept=0x7f0d02b6;
-        public static final int tv_sellAllA_cancel=0x7f0d02b7;
-        public static final int tv_sellAllA_checkCommend=0x7f0d02b5;
-        public static final int tv_sellAllA_detail=0x7f0d02b8;
-        public static final int tv_sellAllA_foodName=0x7f0d02b1;
-        public static final int tv_sellAllA_orderId=0x7f0d02b3;
-        public static final int tv_sellAllA_price=0x7f0d02b2;
-        public static final int tv_sellAllA_result=0x7f0d02b4;
-        public static final int tv_sellAllA_status=0x7f0d02ae;
-        public static final int tv_sellAllA_time=0x7f0d02af;
-        public static final int tv_sellAllP_accept=0x7f0d02d5;
-        public static final int tv_sellAllP_cancel=0x7f0d02d6;
-        public static final int tv_sellAllP_checkCommend=0x7f0d02d4;
-        public static final int tv_sellAllP_detail=0x7f0d02d7;
-        public static final int tv_sellAllP_status=0x7f0d02ce;
-        public static final int tv_selldoingA_detail=0x7f0d02c6;
-        public static final int tv_selldoingA_foodname=0x7f0d02c3;
-        public static final int tv_selldoingA_orderId=0x7f0d02c5;
-        public static final int tv_selldoingA_price=0x7f0d02c4;
-        public static final int tv_selldoingA_time=0x7f0d02c1;
-        public static final int tv_selldoingp_detail=0x7f0d02dc;
-        public static final int tv_selldoingp_foodname=0x7f0d02d9;
-        public static final int tv_selldoingp_orderId=0x7f0d02db;
-        public static final int tv_selldoingp_price=0x7f0d02da;
-        public static final int tv_selldoingp_time=0x7f0d02d8;
-        public static final int tv_sellfinshA_checkCommend=0x7f0d02cc;
-        public static final int tv_sellfinshA_detail=0x7f0d02cd;
-        public static final int tv_sellfinshA_foodname=0x7f0d02c9;
-        public static final int tv_sellfinshA_orderId=0x7f0d02cb;
-        public static final int tv_sellfinshA_price=0x7f0d02ca;
-        public static final int tv_sellfinshA_time=0x7f0d02c7;
-        public static final int tv_sellfinshp_checkCommend=0x7f0d02e1;
-        public static final int tv_sellfinshp_detail=0x7f0d02e2;
-        public static final int tv_sellfinshp_foodname=0x7f0d02de;
-        public static final int tv_sellfinshp_orderId=0x7f0d02e0;
-        public static final int tv_sellfinshp_price=0x7f0d02df;
-        public static final int tv_sellfinshp_time=0x7f0d02dd;
-        public static final int tv_sex=0x7f0d0267;
+        public static final int tv_head=0x7f0d0159;
+        public static final int tv_hobby=0x7f0d0277;
+        public static final int tv_inorge_statu=0x7f0d00e7;
+        public static final int tv_knowArea=0x7f0d0275;
+        public static final int tv_liji=0x7f0d00a4;
+        public static final int tv_makebuyF_checkCommend=0x7f0d01a2;
+        public static final int tv_makebuyF_detail=0x7f0d01a3;
+        public static final int tv_makebuyF_foodname=0x7f0d019f;
+        public static final int tv_makebuyF_orderId=0x7f0d01a1;
+        public static final int tv_makebuyF_price=0x7f0d01a0;
+        public static final int tv_makebuyF_time=0x7f0d019d;
+        public static final int tv_makebuyWS_comfirm=0x7f0d01aa;
+        public static final int tv_makebuyWS_detail=0x7f0d01ab;
+        public static final int tv_makebuyWS_foodname=0x7f0d01a6;
+        public static final int tv_makebuyWS_orderId=0x7f0d01a8;
+        public static final int tv_makebuyWS_price=0x7f0d01a7;
+        public static final int tv_makebuyWS_result=0x7f0d01a9;
+        public static final int tv_makebuyWS_time=0x7f0d01a4;
+        public static final int tv_makebuyW_cancel=0x7f0d01b3;
+        public static final int tv_makebuyW_detial=0x7f0d01b4;
+        public static final int tv_makebuyW_expecttime=0x7f0d01b2;
+        public static final int tv_makebuyW_foodname=0x7f0d01af;
+        public static final int tv_makebuyW_orderId=0x7f0d01b1;
+        public static final int tv_makebuyW_price=0x7f0d01b0;
+        public static final int tv_makebuyW_status=0x7f0d01ac;
+        public static final int tv_makebuyW_time=0x7f0d01ad;
+        public static final int tv_makebuy_cancel=0x7f0d019a;
+        public static final int tv_makebuy_checkcommend=0x7f0d0199;
+        public static final int tv_makebuy_comfirm=0x7f0d019b;
+        public static final int tv_makebuy_detail=0x7f0d019c;
+        public static final int tv_makebuy_foodname=0x7f0d0195;
+        public static final int tv_makebuy_orderId=0x7f0d0197;
+        public static final int tv_makebuy_price=0x7f0d0196;
+        public static final int tv_makebuy_result=0x7f0d0198;
+        public static final int tv_makebuy_status=0x7f0d0192;
+        public static final int tv_makebuy_time=0x7f0d0193;
+        public static final int tv_mybuy_all=0x7f0d01e7;
+        public static final int tv_mybuy_djd=0x7f0d01e9;
+        public static final int tv_mybuy_dsc=0x7f0d01eb;
+        public static final int tv_mybuy_ywc=0x7f0d01ed;
+        public static final int tv_note_dodetail=0x7f0d032b;
+        public static final int tv_operateAction=0x7f0d0210;
+        public static final int tv_orderdetail_allprice=0x7f0d023a;
+        public static final int tv_orderdetail_back=0x7f0d0236;
+        public static final int tv_orderdetail_note=0x7f0d0239;
+        public static final int tv_orderdetail_nubmer=0x7f0d0237;
+        public static final int tv_orderdetail_username=0x7f0d023b;
+        public static final int tv_ordertail_address=0x7f0d023d;
+        public static final int tv_ordertail_phone=0x7f0d023e;
+        public static final int tv_ordertail_servicetype=0x7f0d023c;
+        public static final int tv_pbs_commentTime=0x7f0d0252;
+        public static final int tv_pbs_content=0x7f0d0254;
+        public static final int tv_pbs_title=0x7f0d0253;
+        public static final int tv_pbs_userName=0x7f0d0251;
+        public static final int tv_receiver_address=0x7f0d032f;
+        public static final int tv_receiver_phone=0x7f0d0330;
+        public static final int tv_receiver_time=0x7f0d0304;
+        public static final int tv_remain_food=0x7f0d031e;
+        public static final int tv_remdAll_cancel_order=0x7f0d0289;
+        public static final int tv_remdAll_checkcommend=0x7f0d0288;
+        public static final int tv_remdAll_checkdetial=0x7f0d028b;
+        public static final int tv_remdAll_comfirm_food=0x7f0d028a;
+        public static final int tv_remdAll_foodname=0x7f0d0284;
+        public static final int tv_remdAll_foodprice=0x7f0d0285;
+        public static final int tv_remdAll_orderNumber=0x7f0d0286;
+        public static final int tv_remdAll_orderReuslt=0x7f0d0287;
+        public static final int tv_remdAll_order_status=0x7f0d0282;
+        public static final int tv_remdAll_time=0x7f0d0283;
+        public static final int tv_remdWS_comfirm=0x7f0d02a1;
+        public static final int tv_remdWS_detail=0x7f0d02a2;
+        public static final int tv_remdWS_foodname=0x7f0d029e;
+        public static final int tv_remdWS_orderId=0x7f0d02a0;
+        public static final int tv_remdWS_price=0x7f0d029f;
+        public static final int tv_remdWS_time=0x7f0d029d;
+        public static final int tv_remdWait_cancel=0x7f0d029b;
+        public static final int tv_remdWait_detial=0x7f0d029c;
+        public static final int tv_remdWait_foodname=0x7f0d0297;
+        public static final int tv_remdWait_orderId=0x7f0d0299;
+        public static final int tv_remdWait_price=0x7f0d0298;
+        public static final int tv_remdWait_recTime=0x7f0d029a;
+        public static final int tv_remdf_checkCommend=0x7f0d0290;
+        public static final int tv_remdf_detail=0x7f0d0291;
+        public static final int tv_remdf_foodname=0x7f0d028d;
+        public static final int tv_remdf_orderId=0x7f0d028f;
+        public static final int tv_remdf_price=0x7f0d028e;
+        public static final int tv_remdf_time=0x7f0d028c;
+        public static final int tv_remodWait_time=0x7f0d0296;
+        public static final int tv_sellAgreeA_accept=0x7f0d02c6;
+        public static final int tv_sellAgreeA_cancel=0x7f0d02c7;
+        public static final int tv_sellAgreeA_detail=0x7f0d02c8;
+        public static final int tv_sellAgreeA_expecttime=0x7f0d02c5;
+        public static final int tv_sellAgreeA_foodName=0x7f0d02c2;
+        public static final int tv_sellAgreeA_orderId=0x7f0d02c4;
+        public static final int tv_sellAgreeA_price=0x7f0d02c3;
+        public static final int tv_sellAgreeA_time=0x7f0d02c1;
+        public static final int tv_sellAllA_accept=0x7f0d02be;
+        public static final int tv_sellAllA_cancel=0x7f0d02bf;
+        public static final int tv_sellAllA_checkCommend=0x7f0d02bd;
+        public static final int tv_sellAllA_detail=0x7f0d02c0;
+        public static final int tv_sellAllA_foodName=0x7f0d02b9;
+        public static final int tv_sellAllA_orderId=0x7f0d02bb;
+        public static final int tv_sellAllA_price=0x7f0d02ba;
+        public static final int tv_sellAllA_result=0x7f0d02bc;
+        public static final int tv_sellAllA_status=0x7f0d02b6;
+        public static final int tv_sellAllA_time=0x7f0d02b7;
+        public static final int tv_sellAllP_accept=0x7f0d02dd;
+        public static final int tv_sellAllP_cancel=0x7f0d02de;
+        public static final int tv_sellAllP_checkCommend=0x7f0d02dc;
+        public static final int tv_sellAllP_detail=0x7f0d02df;
+        public static final int tv_sellAllP_status=0x7f0d02d6;
+        public static final int tv_selldoingA_detail=0x7f0d02ce;
+        public static final int tv_selldoingA_foodname=0x7f0d02cb;
+        public static final int tv_selldoingA_orderId=0x7f0d02cd;
+        public static final int tv_selldoingA_price=0x7f0d02cc;
+        public static final int tv_selldoingA_time=0x7f0d02c9;
+        public static final int tv_selldoingp_detail=0x7f0d02e4;
+        public static final int tv_selldoingp_foodname=0x7f0d02e1;
+        public static final int tv_selldoingp_orderId=0x7f0d02e3;
+        public static final int tv_selldoingp_price=0x7f0d02e2;
+        public static final int tv_selldoingp_time=0x7f0d02e0;
+        public static final int tv_sellfinshA_checkCommend=0x7f0d02d4;
+        public static final int tv_sellfinshA_detail=0x7f0d02d5;
+        public static final int tv_sellfinshA_foodname=0x7f0d02d1;
+        public static final int tv_sellfinshA_orderId=0x7f0d02d3;
+        public static final int tv_sellfinshA_price=0x7f0d02d2;
+        public static final int tv_sellfinshA_time=0x7f0d02cf;
+        public static final int tv_sellfinshp_checkCommend=0x7f0d02e9;
+        public static final int tv_sellfinshp_detail=0x7f0d02ea;
+        public static final int tv_sellfinshp_foodname=0x7f0d02e6;
+        public static final int tv_sellfinshp_orderId=0x7f0d02e8;
+        public static final int tv_sellfinshp_price=0x7f0d02e7;
+        public static final int tv_sellfinshp_time=0x7f0d02e5;
+        public static final int tv_sex=0x7f0d026f;
         public static final int tv_time_title=0x7f0d0091;
-        public static final int tv_tip=0x7f0d02a9;
-        public static final int tv_title=0x7f0d00f2;
-        public static final int tv_tv_sellAllP_foodName=0x7f0d02d0;
-        public static final int tv_tv_sellAllP_orderId=0x7f0d02d2;
-        public static final int tv_tv_sellAllP_price=0x7f0d02d1;
-        public static final int tv_tv_sellAllP_result=0x7f0d02d3;
-        public static final int tv_tv_sellAllP_time=0x7f0d02cf;
-        public static final int tv_userAlias=0x7f0d0263;
-        public static final int tv_user_name=0x7f0d0205;
-        public static final int tv_username=0x7f0d0265;
-        public static final int tv_want_eat_name=0x7f0d0336;
-        public static final int tv_wanteat_time=0x7f0d0331;
-        public static final int tvmysell_all=0x7f0d01f2;
-        public static final int tvmysell_dty=0x7f0d01f4;
-        public static final int tvmysell_jxz=0x7f0d01f6;
-        public static final int tvmysell_ywc=0x7f0d01f8;
-        public static final int two=0x7f0d014c;
-        public static final int txt_empty_tip=0x7f0d0309;
-        public static final int txt_index_tipNumber=0x7f0d00ba;
+        public static final int tv_tip=0x7f0d02b1;
+        public static final int tv_title=0x7f0d00f7;
+        public static final int tv_tv_sellAllP_foodName=0x7f0d02d8;
+        public static final int tv_tv_sellAllP_orderId=0x7f0d02da;
+        public static final int tv_tv_sellAllP_price=0x7f0d02d9;
+        public static final int tv_tv_sellAllP_result=0x7f0d02db;
+        public static final int tv_tv_sellAllP_time=0x7f0d02d7;
+        public static final int tv_userAlias=0x7f0d026b;
+        public static final int tv_user_name=0x7f0d0212;
+        public static final int tv_username=0x7f0d026d;
+        public static final int tv_want_eat_name=0x7f0d0341;
+        public static final int tv_wanteat_time=0x7f0d033c;
+        public static final int tvmysell_all=0x7f0d01ff;
+        public static final int tvmysell_dty=0x7f0d0201;
+        public static final int tvmysell_jxz=0x7f0d0203;
+        public static final int tvmysell_ywc=0x7f0d0205;
+        public static final int two=0x7f0d0151;
+        public static final int txt_empty_tip=0x7f0d0314;
+        public static final int txt_index_tipNumber=0x7f0d00be;
         public static final int up=0x7f0d000c;
         public static final int useLogo=0x7f0d001a;
-        public static final int user_icon=0x7f0d02e3;
-        public static final int user_name=0x7f0d02e8;
+        public static final int user_account=0x7f0d017c;
+        public static final int user_icon=0x7f0d02eb;
+        public static final int user_name=0x7f0d02f0;
         public static final int user_pass=0x7f0d009e;
         public static final int user_phone=0x7f0d009d;
         public static final int vertical=0x7f0d0055;
         public static final int view_offset_helper=0x7f0d000d;
         public static final int viewpager_inner=0x7f0d000e;
         public static final int visible=0x7f0d0030;
-        public static final int wait_assess=0x7f0d020a;
-        public static final int wait_food=0x7f0d0208;
-        public static final int wait_real=0x7f0d0209;
-        public static final int waiting_orders=0x7f0d0207;
-        public static final int warningView=0x7f0d0338;
+        public static final int vp_guide=0x7f0d00a3;
+        public static final int warningView=0x7f0d0343;
         public static final int withText=0x7f0d0050;
-        public static final int witharwals=0x7f0d033a;
-        public static final int withdarwas=0x7f0d01fe;
-        public static final int withdarwas_back=0x7f0d0339;
+        public static final int witharwals=0x7f0d0345;
+        public static final int withdarwas=0x7f0d020b;
+        public static final int withdarwas_back=0x7f0d0344;
         public static final int wrap_content=0x7f0d0026;
-        public static final int year=0x7f0d023d;
+        public static final int year=0x7f0d0245;
     }
     public static final class integer {
         public static final int abc_config_activityDefaultDur=0x7f0a0001;
@@ -5315,203 +5343,208 @@ containing a value of this type.
         public static final int activity_dowant_item=0x7f040021;
         public static final int activity_foodtype_item=0x7f040022;
         public static final int activity_forget_password=0x7f040023;
-        public static final int activity_json_data=0x7f040024;
-        public static final int activity_login=0x7f040025;
-        public static final int activity_main=0x7f040026;
-        public static final int activity_modfity_password=0x7f040027;
-        public static final int activity_picture_dialog=0x7f040028;
-        public static final int activity_publiccomment_detail=0x7f040029;
-        public static final int activity_sign_up=0x7f04002a;
-        public static final int add_address_list_item=0x7f04002b;
-        public static final int add_order_comment=0x7f04002c;
-        public static final int address_manager=0x7f04002d;
-        public static final int address_manager_listview=0x7f04002e;
-        public static final int all_publicfood_list_item=0x7f04002f;
-        public static final int already_release_today_food=0x7f040030;
-        public static final int already_release_today_food_listitem=0x7f040031;
-        public static final int backup=0x7f040032;
-        public static final int banner_item=0x7f040033;
-        public static final int big_img_dialog=0x7f040034;
-        public static final int bottom_one_food_details=0x7f040035;
-        public static final int bottom_one_food_details_listitem=0x7f040036;
-        public static final int catloading_main=0x7f040037;
-        public static final int circle_list=0x7f040038;
-        public static final int circle_notice=0x7f040039;
-        public static final int circle_notice_details=0x7f04003a;
-        public static final int circle_notice_item=0x7f04003b;
-        public static final int common_load_more_footer=0x7f04003c;
-        public static final int common_popup_list_dialog=0x7f04003d;
-        public static final int common_popup_list_item=0x7f04003e;
-        public static final int common_swiperefresh_listview=0x7f04003f;
-        public static final int default_toast_layout=0x7f040040;
-        public static final int design_bottom_navigation_item=0x7f040041;
-        public static final int design_bottom_sheet_dialog=0x7f040042;
-        public static final int design_layout_snackbar=0x7f040043;
-        public static final int design_layout_snackbar_include=0x7f040044;
-        public static final int design_layout_tab_icon=0x7f040045;
-        public static final int design_layout_tab_text=0x7f040046;
-        public static final int design_menu_item_action_area=0x7f040047;
-        public static final int design_navigation_item=0x7f040048;
-        public static final int design_navigation_item_header=0x7f040049;
-        public static final int design_navigation_item_separator=0x7f04004a;
-        public static final int design_navigation_item_subheader=0x7f04004b;
-        public static final int design_navigation_menu=0x7f04004c;
-        public static final int design_navigation_menu_item=0x7f04004d;
-        public static final int design_text_input_password_icon=0x7f04004e;
-        public static final int discount_money=0x7f04004f;
-        public static final int do_want_item=0x7f040050;
-        public static final int error_toast_layout=0x7f040051;
-        public static final int first_fragment=0x7f040052;
-        public static final int first_my_sell_list_item=0x7f040053;
-        public static final int firsts_fragment=0x7f040054;
-        public static final int food_book=0x7f040055;
-        public static final int fourfragment=0x7f040056;
-        public static final int fragment_chanel=0x7f040057;
-        public static final int fragment_circle=0x7f040058;
-        public static final int fragment_face=0x7f040059;
-        public static final int fragment_find=0x7f04005a;
-        public static final int fragment_home=0x7f04005b;
-        public static final int fragment_index=0x7f04005c;
-        public static final int fragment_myselft=0x7f04005d;
-        public static final int fragment_pulldown=0x7f04005e;
-        public static final int fragment_share=0x7f04005f;
-        public static final int header_screen=0x7f040060;
-        public static final int incase=0x7f040061;
-        public static final int include_pickerview_topbar=0x7f040062;
-        public static final int include_viewpager=0x7f040063;
-        public static final int info_toast_layout=0x7f040064;
-        public static final int item_face=0x7f040065;
-        public static final int kitchen_food_details=0x7f040066;
-        public static final int know_username=0x7f040067;
-        public static final int layout_alert_dialog=0x7f040068;
-        public static final int layout_basepickerview=0x7f040069;
-        public static final int layout_face_grid=0x7f04006a;
-        public static final int list_item_food=0x7f04006b;
-        public static final int list_item_today_food_release=0x7f04006c;
-        public static final int login_head=0x7f04006d;
-        public static final int makebuy_alllist_item=0x7f04006e;
-        public static final int makebuy_finish_list_item=0x7f04006f;
-        public static final int makebuyorder_waitsend_list_item=0x7f040070;
-        public static final int makebuyorders_wait_list_item=0x7f040071;
-        public static final int modify_age=0x7f040072;
-        public static final int modify_eduction=0x7f040073;
-        public static final int modify_hobby=0x7f040074;
-        public static final int modify_sex=0x7f040075;
-        public static final int modify_special=0x7f040076;
-        public static final int modify_username=0x7f040077;
-        public static final int my_assess=0x7f040078;
-        public static final int my_assess_go_item=0x7f040079;
-        public static final int my_assess_up_item=0x7f04007a;
-        public static final int my_buy=0x7f04007b;
-        public static final int my_buy_list_all=0x7f04007c;
-        public static final int my_kitchen=0x7f04007d;
-        public static final int my_kitchen_popupwindow=0x7f04007e;
-        public static final int my_kitchen_release=0x7f04007f;
-        public static final int my_sell=0x7f040080;
-        public static final int my_wallet=0x7f040081;
-        public static final int mybuy_four=0x7f040082;
-        public static final int mybuy_one=0x7f040083;
-        public static final int mybuy_three=0x7f040084;
-        public static final int mybuy_two=0x7f040085;
-        public static final int mykitchen_item=0x7f040086;
-        public static final int myself=0x7f040087;
-        public static final int mysell_fragment_four=0x7f040088;
-        public static final int mysell_fragment_three=0x7f040089;
-        public static final int mysell_item_all=0x7f04008a;
-        public static final int mysell_item_dsl=0x7f04008b;
-        public static final int mysell_item_jxz=0x7f04008c;
-        public static final int mysell_item_ywc=0x7f04008d;
-        public static final int mysells_fragment_three=0x7f04008e;
-        public static final int notification_action=0x7f04008f;
-        public static final int notification_action_tombstone=0x7f040090;
-        public static final int notification_media_action=0x7f040091;
-        public static final int notification_media_cancel_action=0x7f040092;
-        public static final int notification_template_big_media=0x7f040093;
-        public static final int notification_template_big_media_custom=0x7f040094;
-        public static final int notification_template_big_media_narrow=0x7f040095;
-        public static final int notification_template_big_media_narrow_custom=0x7f040096;
-        public static final int notification_template_custom_big=0x7f040097;
-        public static final int notification_template_icon_group=0x7f040098;
-        public static final int notification_template_lines_media=0x7f040099;
-        public static final int notification_template_media=0x7f04009a;
-        public static final int notification_template_media_custom=0x7f04009b;
-        public static final int notification_template_part_chronometer=0x7f04009c;
-        public static final int notification_template_part_time=0x7f04009d;
-        public static final int order_comment=0x7f04009e;
-        public static final int order_detail_item=0x7f04009f;
-        public static final int pickerview_options=0x7f0400a0;
-        public static final int pickerview_time=0x7f0400a1;
-        public static final int popup_base=0x7f0400a2;
-        public static final int popup_bubble=0x7f0400a3;
-        public static final int post_details=0x7f0400a4;
-        public static final int post_release=0x7f0400a5;
-        public static final int post_reply_item=0x7f0400a6;
-        public static final int profile_setting=0x7f0400a7;
-        public static final int recommeend_item=0x7f0400a8;
-        public static final int recommend=0x7f0400a9;
-        public static final int recommend_allfood_list_item=0x7f0400aa;
-        public static final int recommend_cancelorder_list=0x7f0400ab;
-        public static final int recommend_finishorderlist_item=0x7f0400ac;
-        public static final int recommend_item=0x7f0400ad;
-        public static final int recommend_waitorderlist_item=0x7f0400ae;
-        public static final int recommend_waitsendorder_list_item=0x7f0400af;
-        public static final int release_assess=0x7f0400b0;
-        public static final int release_service_all=0x7f0400b1;
-        public static final int release_service_djd=0x7f0400b2;
-        public static final int release_service_dwc=0x7f0400b3;
-        public static final int release_service_ywc=0x7f0400b4;
-        public static final int release_today_food=0x7f0400b5;
-        public static final int search=0x7f0400b6;
-        public static final int search_layout=0x7f0400b7;
-        public static final int search_result=0x7f0400b8;
-        public static final int search_result_item=0x7f0400b9;
-        public static final int seconded_fragment=0x7f0400ba;
-        public static final int seconded_my_sell_list_item=0x7f0400bb;
-        public static final int secondeds_fragment=0x7f0400bc;
-        public static final int select_dialog_item_material=0x7f0400bd;
-        public static final int select_dialog_multichoice_material=0x7f0400be;
-        public static final int select_dialog_singlechoice_material=0x7f0400bf;
-        public static final int sell_alllist_item=0x7f0400c0;
-        public static final int sell_cancelorder_list=0x7f0400c1;
-        public static final int sell_cancelorderp_list=0x7f0400c2;
-        public static final int sella_agress_list_item=0x7f0400c3;
-        public static final int sella_alllist_item=0x7f0400c4;
-        public static final int sella_donging_list_item=0x7f0400c5;
-        public static final int sella_finishorder_list_item=0x7f0400c6;
-        public static final int sellallp_orderlist_item=0x7f0400c7;
-        public static final int selldongingp_orderlist_item=0x7f0400c8;
-        public static final int sellfinishp_orderlist_item=0x7f0400c9;
-        public static final int service_details=0x7f0400ca;
-        public static final int service_list=0x7f0400cb;
-        public static final int service_list_item=0x7f0400cc;
-        public static final int service_release=0x7f0400cd;
-        public static final int shop_map=0x7f0400ce;
-        public static final int shopping_cart=0x7f0400cf;
-        public static final int shopping_cart_item=0x7f0400d0;
-        public static final int shopping_cart_title=0x7f0400d1;
-        public static final int success_toast_layout=0x7f0400d2;
-        public static final int support_simple_spinner_dropdown_item=0x7f0400d3;
-        public static final int thirdfragment=0x7f0400d4;
-        public static final int tip_layout=0x7f0400d5;
-        public static final int tongchufang_item=0x7f0400d6;
-        public static final int top_one_food_details=0x7f0400d7;
-        public static final int waitdialog=0x7f0400d8;
-        public static final int waiting_assess=0x7f0400d9;
-        public static final int waiting_assess_list_item=0x7f0400da;
-        public static final int waiting_food=0x7f0400db;
-        public static final int waiting_order_item_details=0x7f0400dc;
-        public static final int waiting_orders=0x7f0400dd;
-        public static final int waiting_orders_list_item=0x7f0400de;
-        public static final int waiting_real=0x7f0400df;
-        public static final int waiting_real_item_details=0x7f0400e0;
-        public static final int waiting_real_list_item=0x7f0400e1;
-        public static final int want_do_orders_receiver=0x7f0400e2;
-        public static final int want_eat=0x7f0400e3;
-        public static final int want_eat_name=0x7f0400e4;
-        public static final int warning_toast_layout=0x7f0400e5;
-        public static final int withdarwas=0x7f0400e6;
-        public static final int zerofragment=0x7f0400e7;
-        public static final int zerofragment_mysell_item=0x7f0400e8;
+        public static final int activity_guide=0x7f040024;
+        public static final int activity_json_data=0x7f040025;
+        public static final int activity_login=0x7f040026;
+        public static final int activity_main=0x7f040027;
+        public static final int activity_modfity_password=0x7f040028;
+        public static final int activity_picture_dialog=0x7f040029;
+        public static final int activity_publiccomment_detail=0x7f04002a;
+        public static final int activity_sign_up=0x7f04002b;
+        public static final int activity_splash=0x7f04002c;
+        public static final int add_address_list_item=0x7f04002d;
+        public static final int add_order_comment=0x7f04002e;
+        public static final int address_manager=0x7f04002f;
+        public static final int address_manager_listview=0x7f040030;
+        public static final int all_publicfood_list_item=0x7f040031;
+        public static final int already_release_today_food=0x7f040032;
+        public static final int already_release_today_food_listitem=0x7f040033;
+        public static final int backup=0x7f040034;
+        public static final int banner_item=0x7f040035;
+        public static final int big_img_dialog=0x7f040036;
+        public static final int bottom_one_food_details=0x7f040037;
+        public static final int bottom_one_food_details_listitem=0x7f040038;
+        public static final int catloading_main=0x7f040039;
+        public static final int circle_list=0x7f04003a;
+        public static final int circle_notice=0x7f04003b;
+        public static final int circle_notice_details=0x7f04003c;
+        public static final int circle_notice_item=0x7f04003d;
+        public static final int common_load_more_footer=0x7f04003e;
+        public static final int common_popup_list_dialog=0x7f04003f;
+        public static final int common_popup_list_item=0x7f040040;
+        public static final int common_swiperefresh_listview=0x7f040041;
+        public static final int default_toast_layout=0x7f040042;
+        public static final int design_bottom_navigation_item=0x7f040043;
+        public static final int design_bottom_sheet_dialog=0x7f040044;
+        public static final int design_layout_snackbar=0x7f040045;
+        public static final int design_layout_snackbar_include=0x7f040046;
+        public static final int design_layout_tab_icon=0x7f040047;
+        public static final int design_layout_tab_text=0x7f040048;
+        public static final int design_menu_item_action_area=0x7f040049;
+        public static final int design_navigation_item=0x7f04004a;
+        public static final int design_navigation_item_header=0x7f04004b;
+        public static final int design_navigation_item_separator=0x7f04004c;
+        public static final int design_navigation_item_subheader=0x7f04004d;
+        public static final int design_navigation_menu=0x7f04004e;
+        public static final int design_navigation_menu_item=0x7f04004f;
+        public static final int design_text_input_password_icon=0x7f040050;
+        public static final int discount_money=0x7f040051;
+        public static final int do_want_item=0x7f040052;
+        public static final int error_toast_layout=0x7f040053;
+        public static final int first_fragment=0x7f040054;
+        public static final int first_my_sell_list_item=0x7f040055;
+        public static final int firsts_fragment=0x7f040056;
+        public static final int food_book=0x7f040057;
+        public static final int fourfragment=0x7f040058;
+        public static final int fragment_chanel=0x7f040059;
+        public static final int fragment_circle=0x7f04005a;
+        public static final int fragment_face=0x7f04005b;
+        public static final int fragment_find=0x7f04005c;
+        public static final int fragment_home=0x7f04005d;
+        public static final int fragment_index=0x7f04005e;
+        public static final int fragment_myselft=0x7f04005f;
+        public static final int fragment_pulldown=0x7f040060;
+        public static final int fragment_share=0x7f040061;
+        public static final int header_screen=0x7f040062;
+        public static final int incase=0x7f040063;
+        public static final int include_pickerview_topbar=0x7f040064;
+        public static final int include_viewpager=0x7f040065;
+        public static final int info_toast_layout=0x7f040066;
+        public static final int item_face=0x7f040067;
+        public static final int kitchen_food_details=0x7f040068;
+        public static final int know_username=0x7f040069;
+        public static final int layout_alert_dialog=0x7f04006a;
+        public static final int layout_basepickerview=0x7f04006b;
+        public static final int layout_face_grid=0x7f04006c;
+        public static final int layout_popupwindow=0x7f04006d;
+        public static final int list_item_food=0x7f04006e;
+        public static final int list_item_today_food_release=0x7f04006f;
+        public static final int loading_dialog=0x7f040070;
+        public static final int login_head=0x7f040071;
+        public static final int makebuy_alllist_item=0x7f040072;
+        public static final int makebuy_finish_list_item=0x7f040073;
+        public static final int makebuyorder_waitsend_list_item=0x7f040074;
+        public static final int makebuyorders_wait_list_item=0x7f040075;
+        public static final int modify_age=0x7f040076;
+        public static final int modify_eduction=0x7f040077;
+        public static final int modify_hobby=0x7f040078;
+        public static final int modify_sex=0x7f040079;
+        public static final int modify_special=0x7f04007a;
+        public static final int modify_username=0x7f04007b;
+        public static final int my_assess=0x7f04007c;
+        public static final int my_assess_go_item=0x7f04007d;
+        public static final int my_assess_up_item=0x7f04007e;
+        public static final int my_buy=0x7f04007f;
+        public static final int my_buy_list_all=0x7f040080;
+        public static final int my_kitchen=0x7f040081;
+        public static final int my_kitchen_popupwindow=0x7f040082;
+        public static final int my_kitchen_release=0x7f040083;
+        public static final int my_sell=0x7f040084;
+        public static final int my_wallet=0x7f040085;
+        public static final int mybuy_four=0x7f040086;
+        public static final int mybuy_one=0x7f040087;
+        public static final int mybuy_three=0x7f040088;
+        public static final int mybuy_two=0x7f040089;
+        public static final int mykitchen_item=0x7f04008a;
+        public static final int myself=0x7f04008b;
+        public static final int mysell_fragment_four=0x7f04008c;
+        public static final int mysell_fragment_three=0x7f04008d;
+        public static final int mysell_item_all=0x7f04008e;
+        public static final int mysell_item_dsl=0x7f04008f;
+        public static final int mysell_item_jxz=0x7f040090;
+        public static final int mysell_item_ywc=0x7f040091;
+        public static final int mysells_fragment_three=0x7f040092;
+        public static final int notification_action=0x7f040093;
+        public static final int notification_action_tombstone=0x7f040094;
+        public static final int notification_media_action=0x7f040095;
+        public static final int notification_media_cancel_action=0x7f040096;
+        public static final int notification_template_big_media=0x7f040097;
+        public static final int notification_template_big_media_custom=0x7f040098;
+        public static final int notification_template_big_media_narrow=0x7f040099;
+        public static final int notification_template_big_media_narrow_custom=0x7f04009a;
+        public static final int notification_template_custom_big=0x7f04009b;
+        public static final int notification_template_icon_group=0x7f04009c;
+        public static final int notification_template_lines_media=0x7f04009d;
+        public static final int notification_template_media=0x7f04009e;
+        public static final int notification_template_media_custom=0x7f04009f;
+        public static final int notification_template_part_chronometer=0x7f0400a0;
+        public static final int notification_template_part_time=0x7f0400a1;
+        public static final int order_comment=0x7f0400a2;
+        public static final int order_detail_item=0x7f0400a3;
+        public static final int pickerview_options=0x7f0400a4;
+        public static final int pickerview_time=0x7f0400a5;
+        public static final int popup_base=0x7f0400a6;
+        public static final int popup_bubble=0x7f0400a7;
+        public static final int post_details=0x7f0400a8;
+        public static final int post_release=0x7f0400a9;
+        public static final int post_reply_item=0x7f0400aa;
+        public static final int profile_setting=0x7f0400ab;
+        public static final int recommeend_item=0x7f0400ac;
+        public static final int recommend=0x7f0400ad;
+        public static final int recommend_allfood_list_item=0x7f0400ae;
+        public static final int recommend_cancelorder_list=0x7f0400af;
+        public static final int recommend_finishorderlist_item=0x7f0400b0;
+        public static final int recommend_item=0x7f0400b1;
+        public static final int recommend_waitorderlist_item=0x7f0400b2;
+        public static final int recommend_waitsendorder_list_item=0x7f0400b3;
+        public static final int release_assess=0x7f0400b4;
+        public static final int release_service_all=0x7f0400b5;
+        public static final int release_service_djd=0x7f0400b6;
+        public static final int release_service_dwc=0x7f0400b7;
+        public static final int release_service_ywc=0x7f0400b8;
+        public static final int release_today_food=0x7f0400b9;
+        public static final int search=0x7f0400ba;
+        public static final int search_layout=0x7f0400bb;
+        public static final int search_result=0x7f0400bc;
+        public static final int search_result_item=0x7f0400bd;
+        public static final int seconded_fragment=0x7f0400be;
+        public static final int seconded_my_sell_list_item=0x7f0400bf;
+        public static final int secondeds_fragment=0x7f0400c0;
+        public static final int select_dialog_item_material=0x7f0400c1;
+        public static final int select_dialog_multichoice_material=0x7f0400c2;
+        public static final int select_dialog_singlechoice_material=0x7f0400c3;
+        public static final int sell_alllist_item=0x7f0400c4;
+        public static final int sell_cancelorder_list=0x7f0400c5;
+        public static final int sell_cancelorderp_list=0x7f0400c6;
+        public static final int sella_agress_list_item=0x7f0400c7;
+        public static final int sella_alllist_item=0x7f0400c8;
+        public static final int sella_donging_list_item=0x7f0400c9;
+        public static final int sella_finishorder_list_item=0x7f0400ca;
+        public static final int sellallp_orderlist_item=0x7f0400cb;
+        public static final int selldongingp_orderlist_item=0x7f0400cc;
+        public static final int sellfinishp_orderlist_item=0x7f0400cd;
+        public static final int service_details=0x7f0400ce;
+        public static final int service_list=0x7f0400cf;
+        public static final int service_list_item=0x7f0400d0;
+        public static final int service_release=0x7f0400d1;
+        public static final int shop_map=0x7f0400d2;
+        public static final int shopping_cart=0x7f0400d3;
+        public static final int shopping_cart_item=0x7f0400d4;
+        public static final int shopping_cart_title=0x7f0400d5;
+        public static final int success_toast_layout=0x7f0400d6;
+        public static final int support_simple_spinner_dropdown_item=0x7f0400d7;
+        public static final int take_photo_pop=0x7f0400d8;
+        public static final int thirdfragment=0x7f0400d9;
+        public static final int tip_layout=0x7f0400da;
+        public static final int tongchufang_item=0x7f0400db;
+        public static final int top_one_food_details=0x7f0400dc;
+        public static final int waitdialog=0x7f0400dd;
+        public static final int waiting_assess=0x7f0400de;
+        public static final int waiting_assess_list_item=0x7f0400df;
+        public static final int waiting_food=0x7f0400e0;
+        public static final int waiting_order_item_details=0x7f0400e1;
+        public static final int waiting_orders=0x7f0400e2;
+        public static final int waiting_orders_list_item=0x7f0400e3;
+        public static final int waiting_real=0x7f0400e4;
+        public static final int waiting_real_item_details=0x7f0400e5;
+        public static final int waiting_real_list_item=0x7f0400e6;
+        public static final int want_do_orders_receiver=0x7f0400e7;
+        public static final int want_eat=0x7f0400e8;
+        public static final int want_eat_name=0x7f0400e9;
+        public static final int warning_toast_layout=0x7f0400ea;
+        public static final int withdarwas=0x7f0400eb;
+        public static final int zerofragment=0x7f0400ec;
+        public static final int zerofragment_mysell_item=0x7f0400ed;
     }
     public static final class mipmap {
         public static final int a=0x7f030000;
@@ -5569,61 +5602,63 @@ containing a value of this type.
         public static final int login_avatar=0x7f030034;
         public static final int login_bottom=0x7f030035;
         public static final int login_bottom_bg=0x7f030036;
-        public static final int logo5=0x7f030037;
-        public static final int logo6=0x7f030038;
-        public static final int mallet_money=0x7f030039;
-        public static final int money_32=0x7f03003a;
-        public static final int more_black=0x7f03003b;
-        public static final int more_gray=0x7f03003c;
-        public static final int more_unfold_black=0x7f03003d;
-        public static final int more_unfold_gray=0x7f03003e;
-        public static final int my__kitchen_add=0x7f03003f;
-        public static final int my_food_mark=0x7f030040;
-        public static final int my_kitchen_bg=0x7f030041;
-        public static final int my_setting_32=0x7f030042;
-        public static final int my_wait_assess_32=0x7f030043;
-        public static final int my_wait_confirm_32=0x7f030044;
-        public static final int my_wait_list_32=0x7f030045;
-        public static final int my_wait_room_32=0x7f030046;
-        public static final int my_wait_transparent_bar=0x7f030047;
-        public static final int notice_icon=0x7f030048;
-        public static final int ok=0x7f030049;
-        public static final int photo_setting=0x7f03004a;
-        public static final int placeholder=0x7f03004b;
-        public static final int point_g=0x7f03004c;
-        public static final int point_w=0x7f03004d;
-        public static final int radiobutton_select=0x7f03004e;
-        public static final int radiobutton_unselected=0x7f03004f;
-        public static final int rentou=0x7f030050;
-        public static final int reply=0x7f030051;
-        public static final int return_128=0x7f030052;
-        public static final int search=0x7f030053;
-        public static final int sell_32=0x7f030054;
-        public static final int setting_arrow=0x7f030055;
-        public static final int share_dg=0x7f030056;
-        public static final int share_esjy=0x7f030057;
-        public static final int share_jqqd=0x7f030058;
-        public static final int share_jz=0x7f030059;
-        public static final int share_kd=0x7f03005a;
-        public static final int share_lrph=0x7f03005b;
-        public static final int share_sfc=0x7f03005c;
-        public static final int share_xh=0x7f03005d;
-        public static final int shopping_cart=0x7f03005e;
-        public static final int shopping_mycar=0x7f03005f;
-        public static final int star_n=0x7f030060;
-        public static final int star_pj_w=0x7f030061;
-        public static final int star_pj_y=0x7f030062;
-        public static final int star_select=0x7f030063;
-        public static final int star_unselect=0x7f030064;
-        public static final int star_y=0x7f030065;
-        public static final int tab_do=0x7f030066;
-        public static final int tab_recommend=0x7f030067;
-        public static final int tab_want=0x7f030068;
-        public static final int tou=0x7f030069;
-        public static final int tou1=0x7f03006a;
-        public static final int tou2=0x7f03006b;
-        public static final int upload_img=0x7f03006c;
-        public static final int user=0x7f03006d;
+        public static final int logo=0x7f030037;
+        public static final int logo5=0x7f030038;
+        public static final int logo6=0x7f030039;
+        public static final int mallet_money=0x7f03003a;
+        public static final int money_32=0x7f03003b;
+        public static final int more_black=0x7f03003c;
+        public static final int more_gray=0x7f03003d;
+        public static final int more_unfold_black=0x7f03003e;
+        public static final int more_unfold_gray=0x7f03003f;
+        public static final int my__kitchen_add=0x7f030040;
+        public static final int my_food_mark=0x7f030041;
+        public static final int my_kitchen_bg=0x7f030042;
+        public static final int my_setting_32=0x7f030043;
+        public static final int my_wait_assess_32=0x7f030044;
+        public static final int my_wait_confirm_32=0x7f030045;
+        public static final int my_wait_list_32=0x7f030046;
+        public static final int my_wait_room_32=0x7f030047;
+        public static final int my_wait_transparent_bar=0x7f030048;
+        public static final int notice_icon=0x7f030049;
+        public static final int ok=0x7f03004a;
+        public static final int photo_setting=0x7f03004b;
+        public static final int placeholder=0x7f03004c;
+        public static final int point_g=0x7f03004d;
+        public static final int point_w=0x7f03004e;
+        public static final int publicloading=0x7f03004f;
+        public static final int radiobutton_select=0x7f030050;
+        public static final int radiobutton_unselected=0x7f030051;
+        public static final int rentou=0x7f030052;
+        public static final int reply=0x7f030053;
+        public static final int return_128=0x7f030054;
+        public static final int search=0x7f030055;
+        public static final int sell_32=0x7f030056;
+        public static final int setting_arrow=0x7f030057;
+        public static final int share_dg=0x7f030058;
+        public static final int share_esjy=0x7f030059;
+        public static final int share_jqqd=0x7f03005a;
+        public static final int share_jz=0x7f03005b;
+        public static final int share_kd=0x7f03005c;
+        public static final int share_lrph=0x7f03005d;
+        public static final int share_sfc=0x7f03005e;
+        public static final int share_xh=0x7f03005f;
+        public static final int shopping_cart=0x7f030060;
+        public static final int shopping_mycar=0x7f030061;
+        public static final int star_n=0x7f030062;
+        public static final int star_pj_w=0x7f030063;
+        public static final int star_pj_y=0x7f030064;
+        public static final int star_select=0x7f030065;
+        public static final int star_unselect=0x7f030066;
+        public static final int star_y=0x7f030067;
+        public static final int tab_do=0x7f030068;
+        public static final int tab_recommend=0x7f030069;
+        public static final int tab_want=0x7f03006a;
+        public static final int tou=0x7f03006b;
+        public static final int tou1=0x7f03006c;
+        public static final int tou2=0x7f03006d;
+        public static final int upload_img=0x7f03006e;
+        public static final int user=0x7f03006f;
     }
     public static final class string {
         public static final int Recharge=0x7f060019;
@@ -5775,39 +5810,40 @@ containing a value of this type.
         public static final int recommend=0x7f060094;
         public static final int release=0x7f060095;
         public static final int remain=0x7f060096;
-        public static final int same_food_from_one=0x7f060097;
+        public static final int rememberPass=0x7f060097;
+        public static final int same_food_from_one=0x7f060098;
         public static final int search_menu_title=0x7f060013;
-        public static final int select_qw_time=0x7f060098;
-        public static final int service_type=0x7f060099;
-        public static final int setting_username=0x7f06009a;
-        public static final int sex=0x7f06009b;
-        public static final int share_dg=0x7f06009c;
-        public static final int share_dskd=0x7f06009d;
-        public static final int share_esjy=0x7f06009e;
-        public static final int share_fb=0x7f06009f;
-        public static final int share_jqqd=0x7f0600a0;
-        public static final int share_jz=0x7f0600a1;
-        public static final int share_phlr=0x7f0600a2;
-        public static final int share_sfc=0x7f0600a3;
-        public static final int shopping_cart=0x7f0600a4;
-        public static final int special=0x7f0600a5;
+        public static final int select_qw_time=0x7f060099;
+        public static final int service_type=0x7f06009a;
+        public static final int setting_username=0x7f06009b;
+        public static final int sex=0x7f06009c;
+        public static final int share_dg=0x7f06009d;
+        public static final int share_dskd=0x7f06009e;
+        public static final int share_esjy=0x7f06009f;
+        public static final int share_fb=0x7f0600a0;
+        public static final int share_jqqd=0x7f0600a1;
+        public static final int share_jz=0x7f0600a2;
+        public static final int share_phlr=0x7f0600a3;
+        public static final int share_sfc=0x7f0600a4;
+        public static final int shopping_cart=0x7f0600a5;
+        public static final int special=0x7f0600a6;
         public static final int status_bar_notification_info_overflow=0x7f060014;
-        public static final int tab_do=0x7f0600a6;
-        public static final int tab_recommend=0x7f0600a7;
-        public static final int tab_want=0x7f0600a8;
-        public static final int time=0x7f0600a9;
-        public static final int tipDialogCancel=0x7f0600aa;
-        public static final int tipDialogComfirm=0x7f0600ab;
-        public static final int txt_empty_tip=0x7f0600ac;
-        public static final int type=0x7f0600ad;
-        public static final int wallet=0x7f0600ae;
-        public static final int warm_hint_hobby=0x7f0600af;
-        public static final int warm_hint_special=0x7f0600b0;
-        public static final int warm_real_name_number=0x7f0600b1;
-        public static final int warm_real_username=0x7f0600b2;
-        public static final int warm_setting_name=0x7f0600b3;
-        public static final int xiangying_time=0x7f0600b4;
-        public static final int xs=0x7f0600b5;
+        public static final int tab_do=0x7f0600a7;
+        public static final int tab_recommend=0x7f0600a8;
+        public static final int tab_want=0x7f0600a9;
+        public static final int time=0x7f0600aa;
+        public static final int tipDialogCancel=0x7f0600ab;
+        public static final int tipDialogComfirm=0x7f0600ac;
+        public static final int txt_empty_tip=0x7f0600ad;
+        public static final int type=0x7f0600ae;
+        public static final int wallet=0x7f0600af;
+        public static final int warm_hint_hobby=0x7f0600b0;
+        public static final int warm_hint_special=0x7f0600b1;
+        public static final int warm_real_name_number=0x7f0600b2;
+        public static final int warm_real_username=0x7f0600b3;
+        public static final int warm_setting_name=0x7f0600b4;
+        public static final int xiangying_time=0x7f0600b5;
+        public static final int xs=0x7f0600b6;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat=0x7f0800a1;
@@ -6203,22 +6239,23 @@ containing a value of this type.
         public static final int cart_dialog=0x7f080186;
         public static final int editor_one=0x7f080187;
         public static final int img_arrow=0x7f080188;
-        public static final int mid_layout=0x7f080189;
-        public static final int share_style=0x7f08018a;
-        public static final int single_layout=0x7f08018b;
-        public static final int tab_rb_style=0x7f08018c;
-        public static final int tab_title=0x7f08018d;
-        public static final int take_photo_anim=0x7f08018e;
-        public static final int text_main=0x7f08018f;
-        public static final int textview=0x7f080190;
-        public static final int tips_font=0x7f080191;
-        public static final int title_font=0x7f080192;
-        public static final int top_layout=0x7f080193;
-        public static final int tv_paoma=0x7f080194;
-        public static final int two_title=0x7f080195;
-        public static final int user_arrow=0x7f080196;
-        public static final int usertext=0x7f080197;
-        public static final int wrap_layout=0x7f080198;
+        public static final int loading_dialog=0x7f080189;
+        public static final int mid_layout=0x7f08018a;
+        public static final int share_style=0x7f08018b;
+        public static final int single_layout=0x7f08018c;
+        public static final int tab_rb_style=0x7f08018d;
+        public static final int tab_title=0x7f08018e;
+        public static final int take_photo_anim=0x7f08018f;
+        public static final int text_main=0x7f080190;
+        public static final int textview=0x7f080191;
+        public static final int tips_font=0x7f080192;
+        public static final int title_font=0x7f080193;
+        public static final int top_layout=0x7f080194;
+        public static final int tv_paoma=0x7f080195;
+        public static final int two_title=0x7f080196;
+        public static final int user_arrow=0x7f080197;
+        public static final int usertext=0x7f080198;
+        public static final int wrap_layout=0x7f080199;
     }
     public static final class styleable {
         /** Attributes that can be used with a ActionBar.
@@ -6227,35 +6264,35 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.suctan.huigangdemo:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.suctan.huigangdemo:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.suctan.huigangdemo:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.suctan.huigangdemo:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.suctan.huigangdemo:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.suctan.huigangdemo:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.suctan.huigangdemo:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.suctan.huigangdemo:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.suctan.huigangdemo:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.suctan.huigangdemo:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.suctan.huigangdemo:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.suctan.huigangdemo:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.suctan.huigangdemo:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height com.suctan.huigangdemo:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.suctan.huigangdemo:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.suctan.huigangdemo:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.suctan.huigangdemo:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.suctan.huigangdemo:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.suctan.huigangdemo:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.suctan.huigangdemo:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.suctan.huigangdemo:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.suctan.huigangdemo:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.suctan.huigangdemo:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.suctan.huigangdemo:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.suctan.huigangdemo:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.suctan.huigangdemo:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.suctan.huigangdemo:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title com.suctan.huigangdemo:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.suctan.huigangdemo:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background com.suctan.huigang:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit com.suctan.huigang:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked com.suctan.huigang:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd com.suctan.huigang:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.suctan.huigang:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft com.suctan.huigang:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight com.suctan.huigang:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart com.suctan.huigang:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.suctan.huigang:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout com.suctan.huigang:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions com.suctan.huigang:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider com.suctan.huigang:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation com.suctan.huigang:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height com.suctan.huigang:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.suctan.huigang:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.suctan.huigang:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout com.suctan.huigang:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon com.suctan.huigang:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.suctan.huigang:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding com.suctan.huigang:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo com.suctan.huigang:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode com.suctan.huigang:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme com.suctan.huigang:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding com.suctan.huigang:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle com.suctan.huigang:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle com.suctan.huigang:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.suctan.huigang:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title com.suctan.huigang:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle com.suctan.huigang:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -6298,17 +6335,17 @@ containing a value of this type.
             0x7f01007d
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#background}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:background
+          @attr name com.suctan.huigang:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -6316,11 +6353,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.suctan.huigangdemo:backgroundSplit
+          @attr name com.suctan.huigang:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -6328,11 +6365,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.suctan.huigangdemo:backgroundStacked
+          @attr name com.suctan.huigang:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -6344,11 +6381,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:contentInsetEnd
+          @attr name com.suctan.huigang:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -6360,11 +6397,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:contentInsetEndWithActions
+          @attr name com.suctan.huigang:contentInsetEndWithActions
         */
         public static final int ActionBar_contentInsetEndWithActions = 25;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -6376,11 +6413,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:contentInsetLeft
+          @attr name com.suctan.huigang:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -6392,11 +6429,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:contentInsetRight
+          @attr name com.suctan.huigang:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -6408,11 +6445,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:contentInsetStart
+          @attr name com.suctan.huigang:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -6424,21 +6461,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:contentInsetStartWithNavigation
+          @attr name com.suctan.huigang:contentInsetStartWithNavigation
         */
         public static final int ActionBar_contentInsetStartWithNavigation = 24;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:customNavigationLayout
+          @attr name com.suctan.huigang:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -6456,21 +6493,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:displayOptions
+          @attr name com.suctan.huigang:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:divider
+          @attr name com.suctan.huigang:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -6482,11 +6519,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:elevation
+          @attr name com.suctan.huigang:elevation
         */
         public static final int ActionBar_elevation = 26;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#height}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -6498,11 +6535,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:height
+          @attr name com.suctan.huigang:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -6512,51 +6549,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:hideOnContentScroll
+          @attr name com.suctan.huigang:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:homeAsUpIndicator
+          @attr name com.suctan.huigang:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 28;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:homeLayout
+          @attr name com.suctan.huigang:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#icon}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:icon
+          @attr name com.suctan.huigang:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:indeterminateProgressStyle
+          @attr name com.suctan.huigang:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -6568,21 +6605,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:itemPadding
+          @attr name com.suctan.huigang:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:logo
+          @attr name com.suctan.huigang:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -6596,21 +6633,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:navigationMode
+          @attr name com.suctan.huigang:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:popupTheme
+          @attr name com.suctan.huigang:popupTheme
         */
         public static final int ActionBar_popupTheme = 27;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -6622,21 +6659,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:progressBarPadding
+          @attr name com.suctan.huigang:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:progressBarStyle
+          @attr name com.suctan.huigang:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -6646,21 +6683,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:subtitle
+          @attr name com.suctan.huigang:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:subtitleTextStyle
+          @attr name com.suctan.huigang:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#title}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -6670,17 +6707,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:title
+          @attr name com.suctan.huigang:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:titleTextStyle
+          @attr name com.suctan.huigang:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -6732,12 +6769,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.suctan.huigangdemo:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.suctan.huigangdemo:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.suctan.huigangdemo:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height com.suctan.huigangdemo:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.suctan.huigangdemo:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.suctan.huigangdemo:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background com.suctan.huigang:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit com.suctan.huigang:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout com.suctan.huigang:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height com.suctan.huigang:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.suctan.huigang:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle com.suctan.huigang:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -6751,17 +6788,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010010, 0x7f010020
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#background}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:background
+          @attr name com.suctan.huigang:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -6769,21 +6806,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.suctan.huigangdemo:backgroundSplit
+          @attr name com.suctan.huigang:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:closeItemLayout
+          @attr name com.suctan.huigang:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#height}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -6795,27 +6832,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:height
+          @attr name com.suctan.huigang:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:subtitleTextStyle
+          @attr name com.suctan.huigang:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:titleTextStyle
+          @attr name com.suctan.huigang:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -6824,8 +6861,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.suctan.huigangdemo:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.suctan.huigangdemo:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.suctan.huigang:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.suctan.huigang:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -6834,17 +6871,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010021, 0x7f010022
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:expandActivityOverflowButtonDrawable
+          @attr name com.suctan.huigang:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -6854,7 +6891,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:initialActivityCount
+          @attr name com.suctan.huigang:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -6864,12 +6901,12 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.suctan.huigangdemo:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout com.suctan.huigangdemo:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout com.suctan.huigangdemo:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.suctan.huigangdemo:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_showTitle com.suctan.huigangdemo:showTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.suctan.huigangdemo:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.suctan.huigang:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout com.suctan.huigang:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout com.suctan.huigang:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.suctan.huigang:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_showTitle com.suctan.huigang:showTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.suctan.huigang:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -6890,47 +6927,47 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:buttonPanelSideLayout
+          @attr name com.suctan.huigang:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:listItemLayout
+          @attr name com.suctan.huigang:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:listLayout
+          @attr name com.suctan.huigang:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:multiChoiceItemLayout
+          @attr name com.suctan.huigang:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#showTitle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#showTitle}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -6940,17 +6977,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:showTitle
+          @attr name com.suctan.huigang:showTitle
         */
         public static final int AlertDialog_showTitle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:singleChoiceItemLayout
+          @attr name com.suctan.huigang:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AnimShopButton.
@@ -6959,33 +6996,33 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AnimShopButton_addDisableBgColor com.suctan.huigangdemo:addDisableBgColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AnimShopButton_addDisableFgColor com.suctan.huigangdemo:addDisableFgColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AnimShopButton_addEnableBgColor com.suctan.huigangdemo:addEnableBgColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AnimShopButton_addEnableFgColor com.suctan.huigangdemo:addEnableFgColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AnimShopButton_circleStrokeWidth com.suctan.huigangdemo:circleStrokeWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #AnimShopButton_count com.suctan.huigangdemo:count}</code></td><td></td></tr>
-           <tr><td><code>{@link #AnimShopButton_delDisableBgColor com.suctan.huigangdemo:delDisableBgColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AnimShopButton_delDisableFgColor com.suctan.huigangdemo:delDisableFgColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AnimShopButton_delEnableBgColor com.suctan.huigangdemo:delEnableBgColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AnimShopButton_delEnableFgColor com.suctan.huigangdemo:delEnableFgColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AnimShopButton_gapBetweenCircle com.suctan.huigangdemo:gapBetweenCircle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AnimShopButton_hingTextSize com.suctan.huigangdemo:hingTextSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AnimShopButton_hintBgColor com.suctan.huigangdemo:hintBgColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AnimShopButton_hintBgRoundValue com.suctan.huigangdemo:hintBgRoundValue}</code></td><td></td></tr>
-           <tr><td><code>{@link #AnimShopButton_hintFgColor com.suctan.huigangdemo:hintFgColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AnimShopButton_hintText com.suctan.huigangdemo:hintText}</code></td><td></td></tr>
-           <tr><td><code>{@link #AnimShopButton_ignoreHintArea com.suctan.huigangdemo:ignoreHintArea}</code></td><td></td></tr>
-           <tr><td><code>{@link #AnimShopButton_isAddFillMode com.suctan.huigangdemo:isAddFillMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #AnimShopButton_isDelFillMode com.suctan.huigangdemo:isDelFillMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #AnimShopButton_lineWidth com.suctan.huigangdemo:lineWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #AnimShopButton_maxCount com.suctan.huigangdemo:maxCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #AnimShopButton_numTextSize com.suctan.huigangdemo:numTextSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AnimShopButton_perAnimDuration com.suctan.huigangdemo:perAnimDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #AnimShopButton_radius com.suctan.huigangdemo:radius}</code></td><td></td></tr>
-           <tr><td><code>{@link #AnimShopButton_replenishText com.suctan.huigangdemo:replenishText}</code></td><td></td></tr>
-           <tr><td><code>{@link #AnimShopButton_replenishTextColor com.suctan.huigangdemo:replenishTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AnimShopButton_replenishTextSize com.suctan.huigangdemo:replenishTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AnimShopButton_addDisableBgColor com.suctan.huigang:addDisableBgColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AnimShopButton_addDisableFgColor com.suctan.huigang:addDisableFgColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AnimShopButton_addEnableBgColor com.suctan.huigang:addEnableBgColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AnimShopButton_addEnableFgColor com.suctan.huigang:addEnableFgColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AnimShopButton_circleStrokeWidth com.suctan.huigang:circleStrokeWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #AnimShopButton_count com.suctan.huigang:count}</code></td><td></td></tr>
+           <tr><td><code>{@link #AnimShopButton_delDisableBgColor com.suctan.huigang:delDisableBgColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AnimShopButton_delDisableFgColor com.suctan.huigang:delDisableFgColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AnimShopButton_delEnableBgColor com.suctan.huigang:delEnableBgColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AnimShopButton_delEnableFgColor com.suctan.huigang:delEnableFgColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AnimShopButton_gapBetweenCircle com.suctan.huigang:gapBetweenCircle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AnimShopButton_hingTextSize com.suctan.huigang:hingTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AnimShopButton_hintBgColor com.suctan.huigang:hintBgColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AnimShopButton_hintBgRoundValue com.suctan.huigang:hintBgRoundValue}</code></td><td></td></tr>
+           <tr><td><code>{@link #AnimShopButton_hintFgColor com.suctan.huigang:hintFgColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AnimShopButton_hintText com.suctan.huigang:hintText}</code></td><td></td></tr>
+           <tr><td><code>{@link #AnimShopButton_ignoreHintArea com.suctan.huigang:ignoreHintArea}</code></td><td></td></tr>
+           <tr><td><code>{@link #AnimShopButton_isAddFillMode com.suctan.huigang:isAddFillMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AnimShopButton_isDelFillMode com.suctan.huigang:isDelFillMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AnimShopButton_lineWidth com.suctan.huigang:lineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #AnimShopButton_maxCount com.suctan.huigang:maxCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #AnimShopButton_numTextSize com.suctan.huigang:numTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AnimShopButton_perAnimDuration com.suctan.huigang:perAnimDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #AnimShopButton_radius com.suctan.huigang:radius}</code></td><td></td></tr>
+           <tr><td><code>{@link #AnimShopButton_replenishText com.suctan.huigang:replenishText}</code></td><td></td></tr>
+           <tr><td><code>{@link #AnimShopButton_replenishTextColor com.suctan.huigang:replenishTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AnimShopButton_replenishTextSize com.suctan.huigang:replenishTextSize}</code></td><td></td></tr>
            </table>
            @see #AnimShopButton_addDisableBgColor
            @see #AnimShopButton_addDisableFgColor
@@ -7025,7 +7062,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010041, 0x7f010042, 0x7f010043
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#addDisableBgColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#addDisableBgColor}
           attribute's value can be found in the {@link #AnimShopButton} array.
 
 
@@ -7036,11 +7073,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:addDisableBgColor
+          @attr name com.suctan.huigang:addDisableBgColor
         */
         public static final int AnimShopButton_addDisableBgColor = 3;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#addDisableFgColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#addDisableFgColor}
           attribute's value can be found in the {@link #AnimShopButton} array.
 
 
@@ -7051,11 +7088,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:addDisableFgColor
+          @attr name com.suctan.huigang:addDisableFgColor
         */
         public static final int AnimShopButton_addDisableFgColor = 4;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#addEnableBgColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#addEnableBgColor}
           attribute's value can be found in the {@link #AnimShopButton} array.
 
 
@@ -7066,11 +7103,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:addEnableBgColor
+          @attr name com.suctan.huigang:addEnableBgColor
         */
         public static final int AnimShopButton_addEnableBgColor = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#addEnableFgColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#addEnableFgColor}
           attribute's value can be found in the {@link #AnimShopButton} array.
 
 
@@ -7081,11 +7118,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:addEnableFgColor
+          @attr name com.suctan.huigang:addEnableFgColor
         */
         public static final int AnimShopButton_addEnableFgColor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#circleStrokeWidth}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#circleStrokeWidth}
           attribute's value can be found in the {@link #AnimShopButton} array.
 
 
@@ -7097,11 +7134,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:circleStrokeWidth
+          @attr name com.suctan.huigang:circleStrokeWidth
         */
         public static final int AnimShopButton_circleStrokeWidth = 11;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#count}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#count}
           attribute's value can be found in the {@link #AnimShopButton} array.
 
 
@@ -7111,11 +7148,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:count
+          @attr name com.suctan.huigang:count
         */
         public static final int AnimShopButton_count = 16;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#delDisableBgColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#delDisableBgColor}
           attribute's value can be found in the {@link #AnimShopButton} array.
 
 
@@ -7126,11 +7163,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:delDisableBgColor
+          @attr name com.suctan.huigang:delDisableBgColor
         */
         public static final int AnimShopButton_delDisableBgColor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#delDisableFgColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#delDisableFgColor}
           attribute's value can be found in the {@link #AnimShopButton} array.
 
 
@@ -7141,11 +7178,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:delDisableFgColor
+          @attr name com.suctan.huigang:delDisableFgColor
         */
         public static final int AnimShopButton_delDisableFgColor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#delEnableBgColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#delEnableBgColor}
           attribute's value can be found in the {@link #AnimShopButton} array.
 
 
@@ -7156,11 +7193,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:delEnableBgColor
+          @attr name com.suctan.huigang:delEnableBgColor
         */
         public static final int AnimShopButton_delEnableBgColor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#delEnableFgColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#delEnableFgColor}
           attribute's value can be found in the {@link #AnimShopButton} array.
 
 
@@ -7171,11 +7208,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:delEnableFgColor
+          @attr name com.suctan.huigang:delEnableFgColor
         */
         public static final int AnimShopButton_delEnableFgColor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#gapBetweenCircle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#gapBetweenCircle}
           attribute's value can be found in the {@link #AnimShopButton} array.
 
 
@@ -7187,11 +7224,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:gapBetweenCircle
+          @attr name com.suctan.huigang:gapBetweenCircle
         */
         public static final int AnimShopButton_gapBetweenCircle = 13;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#hingTextSize}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#hingTextSize}
           attribute's value can be found in the {@link #AnimShopButton} array.
 
 
@@ -7203,11 +7240,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:hingTextSize
+          @attr name com.suctan.huigang:hingTextSize
         */
         public static final int AnimShopButton_hingTextSize = 21;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#hintBgColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#hintBgColor}
           attribute's value can be found in the {@link #AnimShopButton} array.
 
 
@@ -7218,11 +7255,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:hintBgColor
+          @attr name com.suctan.huigang:hintBgColor
         */
         public static final int AnimShopButton_hintBgColor = 19;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#hintBgRoundValue}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#hintBgRoundValue}
           attribute's value can be found in the {@link #AnimShopButton} array.
 
 
@@ -7234,11 +7271,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:hintBgRoundValue
+          @attr name com.suctan.huigang:hintBgRoundValue
         */
         public static final int AnimShopButton_hintBgRoundValue = 22;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#hintFgColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#hintFgColor}
           attribute's value can be found in the {@link #AnimShopButton} array.
 
 
@@ -7249,11 +7286,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:hintFgColor
+          @attr name com.suctan.huigang:hintFgColor
         */
         public static final int AnimShopButton_hintFgColor = 20;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#hintText}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#hintText}
           attribute's value can be found in the {@link #AnimShopButton} array.
 
 
@@ -7263,11 +7300,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:hintText
+          @attr name com.suctan.huigang:hintText
         */
         public static final int AnimShopButton_hintText = 18;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#ignoreHintArea}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#ignoreHintArea}
           attribute's value can be found in the {@link #AnimShopButton} array.
 
 
@@ -7277,11 +7314,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:ignoreHintArea
+          @attr name com.suctan.huigang:ignoreHintArea
         */
         public static final int AnimShopButton_ignoreHintArea = 17;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#isAddFillMode}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#isAddFillMode}
           attribute's value can be found in the {@link #AnimShopButton} array.
 
 
@@ -7291,11 +7328,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:isAddFillMode
+          @attr name com.suctan.huigang:isAddFillMode
         */
         public static final int AnimShopButton_isAddFillMode = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#isDelFillMode}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#isDelFillMode}
           attribute's value can be found in the {@link #AnimShopButton} array.
 
 
@@ -7305,11 +7342,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:isDelFillMode
+          @attr name com.suctan.huigang:isDelFillMode
         */
         public static final int AnimShopButton_isDelFillMode = 5;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#lineWidth}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#lineWidth}
           attribute's value can be found in the {@link #AnimShopButton} array.
 
 
@@ -7321,11 +7358,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:lineWidth
+          @attr name com.suctan.huigang:lineWidth
         */
         public static final int AnimShopButton_lineWidth = 12;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#maxCount}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#maxCount}
           attribute's value can be found in the {@link #AnimShopButton} array.
 
 
@@ -7335,11 +7372,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:maxCount
+          @attr name com.suctan.huigang:maxCount
         */
         public static final int AnimShopButton_maxCount = 15;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#numTextSize}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#numTextSize}
           attribute's value can be found in the {@link #AnimShopButton} array.
 
 
@@ -7351,11 +7388,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:numTextSize
+          @attr name com.suctan.huigang:numTextSize
         */
         public static final int AnimShopButton_numTextSize = 14;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#perAnimDuration}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#perAnimDuration}
           attribute's value can be found in the {@link #AnimShopButton} array.
 
 
@@ -7365,11 +7402,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:perAnimDuration
+          @attr name com.suctan.huigang:perAnimDuration
         */
         public static final int AnimShopButton_perAnimDuration = 23;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#radius}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#radius}
           attribute's value can be found in the {@link #AnimShopButton} array.
 
 
@@ -7381,11 +7418,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:radius
+          @attr name com.suctan.huigang:radius
         */
         public static final int AnimShopButton_radius = 10;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#replenishText}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#replenishText}
           attribute's value can be found in the {@link #AnimShopButton} array.
 
 
@@ -7395,11 +7432,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:replenishText
+          @attr name com.suctan.huigang:replenishText
         */
         public static final int AnimShopButton_replenishText = 26;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#replenishTextColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#replenishTextColor}
           attribute's value can be found in the {@link #AnimShopButton} array.
 
 
@@ -7410,11 +7447,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:replenishTextColor
+          @attr name com.suctan.huigang:replenishTextColor
         */
         public static final int AnimShopButton_replenishTextColor = 24;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#replenishTextSize}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#replenishTextSize}
           attribute's value can be found in the {@link #AnimShopButton} array.
 
 
@@ -7426,7 +7463,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:replenishTextSize
+          @attr name com.suctan.huigang:replenishTextSize
         */
         public static final int AnimShopButton_replenishTextSize = 25;
         /** Attributes that can be used with a AppBarLayout.
@@ -7436,8 +7473,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_elevation com.suctan.huigangdemo:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_expanded com.suctan.huigangdemo:expanded}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_elevation com.suctan.huigang:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_expanded com.suctan.huigang:expanded}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_android_background
            @see #AppBarLayout_elevation
@@ -7453,7 +7490,7 @@ containing a value of this type.
         */
         public static final int AppBarLayout_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#elevation}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -7465,11 +7502,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:elevation
+          @attr name com.suctan.huigang:elevation
         */
         public static final int AppBarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#expanded}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#expanded}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -7479,7 +7516,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:expanded
+          @attr name com.suctan.huigang:expanded
         */
         public static final int AppBarLayout_expanded = 2;
         /** Attributes that can be used with a AppBarLayoutStates.
@@ -7488,8 +7525,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.suctan.huigangdemo:state_collapsed}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.suctan.huigangdemo:state_collapsible}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.suctan.huigang:state_collapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.suctan.huigang:state_collapsible}</code></td><td></td></tr>
            </table>
            @see #AppBarLayoutStates_state_collapsed
            @see #AppBarLayoutStates_state_collapsible
@@ -7498,7 +7535,7 @@ containing a value of this type.
             0x7f010045, 0x7f010046
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#state_collapsed}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#state_collapsed}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -7508,11 +7545,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:state_collapsed
+          @attr name com.suctan.huigang:state_collapsed
         */
         public static final int AppBarLayoutStates_state_collapsed = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#state_collapsible}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#state_collapsible}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -7522,7 +7559,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:state_collapsible
+          @attr name com.suctan.huigang:state_collapsible
         */
         public static final int AppBarLayoutStates_state_collapsible = 1;
         /** Attributes that can be used with a AppBarLayout_Layout.
@@ -7531,8 +7568,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.suctan.huigangdemo:layout_scrollFlags}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.suctan.huigangdemo:layout_scrollInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.suctan.huigang:layout_scrollFlags}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.suctan.huigang:layout_scrollInterpolator}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_Layout_layout_scrollFlags
            @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -7541,7 +7578,7 @@ containing a value of this type.
             0x7f010047, 0x7f010048
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#layout_scrollFlags}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#layout_scrollFlags}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
@@ -7557,17 +7594,17 @@ containing a value of this type.
 <tr><td><code>enterAlwaysCollapsed</code></td><td>0x8</td><td></td></tr>
 <tr><td><code>snap</code></td><td>0x10</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:layout_scrollFlags
+          @attr name com.suctan.huigang:layout_scrollFlags
         */
         public static final int AppBarLayout_Layout_layout_scrollFlags = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#layout_scrollInterpolator}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#layout_scrollInterpolator}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:layout_scrollInterpolator
+          @attr name com.suctan.huigang:layout_scrollInterpolator
         */
         public static final int AppBarLayout_Layout_layout_scrollInterpolator = 1;
         /** Attributes that can be used with a AppCompatImageView.
@@ -7577,7 +7614,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_srcCompat com.suctan.huigangdemo:srcCompat}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_srcCompat com.suctan.huigang:srcCompat}</code></td><td></td></tr>
            </table>
            @see #AppCompatImageView_android_src
            @see #AppCompatImageView_srcCompat
@@ -7592,13 +7629,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatImageView_android_src = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#srcCompat}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#srcCompat}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:srcCompat
+          @attr name com.suctan.huigang:srcCompat
         */
         public static final int AppCompatImageView_srcCompat = 1;
         /** Attributes that can be used with a AppCompatSeekBar.
@@ -7608,9 +7645,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.suctan.huigangdemo:tickMark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.suctan.huigangdemo:tickMarkTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.suctan.huigangdemo:tickMarkTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.suctan.huigang:tickMark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.suctan.huigang:tickMarkTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.suctan.huigang:tickMarkTintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatSeekBar_android_thumb
            @see #AppCompatSeekBar_tickMark
@@ -7627,17 +7664,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatSeekBar_android_thumb = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#tickMark}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#tickMark}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:tickMark
+          @attr name com.suctan.huigang:tickMark
         */
         public static final int AppCompatSeekBar_tickMark = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#tickMarkTint}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#tickMarkTint}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -7648,11 +7685,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:tickMarkTint
+          @attr name com.suctan.huigang:tickMarkTint
         */
         public static final int AppCompatSeekBar_tickMarkTint = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#tickMarkTintMode}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#tickMarkTintMode}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -7669,7 +7706,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:tickMarkTintMode
+          @attr name com.suctan.huigang:tickMarkTintMode
         */
         public static final int AppCompatSeekBar_tickMarkTintMode = 3;
         /** Attributes that can be used with a AppCompatTextHelper.
@@ -7747,7 +7784,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.suctan.huigangdemo:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.suctan.huigang:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -7762,14 +7799,14 @@ containing a value of this type.
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.suctan.huigangdemo:textAllCaps
+          @attr name com.suctan.huigang:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a AppCompatTheme.
@@ -7778,121 +7815,121 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.suctan.huigangdemo:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.suctan.huigangdemo:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.suctan.huigangdemo:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.suctan.huigangdemo:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.suctan.huigangdemo:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.suctan.huigangdemo:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.suctan.huigangdemo:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.suctan.huigangdemo:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.suctan.huigangdemo:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.suctan.huigangdemo:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.suctan.huigangdemo:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.suctan.huigangdemo:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.suctan.huigangdemo:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.suctan.huigangdemo:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.suctan.huigangdemo:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.suctan.huigangdemo:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.suctan.huigangdemo:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.suctan.huigangdemo:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.suctan.huigangdemo:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.suctan.huigangdemo:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.suctan.huigangdemo:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.suctan.huigangdemo:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.suctan.huigangdemo:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.suctan.huigangdemo:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.suctan.huigangdemo:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.suctan.huigangdemo:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.suctan.huigangdemo:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.suctan.huigangdemo:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.suctan.huigangdemo:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.suctan.huigangdemo:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.suctan.huigangdemo:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.suctan.huigangdemo:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.suctan.huigangdemo:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.suctan.huigangdemo:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.suctan.huigangdemo:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.suctan.huigang:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.suctan.huigang:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.suctan.huigang:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.suctan.huigang:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.suctan.huigang:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.suctan.huigang:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.suctan.huigang:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.suctan.huigang:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.suctan.huigang:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.suctan.huigang:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.suctan.huigang:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.suctan.huigang:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.suctan.huigang:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.suctan.huigang:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.suctan.huigang:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.suctan.huigang:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.suctan.huigang:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.suctan.huigang:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.suctan.huigang:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.suctan.huigang:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.suctan.huigang:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.suctan.huigang:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.suctan.huigang:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.suctan.huigang:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.suctan.huigang:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.suctan.huigang:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.suctan.huigang:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.suctan.huigang:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.suctan.huigang:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.suctan.huigang:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.suctan.huigang:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.suctan.huigang:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.suctan.huigang:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.suctan.huigang:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.suctan.huigang:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.suctan.huigangdemo:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.suctan.huigangdemo:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.suctan.huigangdemo:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.suctan.huigangdemo:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.suctan.huigangdemo:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.suctan.huigangdemo:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.suctan.huigangdemo:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.suctan.huigangdemo:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.suctan.huigangdemo:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.suctan.huigangdemo:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.suctan.huigangdemo:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorAccent com.suctan.huigangdemo:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.suctan.huigangdemo:colorBackgroundFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.suctan.huigangdemo:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.suctan.huigangdemo:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.suctan.huigangdemo:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.suctan.huigangdemo:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.suctan.huigangdemo:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.suctan.huigangdemo:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.suctan.huigangdemo:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_controlBackground com.suctan.huigangdemo:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.suctan.huigangdemo:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.suctan.huigangdemo:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.suctan.huigangdemo:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.suctan.huigangdemo:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.suctan.huigangdemo:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.suctan.huigangdemo:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.suctan.huigangdemo:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextColor com.suctan.huigangdemo:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.suctan.huigangdemo:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.suctan.huigangdemo:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.suctan.huigangdemo:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.suctan.huigangdemo:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.suctan.huigangdemo:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.suctan.huigangdemo:listMenuViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.suctan.huigangdemo:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.suctan.huigangdemo:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.suctan.huigangdemo:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.suctan.huigangdemo:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.suctan.huigangdemo:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.suctan.huigangdemo:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelBackground com.suctan.huigangdemo:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.suctan.huigangdemo:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.suctan.huigangdemo:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.suctan.huigangdemo:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.suctan.huigangdemo:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.suctan.huigangdemo:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.suctan.huigangdemo:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.suctan.huigangdemo:ratingBarStyleIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.suctan.huigangdemo:ratingBarStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.suctan.huigangdemo:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.suctan.huigangdemo:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.suctan.huigangdemo:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.suctan.huigangdemo:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.suctan.huigangdemo:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.suctan.huigangdemo:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_switchStyle com.suctan.huigangdemo:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.suctan.huigangdemo:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.suctan.huigangdemo:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.suctan.huigangdemo:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.suctan.huigangdemo:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.suctan.huigangdemo:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.suctan.huigangdemo:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.suctan.huigangdemo:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.suctan.huigangdemo:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.suctan.huigangdemo:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.suctan.huigangdemo:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.suctan.huigangdemo:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.suctan.huigangdemo:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.suctan.huigangdemo:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.suctan.huigangdemo:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.suctan.huigangdemo:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.suctan.huigangdemo:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.suctan.huigangdemo:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.suctan.huigangdemo:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.suctan.huigangdemo:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.suctan.huigangdemo:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.suctan.huigangdemo:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.suctan.huigang:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.suctan.huigang:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.suctan.huigang:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.suctan.huigang:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.suctan.huigang:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.suctan.huigang:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.suctan.huigang:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.suctan.huigang:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.suctan.huigang:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.suctan.huigang:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.suctan.huigang:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorAccent com.suctan.huigang:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.suctan.huigang:colorBackgroundFloating}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.suctan.huigang:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.suctan.huigang:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.suctan.huigang:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.suctan.huigang:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.suctan.huigang:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.suctan.huigang:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.suctan.huigang:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_controlBackground com.suctan.huigang:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.suctan.huigang:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.suctan.huigang:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.suctan.huigang:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.suctan.huigang:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.suctan.huigang:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.suctan.huigang:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.suctan.huigang:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextColor com.suctan.huigang:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.suctan.huigang:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.suctan.huigang:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.suctan.huigang:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.suctan.huigang:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.suctan.huigang:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.suctan.huigang:listMenuViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.suctan.huigang:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.suctan.huigang:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.suctan.huigang:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.suctan.huigang:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.suctan.huigang:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.suctan.huigang:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelBackground com.suctan.huigang:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.suctan.huigang:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.suctan.huigang:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.suctan.huigang:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.suctan.huigang:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.suctan.huigang:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.suctan.huigang:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.suctan.huigang:ratingBarStyleIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.suctan.huigang:ratingBarStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.suctan.huigang:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.suctan.huigang:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.suctan.huigang:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.suctan.huigang:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.suctan.huigang:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.suctan.huigang:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_switchStyle com.suctan.huigang:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.suctan.huigang:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.suctan.huigang:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.suctan.huigang:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.suctan.huigang:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.suctan.huigang:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.suctan.huigang:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.suctan.huigang:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.suctan.huigang:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.suctan.huigang:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.suctan.huigang:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.suctan.huigang:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.suctan.huigang:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.suctan.huigang:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.suctan.huigang:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.suctan.huigang:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.suctan.huigang:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.suctan.huigang:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.suctan.huigang:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.suctan.huigang:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.suctan.huigang:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.suctan.huigang:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #AppCompatTheme_actionBarDivider
            @see #AppCompatTheme_actionBarItemBackground
@@ -8042,37 +8079,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100bc, 0x7f0100bd, 0x7f0100be
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:actionBarDivider
+          @attr name com.suctan.huigang:actionBarDivider
         */
         public static final int AppCompatTheme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:actionBarItemBackground
+          @attr name com.suctan.huigang:actionBarItemBackground
         */
         public static final int AppCompatTheme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:actionBarPopupTheme
+          @attr name com.suctan.huigang:actionBarPopupTheme
         */
         public static final int AppCompatTheme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionBarSize}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8092,111 +8129,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:actionBarSize
+          @attr name com.suctan.huigang:actionBarSize
         */
         public static final int AppCompatTheme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:actionBarSplitStyle
+          @attr name com.suctan.huigang:actionBarSplitStyle
         */
         public static final int AppCompatTheme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:actionBarStyle
+          @attr name com.suctan.huigang:actionBarStyle
         */
         public static final int AppCompatTheme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:actionBarTabBarStyle
+          @attr name com.suctan.huigang:actionBarTabBarStyle
         */
         public static final int AppCompatTheme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:actionBarTabStyle
+          @attr name com.suctan.huigang:actionBarTabStyle
         */
         public static final int AppCompatTheme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:actionBarTabTextStyle
+          @attr name com.suctan.huigang:actionBarTabTextStyle
         */
         public static final int AppCompatTheme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:actionBarTheme
+          @attr name com.suctan.huigang:actionBarTheme
         */
         public static final int AppCompatTheme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:actionBarWidgetTheme
+          @attr name com.suctan.huigang:actionBarWidgetTheme
         */
         public static final int AppCompatTheme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:actionButtonStyle
+          @attr name com.suctan.huigang:actionButtonStyle
         */
         public static final int AppCompatTheme_actionButtonStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:actionDropDownStyle
+          @attr name com.suctan.huigang:actionDropDownStyle
         */
         public static final int AppCompatTheme_actionDropDownStyle = 46;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:actionMenuTextAppearance
+          @attr name com.suctan.huigang:actionMenuTextAppearance
         */
         public static final int AppCompatTheme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8204,181 +8241,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.suctan.huigangdemo:actionMenuTextColor
+          @attr name com.suctan.huigang:actionMenuTextColor
         */
         public static final int AppCompatTheme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:actionModeBackground
+          @attr name com.suctan.huigang:actionModeBackground
         */
         public static final int AppCompatTheme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:actionModeCloseButtonStyle
+          @attr name com.suctan.huigang:actionModeCloseButtonStyle
         */
         public static final int AppCompatTheme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:actionModeCloseDrawable
+          @attr name com.suctan.huigang:actionModeCloseDrawable
         */
         public static final int AppCompatTheme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:actionModeCopyDrawable
+          @attr name com.suctan.huigang:actionModeCopyDrawable
         */
         public static final int AppCompatTheme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:actionModeCutDrawable
+          @attr name com.suctan.huigang:actionModeCutDrawable
         */
         public static final int AppCompatTheme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:actionModeFindDrawable
+          @attr name com.suctan.huigang:actionModeFindDrawable
         */
         public static final int AppCompatTheme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:actionModePasteDrawable
+          @attr name com.suctan.huigang:actionModePasteDrawable
         */
         public static final int AppCompatTheme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:actionModePopupWindowStyle
+          @attr name com.suctan.huigang:actionModePopupWindowStyle
         */
         public static final int AppCompatTheme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:actionModeSelectAllDrawable
+          @attr name com.suctan.huigang:actionModeSelectAllDrawable
         */
         public static final int AppCompatTheme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:actionModeShareDrawable
+          @attr name com.suctan.huigang:actionModeShareDrawable
         */
         public static final int AppCompatTheme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:actionModeSplitBackground
+          @attr name com.suctan.huigang:actionModeSplitBackground
         */
         public static final int AppCompatTheme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:actionModeStyle
+          @attr name com.suctan.huigang:actionModeStyle
         */
         public static final int AppCompatTheme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:actionModeWebSearchDrawable
+          @attr name com.suctan.huigang:actionModeWebSearchDrawable
         */
         public static final int AppCompatTheme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:actionOverflowButtonStyle
+          @attr name com.suctan.huigang:actionOverflowButtonStyle
         */
         public static final int AppCompatTheme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:actionOverflowMenuStyle
+          @attr name com.suctan.huigang:actionOverflowMenuStyle
         */
         public static final int AppCompatTheme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:activityChooserViewStyle
+          @attr name com.suctan.huigang:activityChooserViewStyle
         */
         public static final int AppCompatTheme_activityChooserViewStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:alertDialogButtonGroupStyle
+          @attr name com.suctan.huigang:alertDialogButtonGroupStyle
         */
         public static final int AppCompatTheme_alertDialogButtonGroupStyle = 94;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8388,27 +8425,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:alertDialogCenterButtons
+          @attr name com.suctan.huigang:alertDialogCenterButtons
         */
         public static final int AppCompatTheme_alertDialogCenterButtons = 95;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:alertDialogStyle
+          @attr name com.suctan.huigang:alertDialogStyle
         */
         public static final int AppCompatTheme_alertDialogStyle = 93;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:alertDialogTheme
+          @attr name com.suctan.huigang:alertDialogTheme
         */
         public static final int AppCompatTheme_alertDialogTheme = 96;
         /**
@@ -8424,117 +8461,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTheme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:autoCompleteTextViewStyle
+          @attr name com.suctan.huigang:autoCompleteTextViewStyle
         */
         public static final int AppCompatTheme_autoCompleteTextViewStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:borderlessButtonStyle
+          @attr name com.suctan.huigang:borderlessButtonStyle
         */
         public static final int AppCompatTheme_borderlessButtonStyle = 55;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:buttonBarButtonStyle
+          @attr name com.suctan.huigang:buttonBarButtonStyle
         */
         public static final int AppCompatTheme_buttonBarButtonStyle = 52;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:buttonBarNegativeButtonStyle
+          @attr name com.suctan.huigang:buttonBarNegativeButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNegativeButtonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:buttonBarNeutralButtonStyle
+          @attr name com.suctan.huigang:buttonBarNeutralButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNeutralButtonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:buttonBarPositiveButtonStyle
+          @attr name com.suctan.huigang:buttonBarPositiveButtonStyle
         */
         public static final int AppCompatTheme_buttonBarPositiveButtonStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:buttonBarStyle
+          @attr name com.suctan.huigang:buttonBarStyle
         */
         public static final int AppCompatTheme_buttonBarStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#buttonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:buttonStyle
+          @attr name com.suctan.huigang:buttonStyle
         */
         public static final int AppCompatTheme_buttonStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:buttonStyleSmall
+          @attr name com.suctan.huigang:buttonStyleSmall
         */
         public static final int AppCompatTheme_buttonStyleSmall = 103;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:checkboxStyle
+          @attr name com.suctan.huigang:checkboxStyle
         */
         public static final int AppCompatTheme_checkboxStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:checkedTextViewStyle
+          @attr name com.suctan.huigang:checkedTextViewStyle
         */
         public static final int AppCompatTheme_checkedTextViewStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#colorAccent}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8545,11 +8582,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:colorAccent
+          @attr name com.suctan.huigang:colorAccent
         */
         public static final int AppCompatTheme_colorAccent = 85;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#colorBackgroundFloating}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#colorBackgroundFloating}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8560,11 +8597,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:colorBackgroundFloating
+          @attr name com.suctan.huigang:colorBackgroundFloating
         */
         public static final int AppCompatTheme_colorBackgroundFloating = 92;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8575,11 +8612,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:colorButtonNormal
+          @attr name com.suctan.huigang:colorButtonNormal
         */
         public static final int AppCompatTheme_colorButtonNormal = 89;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8590,11 +8627,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:colorControlActivated
+          @attr name com.suctan.huigang:colorControlActivated
         */
         public static final int AppCompatTheme_colorControlActivated = 87;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8605,11 +8642,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:colorControlHighlight
+          @attr name com.suctan.huigang:colorControlHighlight
         */
         public static final int AppCompatTheme_colorControlHighlight = 88;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8620,11 +8657,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:colorControlNormal
+          @attr name com.suctan.huigang:colorControlNormal
         */
         public static final int AppCompatTheme_colorControlNormal = 86;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#colorPrimary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8635,11 +8672,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:colorPrimary
+          @attr name com.suctan.huigang:colorPrimary
         */
         public static final int AppCompatTheme_colorPrimary = 83;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8650,11 +8687,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:colorPrimaryDark
+          @attr name com.suctan.huigang:colorPrimaryDark
         */
         public static final int AppCompatTheme_colorPrimaryDark = 84;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8665,21 +8702,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:colorSwitchThumbNormal
+          @attr name com.suctan.huigang:colorSwitchThumbNormal
         */
         public static final int AppCompatTheme_colorSwitchThumbNormal = 90;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#controlBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:controlBackground
+          @attr name com.suctan.huigang:controlBackground
         */
         public static final int AppCompatTheme_controlBackground = 91;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8691,51 +8728,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:dialogPreferredPadding
+          @attr name com.suctan.huigang:dialogPreferredPadding
         */
         public static final int AppCompatTheme_dialogPreferredPadding = 44;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#dialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:dialogTheme
+          @attr name com.suctan.huigang:dialogTheme
         */
         public static final int AppCompatTheme_dialogTheme = 43;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:dividerHorizontal
+          @attr name com.suctan.huigang:dividerHorizontal
         */
         public static final int AppCompatTheme_dividerHorizontal = 57;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#dividerVertical}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:dividerVertical
+          @attr name com.suctan.huigang:dividerVertical
         */
         public static final int AppCompatTheme_dividerVertical = 56;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:dropDownListViewStyle
+          @attr name com.suctan.huigang:dropDownListViewStyle
         */
         public static final int AppCompatTheme_dropDownListViewStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8747,21 +8784,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:dropdownListPreferredItemHeight
+          @attr name com.suctan.huigang:dropdownListPreferredItemHeight
         */
         public static final int AppCompatTheme_dropdownListPreferredItemHeight = 47;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#editTextBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:editTextBackground
+          @attr name com.suctan.huigang:editTextBackground
         */
         public static final int AppCompatTheme_editTextBackground = 64;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#editTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8769,81 +8806,81 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.suctan.huigangdemo:editTextColor
+          @attr name com.suctan.huigang:editTextColor
         */
         public static final int AppCompatTheme_editTextColor = 63;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#editTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:editTextStyle
+          @attr name com.suctan.huigang:editTextStyle
         */
         public static final int AppCompatTheme_editTextStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:homeAsUpIndicator
+          @attr name com.suctan.huigang:homeAsUpIndicator
         */
         public static final int AppCompatTheme_homeAsUpIndicator = 49;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:imageButtonStyle
+          @attr name com.suctan.huigang:imageButtonStyle
         */
         public static final int AppCompatTheme_imageButtonStyle = 65;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:listChoiceBackgroundIndicator
+          @attr name com.suctan.huigang:listChoiceBackgroundIndicator
         */
         public static final int AppCompatTheme_listChoiceBackgroundIndicator = 82;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:listDividerAlertDialog
+          @attr name com.suctan.huigang:listDividerAlertDialog
         */
         public static final int AppCompatTheme_listDividerAlertDialog = 45;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#listMenuViewStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#listMenuViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:listMenuViewStyle
+          @attr name com.suctan.huigang:listMenuViewStyle
         */
         public static final int AppCompatTheme_listMenuViewStyle = 114;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:listPopupWindowStyle
+          @attr name com.suctan.huigang:listPopupWindowStyle
         */
         public static final int AppCompatTheme_listPopupWindowStyle = 76;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8855,11 +8892,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:listPreferredItemHeight
+          @attr name com.suctan.huigang:listPreferredItemHeight
         */
         public static final int AppCompatTheme_listPreferredItemHeight = 70;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8871,11 +8908,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:listPreferredItemHeightLarge
+          @attr name com.suctan.huigang:listPreferredItemHeightLarge
         */
         public static final int AppCompatTheme_listPreferredItemHeightLarge = 72;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8887,11 +8924,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:listPreferredItemHeightSmall
+          @attr name com.suctan.huigang:listPreferredItemHeightSmall
         */
         public static final int AppCompatTheme_listPreferredItemHeightSmall = 71;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8903,11 +8940,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:listPreferredItemPaddingLeft
+          @attr name com.suctan.huigang:listPreferredItemPaddingLeft
         */
         public static final int AppCompatTheme_listPreferredItemPaddingLeft = 73;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8919,31 +8956,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:listPreferredItemPaddingRight
+          @attr name com.suctan.huigang:listPreferredItemPaddingRight
         */
         public static final int AppCompatTheme_listPreferredItemPaddingRight = 74;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#panelBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:panelBackground
+          @attr name com.suctan.huigang:panelBackground
         */
         public static final int AppCompatTheme_panelBackground = 79;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:panelMenuListTheme
+          @attr name com.suctan.huigang:panelMenuListTheme
         */
         public static final int AppCompatTheme_panelMenuListTheme = 81;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -8955,211 +8992,211 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:panelMenuListWidth
+          @attr name com.suctan.huigang:panelMenuListWidth
         */
         public static final int AppCompatTheme_panelMenuListWidth = 80;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:popupMenuStyle
+          @attr name com.suctan.huigang:popupMenuStyle
         */
         public static final int AppCompatTheme_popupMenuStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:popupWindowStyle
+          @attr name com.suctan.huigang:popupWindowStyle
         */
         public static final int AppCompatTheme_popupWindowStyle = 62;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:radioButtonStyle
+          @attr name com.suctan.huigang:radioButtonStyle
         */
         public static final int AppCompatTheme_radioButtonStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:ratingBarStyle
+          @attr name com.suctan.huigang:ratingBarStyle
         */
         public static final int AppCompatTheme_ratingBarStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#ratingBarStyleIndicator}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#ratingBarStyleIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:ratingBarStyleIndicator
+          @attr name com.suctan.huigang:ratingBarStyleIndicator
         */
         public static final int AppCompatTheme_ratingBarStyleIndicator = 109;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#ratingBarStyleSmall}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#ratingBarStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:ratingBarStyleSmall
+          @attr name com.suctan.huigang:ratingBarStyleSmall
         */
         public static final int AppCompatTheme_ratingBarStyleSmall = 110;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:searchViewStyle
+          @attr name com.suctan.huigang:searchViewStyle
         */
         public static final int AppCompatTheme_searchViewStyle = 69;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:seekBarStyle
+          @attr name com.suctan.huigang:seekBarStyle
         */
         public static final int AppCompatTheme_seekBarStyle = 111;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:selectableItemBackground
+          @attr name com.suctan.huigang:selectableItemBackground
         */
         public static final int AppCompatTheme_selectableItemBackground = 53;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:selectableItemBackgroundBorderless
+          @attr name com.suctan.huigang:selectableItemBackgroundBorderless
         */
         public static final int AppCompatTheme_selectableItemBackgroundBorderless = 54;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:spinnerDropDownItemStyle
+          @attr name com.suctan.huigang:spinnerDropDownItemStyle
         */
         public static final int AppCompatTheme_spinnerDropDownItemStyle = 48;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:spinnerStyle
+          @attr name com.suctan.huigang:spinnerStyle
         */
         public static final int AppCompatTheme_spinnerStyle = 112;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#switchStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:switchStyle
+          @attr name com.suctan.huigang:switchStyle
         */
         public static final int AppCompatTheme_switchStyle = 113;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:textAppearanceLargePopupMenu
+          @attr name com.suctan.huigang:textAppearanceLargePopupMenu
         */
         public static final int AppCompatTheme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:textAppearanceListItem
+          @attr name com.suctan.huigang:textAppearanceListItem
         */
         public static final int AppCompatTheme_textAppearanceListItem = 77;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:textAppearanceListItemSmall
+          @attr name com.suctan.huigang:textAppearanceListItemSmall
         */
         public static final int AppCompatTheme_textAppearanceListItemSmall = 78;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#textAppearancePopupMenuHeader}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#textAppearancePopupMenuHeader}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:textAppearancePopupMenuHeader
+          @attr name com.suctan.huigang:textAppearancePopupMenuHeader
         */
         public static final int AppCompatTheme_textAppearancePopupMenuHeader = 42;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:textAppearanceSearchResultSubtitle
+          @attr name com.suctan.huigang:textAppearanceSearchResultSubtitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultSubtitle = 67;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:textAppearanceSearchResultTitle
+          @attr name com.suctan.huigang:textAppearanceSearchResultTitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultTitle = 66;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:textAppearanceSmallPopupMenu
+          @attr name com.suctan.huigang:textAppearanceSmallPopupMenu
         */
         public static final int AppCompatTheme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -9167,11 +9204,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.suctan.huigangdemo:textColorAlertDialogListItem
+          @attr name com.suctan.huigang:textColorAlertDialogListItem
         */
         public static final int AppCompatTheme_textColorAlertDialogListItem = 97;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -9179,31 +9216,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.suctan.huigangdemo:textColorSearchUrl
+          @attr name com.suctan.huigang:textColorSearchUrl
         */
         public static final int AppCompatTheme_textColorSearchUrl = 68;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:toolbarNavigationButtonStyle
+          @attr name com.suctan.huigang:toolbarNavigationButtonStyle
         */
         public static final int AppCompatTheme_toolbarNavigationButtonStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:toolbarStyle
+          @attr name com.suctan.huigang:toolbarStyle
         */
         public static final int AppCompatTheme_toolbarStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#windowActionBar}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -9213,11 +9250,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:windowActionBar
+          @attr name com.suctan.huigang:windowActionBar
         */
         public static final int AppCompatTheme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -9227,11 +9264,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:windowActionBarOverlay
+          @attr name com.suctan.huigang:windowActionBarOverlay
         */
         public static final int AppCompatTheme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -9241,11 +9278,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:windowActionModeOverlay
+          @attr name com.suctan.huigang:windowActionModeOverlay
         */
         public static final int AppCompatTheme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -9260,11 +9297,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:windowFixedHeightMajor
+          @attr name com.suctan.huigang:windowFixedHeightMajor
         */
         public static final int AppCompatTheme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -9279,11 +9316,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:windowFixedHeightMinor
+          @attr name com.suctan.huigang:windowFixedHeightMinor
         */
         public static final int AppCompatTheme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -9298,11 +9335,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:windowFixedWidthMajor
+          @attr name com.suctan.huigang:windowFixedWidthMajor
         */
         public static final int AppCompatTheme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -9317,11 +9354,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:windowFixedWidthMinor
+          @attr name com.suctan.huigang:windowFixedWidthMinor
         */
         public static final int AppCompatTheme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -9336,11 +9373,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:windowMinWidthMajor
+          @attr name com.suctan.huigang:windowMinWidthMajor
         */
         public static final int AppCompatTheme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -9355,11 +9392,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:windowMinWidthMinor
+          @attr name com.suctan.huigang:windowMinWidthMinor
         */
         public static final int AppCompatTheme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -9369,7 +9406,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:windowNoTitle
+          @attr name com.suctan.huigang:windowNoTitle
         */
         public static final int AppCompatTheme_windowNoTitle = 3;
         /** Attributes that can be used with a AutofitTextView.
@@ -9378,9 +9415,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AutofitTextView_minTextSize com.suctan.huigangdemo:minTextSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AutofitTextView_precision com.suctan.huigangdemo:precision}</code></td><td></td></tr>
-           <tr><td><code>{@link #AutofitTextView_sizeToFit com.suctan.huigangdemo:sizeToFit}</code></td><td></td></tr>
+           <tr><td><code>{@link #AutofitTextView_minTextSize com.suctan.huigang:minTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AutofitTextView_precision com.suctan.huigang:precision}</code></td><td></td></tr>
+           <tr><td><code>{@link #AutofitTextView_sizeToFit com.suctan.huigang:sizeToFit}</code></td><td></td></tr>
            </table>
            @see #AutofitTextView_minTextSize
            @see #AutofitTextView_precision
@@ -9390,7 +9427,7 @@ containing a value of this type.
             0x7f0100bf, 0x7f0100c0, 0x7f0100c1
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#minTextSize}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#minTextSize}
           attribute's value can be found in the {@link #AutofitTextView} array.
 
 
@@ -9402,11 +9439,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:minTextSize
+          @attr name com.suctan.huigang:minTextSize
         */
         public static final int AutofitTextView_minTextSize = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#precision}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#precision}
           attribute's value can be found in the {@link #AutofitTextView} array.
 
 
@@ -9416,11 +9453,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:precision
+          @attr name com.suctan.huigang:precision
         */
         public static final int AutofitTextView_precision = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#sizeToFit}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#sizeToFit}
           attribute's value can be found in the {@link #AutofitTextView} array.
 
 
@@ -9430,7 +9467,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:sizeToFit
+          @attr name com.suctan.huigang:sizeToFit
         */
         public static final int AutofitTextView_sizeToFit = 2;
         /** Attributes that can be used with a BGABadgeView.
@@ -9439,18 +9476,18 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BGABadgeView_badge_bgColor com.suctan.huigangdemo:badge_bgColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #BGABadgeView_badge_borderColor com.suctan.huigangdemo:badge_borderColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #BGABadgeView_badge_borderWidth com.suctan.huigangdemo:badge_borderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #BGABadgeView_badge_dragExtra com.suctan.huigangdemo:badge_dragExtra}</code></td><td></td></tr>
-           <tr><td><code>{@link #BGABadgeView_badge_dragable com.suctan.huigangdemo:badge_dragable}</code></td><td></td></tr>
-           <tr><td><code>{@link #BGABadgeView_badge_gravity com.suctan.huigangdemo:badge_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #BGABadgeView_badge_horizontalMargin com.suctan.huigangdemo:badge_horizontalMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #BGABadgeView_badge_isResumeTravel com.suctan.huigangdemo:badge_isResumeTravel}</code></td><td></td></tr>
-           <tr><td><code>{@link #BGABadgeView_badge_padding com.suctan.huigangdemo:badge_padding}</code></td><td></td></tr>
-           <tr><td><code>{@link #BGABadgeView_badge_textColor com.suctan.huigangdemo:badge_textColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #BGABadgeView_badge_textSize com.suctan.huigangdemo:badge_textSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #BGABadgeView_badge_verticalMargin com.suctan.huigangdemo:badge_verticalMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #BGABadgeView_badge_bgColor com.suctan.huigang:badge_bgColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #BGABadgeView_badge_borderColor com.suctan.huigang:badge_borderColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #BGABadgeView_badge_borderWidth com.suctan.huigang:badge_borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #BGABadgeView_badge_dragExtra com.suctan.huigang:badge_dragExtra}</code></td><td></td></tr>
+           <tr><td><code>{@link #BGABadgeView_badge_dragable com.suctan.huigang:badge_dragable}</code></td><td></td></tr>
+           <tr><td><code>{@link #BGABadgeView_badge_gravity com.suctan.huigang:badge_gravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #BGABadgeView_badge_horizontalMargin com.suctan.huigang:badge_horizontalMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #BGABadgeView_badge_isResumeTravel com.suctan.huigang:badge_isResumeTravel}</code></td><td></td></tr>
+           <tr><td><code>{@link #BGABadgeView_badge_padding com.suctan.huigang:badge_padding}</code></td><td></td></tr>
+           <tr><td><code>{@link #BGABadgeView_badge_textColor com.suctan.huigang:badge_textColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #BGABadgeView_badge_textSize com.suctan.huigang:badge_textSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #BGABadgeView_badge_verticalMargin com.suctan.huigang:badge_verticalMargin}</code></td><td></td></tr>
            </table>
            @see #BGABadgeView_badge_bgColor
            @see #BGABadgeView_badge_borderColor
@@ -9471,7 +9508,7 @@ containing a value of this type.
             0x7f0100ca, 0x7f0100cb, 0x7f0100cc, 0x7f0100cd
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#badge_bgColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#badge_bgColor}
           attribute's value can be found in the {@link #BGABadgeView} array.
 
 
@@ -9479,11 +9516,11 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.suctan.huigangdemo:badge_bgColor
+          @attr name com.suctan.huigang:badge_bgColor
         */
         public static final int BGABadgeView_badge_bgColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#badge_borderColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#badge_borderColor}
           attribute's value can be found in the {@link #BGABadgeView} array.
 
 
@@ -9491,11 +9528,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.suctan.huigangdemo:badge_borderColor
+          @attr name com.suctan.huigang:badge_borderColor
         */
         public static final int BGABadgeView_badge_borderColor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#badge_borderWidth}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#badge_borderWidth}
           attribute's value can be found in the {@link #BGABadgeView} array.
 
 
@@ -9504,11 +9541,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.suctan.huigangdemo:badge_borderWidth
+          @attr name com.suctan.huigang:badge_borderWidth
         */
         public static final int BGABadgeView_badge_borderWidth = 9;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#badge_dragExtra}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#badge_dragExtra}
           attribute's value can be found in the {@link #BGABadgeView} array.
 
 
@@ -9517,11 +9554,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.suctan.huigangdemo:badge_dragExtra
+          @attr name com.suctan.huigang:badge_dragExtra
         */
         public static final int BGABadgeView_badge_dragExtra = 11;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#badge_dragable}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#badge_dragable}
           attribute's value can be found in the {@link #BGABadgeView} array.
 
 
@@ -9531,11 +9568,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:badge_dragable
+          @attr name com.suctan.huigang:badge_dragable
         */
         public static final int BGABadgeView_badge_dragable = 7;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#badge_gravity}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#badge_gravity}
           attribute's value can be found in the {@link #BGABadgeView} array.
 
 
@@ -9549,11 +9586,11 @@ containing a value of this type.
 <tr><td><code>rightCenter</code></td><td>1</td><td></td></tr>
 <tr><td><code>rightBottom</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:badge_gravity
+          @attr name com.suctan.huigang:badge_gravity
         */
         public static final int BGABadgeView_badge_gravity = 6;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#badge_horizontalMargin}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#badge_horizontalMargin}
           attribute's value can be found in the {@link #BGABadgeView} array.
 
 
@@ -9562,11 +9599,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.suctan.huigangdemo:badge_horizontalMargin
+          @attr name com.suctan.huigang:badge_horizontalMargin
         */
         public static final int BGABadgeView_badge_horizontalMargin = 4;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#badge_isResumeTravel}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#badge_isResumeTravel}
           attribute's value can be found in the {@link #BGABadgeView} array.
 
 
@@ -9576,11 +9613,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:badge_isResumeTravel
+          @attr name com.suctan.huigang:badge_isResumeTravel
         */
         public static final int BGABadgeView_badge_isResumeTravel = 8;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#badge_padding}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#badge_padding}
           attribute's value can be found in the {@link #BGABadgeView} array.
 
 
@@ -9589,11 +9626,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.suctan.huigangdemo:badge_padding
+          @attr name com.suctan.huigang:badge_padding
         */
         public static final int BGABadgeView_badge_padding = 5;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#badge_textColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#badge_textColor}
           attribute's value can be found in the {@link #BGABadgeView} array.
 
 
@@ -9601,11 +9638,11 @@ in (inches), mm (millimeters).
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.suctan.huigangdemo:badge_textColor
+          @attr name com.suctan.huigang:badge_textColor
         */
         public static final int BGABadgeView_badge_textColor = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#badge_textSize}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#badge_textSize}
           attribute's value can be found in the {@link #BGABadgeView} array.
 
 
@@ -9614,11 +9651,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.suctan.huigangdemo:badge_textSize
+          @attr name com.suctan.huigang:badge_textSize
         */
         public static final int BGABadgeView_badge_textSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#badge_verticalMargin}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#badge_verticalMargin}
           attribute's value can be found in the {@link #BGABadgeView} array.
 
 
@@ -9627,7 +9664,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.suctan.huigangdemo:badge_verticalMargin
+          @attr name com.suctan.huigang:badge_verticalMargin
         */
         public static final int BGABadgeView_badge_verticalMargin = 3;
         /** Attributes that can be used with a BottomNavigationView.
@@ -9636,10 +9673,10 @@ in (inches), mm (millimeters).
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemBackground com.suctan.huigangdemo:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemIconTint com.suctan.huigangdemo:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemTextColor com.suctan.huigangdemo:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_menu com.suctan.huigangdemo:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemBackground com.suctan.huigang:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemIconTint com.suctan.huigang:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemTextColor com.suctan.huigang:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_menu com.suctan.huigang:menu}</code></td><td></td></tr>
            </table>
            @see #BottomNavigationView_itemBackground
            @see #BottomNavigationView_itemIconTint
@@ -9650,17 +9687,17 @@ in (inches), mm (millimeters).
             0x7f010153, 0x7f010154, 0x7f010155, 0x7f010156
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#itemBackground}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:itemBackground
+          @attr name com.suctan.huigang:itemBackground
         */
         public static final int BottomNavigationView_itemBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#itemIconTint}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -9671,11 +9708,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:itemIconTint
+          @attr name com.suctan.huigang:itemIconTint
         */
         public static final int BottomNavigationView_itemIconTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#itemTextColor}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -9686,17 +9723,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:itemTextColor
+          @attr name com.suctan.huigang:itemTextColor
         */
         public static final int BottomNavigationView_itemTextColor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#menu}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#menu}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:menu
+          @attr name com.suctan.huigang:menu
         */
         public static final int BottomNavigationView_menu = 0;
         /** Attributes that can be used with a BottomSheetBehavior_Layout.
@@ -9705,9 +9742,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.suctan.huigangdemo:behavior_hideable}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.suctan.huigangdemo:behavior_peekHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.suctan.huigangdemo:behavior_skipCollapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.suctan.huigang:behavior_hideable}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.suctan.huigang:behavior_peekHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.suctan.huigang:behavior_skipCollapsed}</code></td><td></td></tr>
            </table>
            @see #BottomSheetBehavior_Layout_behavior_hideable
            @see #BottomSheetBehavior_Layout_behavior_peekHeight
@@ -9717,7 +9754,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100ce, 0x7f0100cf, 0x7f0100d0
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#behavior_hideable}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#behavior_hideable}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -9727,11 +9764,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:behavior_hideable
+          @attr name com.suctan.huigang:behavior_hideable
         */
         public static final int BottomSheetBehavior_Layout_behavior_hideable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#behavior_peekHeight}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#behavior_peekHeight}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -9751,11 +9788,11 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>auto</code></td><td>-1</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:behavior_peekHeight
+          @attr name com.suctan.huigang:behavior_peekHeight
         */
         public static final int BottomSheetBehavior_Layout_behavior_peekHeight = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#behavior_skipCollapsed}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#behavior_skipCollapsed}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -9765,7 +9802,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:behavior_skipCollapsed
+          @attr name com.suctan.huigang:behavior_skipCollapsed
         */
         public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed = 2;
         /** Attributes that can be used with a BubbleLayout.
@@ -9774,14 +9811,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BubbleLayout_bl_arrowDirection com.suctan.huigangdemo:bl_arrowDirection}</code></td><td></td></tr>
-           <tr><td><code>{@link #BubbleLayout_bl_arrowHeight com.suctan.huigangdemo:bl_arrowHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #BubbleLayout_bl_arrowPosition com.suctan.huigangdemo:bl_arrowPosition}</code></td><td></td></tr>
-           <tr><td><code>{@link #BubbleLayout_bl_arrowWidth com.suctan.huigangdemo:bl_arrowWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #BubbleLayout_bl_bubbleColor com.suctan.huigangdemo:bl_bubbleColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #BubbleLayout_bl_cornersRadius com.suctan.huigangdemo:bl_cornersRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #BubbleLayout_bl_strokeColor com.suctan.huigangdemo:bl_strokeColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #BubbleLayout_bl_strokeWidth com.suctan.huigangdemo:bl_strokeWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #BubbleLayout_bl_arrowDirection com.suctan.huigang:bl_arrowDirection}</code></td><td></td></tr>
+           <tr><td><code>{@link #BubbleLayout_bl_arrowHeight com.suctan.huigang:bl_arrowHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #BubbleLayout_bl_arrowPosition com.suctan.huigang:bl_arrowPosition}</code></td><td></td></tr>
+           <tr><td><code>{@link #BubbleLayout_bl_arrowWidth com.suctan.huigang:bl_arrowWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #BubbleLayout_bl_bubbleColor com.suctan.huigang:bl_bubbleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #BubbleLayout_bl_cornersRadius com.suctan.huigang:bl_cornersRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #BubbleLayout_bl_strokeColor com.suctan.huigang:bl_strokeColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #BubbleLayout_bl_strokeWidth com.suctan.huigang:bl_strokeWidth}</code></td><td></td></tr>
            </table>
            @see #BubbleLayout_bl_arrowDirection
            @see #BubbleLayout_bl_arrowHeight
@@ -9797,7 +9834,7 @@ containing a value of this type.
             0x7f0100d5, 0x7f0100d6, 0x7f0100d7, 0x7f0100d8
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#bl_arrowDirection}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#bl_arrowDirection}
           attribute's value can be found in the {@link #BubbleLayout} array.
 
 
@@ -9812,11 +9849,11 @@ containing a value of this type.
 <tr><td><code>top</code></td><td>2</td><td></td></tr>
 <tr><td><code>bottom</code></td><td>3</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:bl_arrowDirection
+          @attr name com.suctan.huigang:bl_arrowDirection
         */
         public static final int BubbleLayout_bl_arrowDirection = 7;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#bl_arrowHeight}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#bl_arrowHeight}
           attribute's value can be found in the {@link #BubbleLayout} array.
 
 
@@ -9825,11 +9862,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.suctan.huigangdemo:bl_arrowHeight
+          @attr name com.suctan.huigang:bl_arrowHeight
         */
         public static final int BubbleLayout_bl_arrowHeight = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#bl_arrowPosition}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#bl_arrowPosition}
           attribute's value can be found in the {@link #BubbleLayout} array.
 
 
@@ -9838,11 +9875,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.suctan.huigangdemo:bl_arrowPosition
+          @attr name com.suctan.huigang:bl_arrowPosition
         */
         public static final int BubbleLayout_bl_arrowPosition = 3;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#bl_arrowWidth}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#bl_arrowWidth}
           attribute's value can be found in the {@link #BubbleLayout} array.
 
 
@@ -9851,11 +9888,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.suctan.huigangdemo:bl_arrowWidth
+          @attr name com.suctan.huigang:bl_arrowWidth
         */
         public static final int BubbleLayout_bl_arrowWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#bl_bubbleColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#bl_bubbleColor}
           attribute's value can be found in the {@link #BubbleLayout} array.
 
 
@@ -9863,11 +9900,11 @@ in (inches), mm (millimeters).
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.suctan.huigangdemo:bl_bubbleColor
+          @attr name com.suctan.huigang:bl_bubbleColor
         */
         public static final int BubbleLayout_bl_bubbleColor = 4;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#bl_cornersRadius}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#bl_cornersRadius}
           attribute's value can be found in the {@link #BubbleLayout} array.
 
 
@@ -9876,11 +9913,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.suctan.huigangdemo:bl_cornersRadius
+          @attr name com.suctan.huigang:bl_cornersRadius
         */
         public static final int BubbleLayout_bl_cornersRadius = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#bl_strokeColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#bl_strokeColor}
           attribute's value can be found in the {@link #BubbleLayout} array.
 
 
@@ -9888,11 +9925,11 @@ in (inches), mm (millimeters).
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.suctan.huigangdemo:bl_strokeColor
+          @attr name com.suctan.huigang:bl_strokeColor
         */
         public static final int BubbleLayout_bl_strokeColor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#bl_strokeWidth}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#bl_strokeWidth}
           attribute's value can be found in the {@link #BubbleLayout} array.
 
 
@@ -9901,7 +9938,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.suctan.huigangdemo:bl_strokeWidth
+          @attr name com.suctan.huigang:bl_strokeWidth
         */
         public static final int BubbleLayout_bl_strokeWidth = 5;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -9910,7 +9947,7 @@ in (inches), mm (millimeters).
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.suctan.huigangdemo:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.suctan.huigang:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
@@ -9918,7 +9955,7 @@ in (inches), mm (millimeters).
             0x7f0100d9
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -9928,7 +9965,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:allowStacking
+          @attr name com.suctan.huigang:allowStacking
         */
         public static final int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CircleImageView.
@@ -9937,8 +9974,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CircleImageView_border_color com.suctan.huigangdemo:border_color}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleImageView_border_width com.suctan.huigangdemo:border_width}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleImageView_border_color com.suctan.huigang:border_color}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleImageView_border_width com.suctan.huigang:border_width}</code></td><td></td></tr>
            </table>
            @see #CircleImageView_border_color
            @see #CircleImageView_border_width
@@ -9947,7 +9984,7 @@ containing a value of this type.
             0x7f0100da, 0x7f0100db
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#border_color}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#border_color}
           attribute's value can be found in the {@link #CircleImageView} array.
 
 
@@ -9958,11 +9995,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:border_color
+          @attr name com.suctan.huigang:border_color
         */
         public static final int CircleImageView_border_color = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#border_width}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#border_width}
           attribute's value can be found in the {@link #CircleImageView} array.
 
 
@@ -9974,7 +10011,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:border_width
+          @attr name com.suctan.huigang:border_width
         */
         public static final int CircleImageView_border_width = 0;
         /** Attributes that can be used with a CircleProgressBar.
@@ -9983,19 +10020,19 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CircleProgressBar_mlpb_arrow_height com.suctan.huigangdemo:mlpb_arrow_height}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleProgressBar_mlpb_arrow_width com.suctan.huigangdemo:mlpb_arrow_width}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleProgressBar_mlpb_background_color com.suctan.huigangdemo:mlpb_background_color}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleProgressBar_mlpb_enable_circle_background com.suctan.huigangdemo:mlpb_enable_circle_background}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleProgressBar_mlpb_inner_radius com.suctan.huigangdemo:mlpb_inner_radius}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleProgressBar_mlpb_max com.suctan.huigangdemo:mlpb_max}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleProgressBar_mlpb_progress com.suctan.huigangdemo:mlpb_progress}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleProgressBar_mlpb_progress_color com.suctan.huigangdemo:mlpb_progress_color}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleProgressBar_mlpb_progress_stoke_width com.suctan.huigangdemo:mlpb_progress_stoke_width}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleProgressBar_mlpb_progress_text_color com.suctan.huigangdemo:mlpb_progress_text_color}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleProgressBar_mlpb_progress_text_size com.suctan.huigangdemo:mlpb_progress_text_size}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleProgressBar_mlpb_progress_text_visibility com.suctan.huigangdemo:mlpb_progress_text_visibility}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleProgressBar_mlpb_show_arrow com.suctan.huigangdemo:mlpb_show_arrow}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleProgressBar_mlpb_arrow_height com.suctan.huigang:mlpb_arrow_height}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleProgressBar_mlpb_arrow_width com.suctan.huigang:mlpb_arrow_width}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleProgressBar_mlpb_background_color com.suctan.huigang:mlpb_background_color}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleProgressBar_mlpb_enable_circle_background com.suctan.huigang:mlpb_enable_circle_background}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleProgressBar_mlpb_inner_radius com.suctan.huigang:mlpb_inner_radius}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleProgressBar_mlpb_max com.suctan.huigang:mlpb_max}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleProgressBar_mlpb_progress com.suctan.huigang:mlpb_progress}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleProgressBar_mlpb_progress_color com.suctan.huigang:mlpb_progress_color}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleProgressBar_mlpb_progress_stoke_width com.suctan.huigang:mlpb_progress_stoke_width}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleProgressBar_mlpb_progress_text_color com.suctan.huigang:mlpb_progress_text_color}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleProgressBar_mlpb_progress_text_size com.suctan.huigang:mlpb_progress_text_size}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleProgressBar_mlpb_progress_text_visibility com.suctan.huigang:mlpb_progress_text_visibility}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleProgressBar_mlpb_show_arrow com.suctan.huigang:mlpb_show_arrow}</code></td><td></td></tr>
            </table>
            @see #CircleProgressBar_mlpb_arrow_height
            @see #CircleProgressBar_mlpb_arrow_width
@@ -10018,7 +10055,7 @@ containing a value of this type.
             0x7f0100e8
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#mlpb_arrow_height}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#mlpb_arrow_height}
           attribute's value can be found in the {@link #CircleProgressBar} array.
 
 
@@ -10030,11 +10067,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:mlpb_arrow_height
+          @attr name com.suctan.huigang:mlpb_arrow_height
         */
         public static final int CircleProgressBar_mlpb_arrow_height = 7;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#mlpb_arrow_width}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#mlpb_arrow_width}
           attribute's value can be found in the {@link #CircleProgressBar} array.
 
 
@@ -10046,11 +10083,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:mlpb_arrow_width
+          @attr name com.suctan.huigang:mlpb_arrow_width
         */
         public static final int CircleProgressBar_mlpb_arrow_width = 6;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#mlpb_background_color}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#mlpb_background_color}
           attribute's value can be found in the {@link #CircleProgressBar} array.
 
 
@@ -10061,11 +10098,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:mlpb_background_color
+          @attr name com.suctan.huigang:mlpb_background_color
         */
         public static final int CircleProgressBar_mlpb_background_color = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#mlpb_enable_circle_background}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#mlpb_enable_circle_background}
           attribute's value can be found in the {@link #CircleProgressBar} array.
 
 
@@ -10075,11 +10112,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:mlpb_enable_circle_background
+          @attr name com.suctan.huigang:mlpb_enable_circle_background
         */
         public static final int CircleProgressBar_mlpb_enable_circle_background = 5;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#mlpb_inner_radius}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#mlpb_inner_radius}
           attribute's value can be found in the {@link #CircleProgressBar} array.
 
 
@@ -10091,11 +10128,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:mlpb_inner_radius
+          @attr name com.suctan.huigang:mlpb_inner_radius
         */
         public static final int CircleProgressBar_mlpb_inner_radius = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#mlpb_max}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#mlpb_max}
           attribute's value can be found in the {@link #CircleProgressBar} array.
 
 
@@ -10105,11 +10142,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:mlpb_max
+          @attr name com.suctan.huigang:mlpb_max
         */
         public static final int CircleProgressBar_mlpb_max = 9;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#mlpb_progress}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#mlpb_progress}
           attribute's value can be found in the {@link #CircleProgressBar} array.
 
 
@@ -10119,11 +10156,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:mlpb_progress
+          @attr name com.suctan.huigang:mlpb_progress
         */
         public static final int CircleProgressBar_mlpb_progress = 8;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#mlpb_progress_color}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#mlpb_progress_color}
           attribute's value can be found in the {@link #CircleProgressBar} array.
 
 
@@ -10134,11 +10171,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:mlpb_progress_color
+          @attr name com.suctan.huigang:mlpb_progress_color
         */
         public static final int CircleProgressBar_mlpb_progress_color = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#mlpb_progress_stoke_width}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#mlpb_progress_stoke_width}
           attribute's value can be found in the {@link #CircleProgressBar} array.
 
 
@@ -10150,11 +10187,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:mlpb_progress_stoke_width
+          @attr name com.suctan.huigang:mlpb_progress_stoke_width
         */
         public static final int CircleProgressBar_mlpb_progress_stoke_width = 3;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#mlpb_progress_text_color}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#mlpb_progress_text_color}
           attribute's value can be found in the {@link #CircleProgressBar} array.
 
 
@@ -10165,11 +10202,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:mlpb_progress_text_color
+          @attr name com.suctan.huigang:mlpb_progress_text_color
         */
         public static final int CircleProgressBar_mlpb_progress_text_color = 11;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#mlpb_progress_text_size}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#mlpb_progress_text_size}
           attribute's value can be found in the {@link #CircleProgressBar} array.
 
 
@@ -10181,11 +10218,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:mlpb_progress_text_size
+          @attr name com.suctan.huigang:mlpb_progress_text_size
         */
         public static final int CircleProgressBar_mlpb_progress_text_size = 10;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#mlpb_progress_text_visibility}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#mlpb_progress_text_visibility}
           attribute's value can be found in the {@link #CircleProgressBar} array.
 
 
@@ -10198,11 +10235,11 @@ containing a value of this type.
 <tr><td><code>visible</code></td><td>0</td><td></td></tr>
 <tr><td><code>invisible</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:mlpb_progress_text_visibility
+          @attr name com.suctan.huigang:mlpb_progress_text_visibility
         */
         public static final int CircleProgressBar_mlpb_progress_text_visibility = 12;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#mlpb_show_arrow}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#mlpb_show_arrow}
           attribute's value can be found in the {@link #CircleProgressBar} array.
 
 
@@ -10212,7 +10249,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:mlpb_show_arrow
+          @attr name com.suctan.huigang:mlpb_show_arrow
         */
         public static final int CircleProgressBar_mlpb_show_arrow = 4;
         /** Attributes that can be used with a CircularProgressBar.
@@ -10221,14 +10258,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CircularProgressBar_cpbStyle com.suctan.huigangdemo:cpbStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressBar_cpb_color com.suctan.huigangdemo:cpb_color}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressBar_cpb_colors com.suctan.huigangdemo:cpb_colors}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressBar_cpb_max_sweep_angle com.suctan.huigangdemo:cpb_max_sweep_angle}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressBar_cpb_min_sweep_angle com.suctan.huigangdemo:cpb_min_sweep_angle}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressBar_cpb_rotation_speed com.suctan.huigangdemo:cpb_rotation_speed}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressBar_cpb_stroke_width com.suctan.huigangdemo:cpb_stroke_width}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressBar_cpb_sweep_speed com.suctan.huigangdemo:cpb_sweep_speed}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressBar_cpbStyle com.suctan.huigang:cpbStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressBar_cpb_color com.suctan.huigang:cpb_color}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressBar_cpb_colors com.suctan.huigang:cpb_colors}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressBar_cpb_max_sweep_angle com.suctan.huigang:cpb_max_sweep_angle}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressBar_cpb_min_sweep_angle com.suctan.huigang:cpb_min_sweep_angle}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressBar_cpb_rotation_speed com.suctan.huigang:cpb_rotation_speed}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressBar_cpb_stroke_width com.suctan.huigang:cpb_stroke_width}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressBar_cpb_sweep_speed com.suctan.huigang:cpb_sweep_speed}</code></td><td></td></tr>
            </table>
            @see #CircularProgressBar_cpbStyle
            @see #CircularProgressBar_cpb_color
@@ -10244,17 +10281,17 @@ containing a value of this type.
             0x7f0100ed, 0x7f0100ee, 0x7f0100ef, 0x7f0100f0
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#cpbStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#cpbStyle}
           attribute's value can be found in the {@link #CircularProgressBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:cpbStyle
+          @attr name com.suctan.huigang:cpbStyle
         */
         public static final int CircularProgressBar_cpbStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#cpb_color}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#cpb_color}
           attribute's value can be found in the {@link #CircularProgressBar} array.
 
 
@@ -10265,21 +10302,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:cpb_color
+          @attr name com.suctan.huigang:cpb_color
         */
         public static final int CircularProgressBar_cpb_color = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#cpb_colors}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#cpb_colors}
           attribute's value can be found in the {@link #CircularProgressBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:cpb_colors
+          @attr name com.suctan.huigang:cpb_colors
         */
         public static final int CircularProgressBar_cpb_colors = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#cpb_max_sweep_angle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#cpb_max_sweep_angle}
           attribute's value can be found in the {@link #CircularProgressBar} array.
 
 
@@ -10289,11 +10326,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:cpb_max_sweep_angle
+          @attr name com.suctan.huigang:cpb_max_sweep_angle
         */
         public static final int CircularProgressBar_cpb_max_sweep_angle = 5;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#cpb_min_sweep_angle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#cpb_min_sweep_angle}
           attribute's value can be found in the {@link #CircularProgressBar} array.
 
 
@@ -10303,11 +10340,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:cpb_min_sweep_angle
+          @attr name com.suctan.huigang:cpb_min_sweep_angle
         */
         public static final int CircularProgressBar_cpb_min_sweep_angle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#cpb_rotation_speed}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#cpb_rotation_speed}
           attribute's value can be found in the {@link #CircularProgressBar} array.
 
 
@@ -10317,11 +10354,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:cpb_rotation_speed
+          @attr name com.suctan.huigang:cpb_rotation_speed
         */
         public static final int CircularProgressBar_cpb_rotation_speed = 7;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#cpb_stroke_width}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#cpb_stroke_width}
           attribute's value can be found in the {@link #CircularProgressBar} array.
 
 
@@ -10333,11 +10370,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:cpb_stroke_width
+          @attr name com.suctan.huigang:cpb_stroke_width
         */
         public static final int CircularProgressBar_cpb_stroke_width = 3;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#cpb_sweep_speed}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#cpb_sweep_speed}
           attribute's value can be found in the {@link #CircularProgressBar} array.
 
 
@@ -10347,7 +10384,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:cpb_sweep_speed
+          @attr name com.suctan.huigang:cpb_sweep_speed
         */
         public static final int CircularProgressBar_cpb_sweep_speed = 6;
         /** Attributes that can be used with a CollapsingToolbarLayout.
@@ -10356,22 +10393,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.suctan.huigangdemo:collapsedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.suctan.huigangdemo:collapsedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.suctan.huigangdemo:contentScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.suctan.huigangdemo:expandedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.suctan.huigangdemo:expandedTitleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.suctan.huigangdemo:expandedTitleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.suctan.huigangdemo:expandedTitleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.suctan.huigangdemo:expandedTitleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.suctan.huigangdemo:expandedTitleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.suctan.huigangdemo:expandedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.suctan.huigangdemo:scrimAnimationDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.suctan.huigangdemo:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.suctan.huigangdemo:statusBarScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_title com.suctan.huigangdemo:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.suctan.huigangdemo:titleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.suctan.huigangdemo:toolbarId}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.suctan.huigang:collapsedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.suctan.huigang:collapsedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.suctan.huigang:contentScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.suctan.huigang:expandedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.suctan.huigang:expandedTitleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.suctan.huigang:expandedTitleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.suctan.huigang:expandedTitleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.suctan.huigang:expandedTitleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.suctan.huigang:expandedTitleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.suctan.huigang:expandedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.suctan.huigang:scrimAnimationDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.suctan.huigang:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.suctan.huigang:statusBarScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_title com.suctan.huigang:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.suctan.huigang:titleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.suctan.huigang:toolbarId}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_collapsedTitleGravity
            @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -10397,7 +10434,7 @@ containing a value of this type.
             0x7f0100fc, 0x7f0100fd, 0x7f0100fe, 0x7f0100ff
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#collapsedTitleGravity}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#collapsedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -10418,21 +10455,21 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:collapsedTitleGravity
+          @attr name com.suctan.huigang:collapsedTitleGravity
         */
         public static final int CollapsingToolbarLayout_collapsedTitleGravity = 13;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#collapsedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#collapsedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:collapsedTitleTextAppearance
+          @attr name com.suctan.huigang:collapsedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#contentScrim}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#contentScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -10443,11 +10480,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:contentScrim
+          @attr name com.suctan.huigang:contentScrim
         */
         public static final int CollapsingToolbarLayout_contentScrim = 8;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#expandedTitleGravity}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#expandedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -10468,11 +10505,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:expandedTitleGravity
+          @attr name com.suctan.huigang:expandedTitleGravity
         */
         public static final int CollapsingToolbarLayout_expandedTitleGravity = 14;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#expandedTitleMargin}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#expandedTitleMargin}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -10484,11 +10521,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:expandedTitleMargin
+          @attr name com.suctan.huigang:expandedTitleMargin
         */
         public static final int CollapsingToolbarLayout_expandedTitleMargin = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#expandedTitleMarginBottom}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#expandedTitleMarginBottom}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -10500,11 +10537,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:expandedTitleMarginBottom
+          @attr name com.suctan.huigang:expandedTitleMarginBottom
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginBottom = 5;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#expandedTitleMarginEnd}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#expandedTitleMarginEnd}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -10516,11 +10553,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:expandedTitleMarginEnd
+          @attr name com.suctan.huigang:expandedTitleMarginEnd
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginEnd = 4;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#expandedTitleMarginStart}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#expandedTitleMarginStart}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -10532,11 +10569,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:expandedTitleMarginStart
+          @attr name com.suctan.huigang:expandedTitleMarginStart
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#expandedTitleMarginTop}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#expandedTitleMarginTop}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -10548,21 +10585,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:expandedTitleMarginTop
+          @attr name com.suctan.huigang:expandedTitleMarginTop
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginTop = 3;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#expandedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#expandedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:expandedTitleTextAppearance
+          @attr name com.suctan.huigang:expandedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_expandedTitleTextAppearance = 6;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#scrimAnimationDuration}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#scrimAnimationDuration}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -10572,11 +10609,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:scrimAnimationDuration
+          @attr name com.suctan.huigang:scrimAnimationDuration
         */
         public static final int CollapsingToolbarLayout_scrimAnimationDuration = 12;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#scrimVisibleHeightTrigger}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#scrimVisibleHeightTrigger}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -10588,11 +10625,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:scrimVisibleHeightTrigger
+          @attr name com.suctan.huigang:scrimVisibleHeightTrigger
         */
         public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger = 11;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#statusBarScrim}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#statusBarScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -10603,11 +10640,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:statusBarScrim
+          @attr name com.suctan.huigang:statusBarScrim
         */
         public static final int CollapsingToolbarLayout_statusBarScrim = 9;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#title}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#title}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -10617,11 +10654,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:title
+          @attr name com.suctan.huigang:title
         */
         public static final int CollapsingToolbarLayout_title = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#titleEnabled}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#titleEnabled}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -10631,17 +10668,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:titleEnabled
+          @attr name com.suctan.huigang:titleEnabled
         */
         public static final int CollapsingToolbarLayout_titleEnabled = 15;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#toolbarId}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#toolbarId}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:toolbarId
+          @attr name com.suctan.huigang:toolbarId
         */
         public static final int CollapsingToolbarLayout_toolbarId = 10;
         /** Attributes that can be used with a CollapsingToolbarLayout_Layout.
@@ -10650,8 +10687,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.suctan.huigangdemo:layout_collapseMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.suctan.huigangdemo:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.suctan.huigang:layout_collapseMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.suctan.huigang:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_Layout_layout_collapseMode
            @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -10660,7 +10697,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010100, 0x7f010101
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#layout_collapseMode}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#layout_collapseMode}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -10674,11 +10711,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>pin</code></td><td>1</td><td></td></tr>
 <tr><td><code>parallax</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:layout_collapseMode
+          @attr name com.suctan.huigang:layout_collapseMode
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseMode = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#layout_collapseParallaxMultiplier}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#layout_collapseParallaxMultiplier}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -10688,7 +10725,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:layout_collapseParallaxMultiplier
+          @attr name com.suctan.huigang:layout_collapseParallaxMultiplier
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = 1;
         /** Attributes that can be used with a ColorStateListItem.
@@ -10697,7 +10734,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ColorStateListItem_alpha com.suctan.huigangdemo:alpha}</code></td><td></td></tr>
+           <tr><td><code>{@link #ColorStateListItem_alpha com.suctan.huigang:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
            </table>
@@ -10709,7 +10746,7 @@ containing a value of this type.
             0x010101a5, 0x0101031f, 0x7f010102
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#alpha}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#alpha}
           attribute's value can be found in the {@link #ColorStateListItem} array.
 
 
@@ -10719,7 +10756,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:alpha
+          @attr name com.suctan.huigang:alpha
         */
         public static final int ColorStateListItem_alpha = 2;
         /**
@@ -10741,8 +10778,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint com.suctan.huigangdemo:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode com.suctan.huigangdemo:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint com.suctan.huigang:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode com.suctan.huigang:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -10758,7 +10795,7 @@ containing a value of this type.
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -10769,11 +10806,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:buttonTint
+          @attr name com.suctan.huigang:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -10789,7 +10826,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:buttonTintMode
+          @attr name com.suctan.huigang:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a ConvenientBanner.
@@ -10798,7 +10835,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ConvenientBanner_canLoop com.suctan.huigangdemo:canLoop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ConvenientBanner_canLoop com.suctan.huigang:canLoop}</code></td><td></td></tr>
            </table>
            @see #ConvenientBanner_canLoop
          */
@@ -10806,7 +10843,7 @@ containing a value of this type.
             0x7f010105
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#canLoop}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#canLoop}
           attribute's value can be found in the {@link #ConvenientBanner} array.
 
 
@@ -10816,7 +10853,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:canLoop
+          @attr name com.suctan.huigang:canLoop
         */
         public static final int ConvenientBanner_canLoop = 0;
         /** Attributes that can be used with a CoordinatorLayout.
@@ -10825,8 +10862,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CoordinatorLayout_keylines com.suctan.huigangdemo:keylines}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.suctan.huigangdemo:statusBarBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_keylines com.suctan.huigang:keylines}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.suctan.huigang:statusBarBackground}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_keylines
            @see #CoordinatorLayout_statusBarBackground
@@ -10835,23 +10872,23 @@ containing a value of this type.
             0x7f010106, 0x7f010107
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#keylines}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#keylines}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:keylines
+          @attr name com.suctan.huigang:keylines
         */
         public static final int CoordinatorLayout_keylines = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#statusBarBackground}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#statusBarBackground}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:statusBarBackground
+          @attr name com.suctan.huigang:statusBarBackground
         */
         public static final int CoordinatorLayout_statusBarBackground = 1;
         /** Attributes that can be used with a CoordinatorLayout_Layout.
@@ -10861,12 +10898,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.suctan.huigangdemo:layout_anchor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.suctan.huigangdemo:layout_anchorGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.suctan.huigangdemo:layout_behavior}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.suctan.huigangdemo:layout_dodgeInsetEdges}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.suctan.huigangdemo:layout_insetEdge}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.suctan.huigangdemo:layout_keyline}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.suctan.huigang:layout_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.suctan.huigang:layout_anchorGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.suctan.huigang:layout_behavior}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.suctan.huigang:layout_dodgeInsetEdges}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.suctan.huigang:layout_insetEdge}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.suctan.huigang:layout_keyline}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_Layout_android_layout_gravity
            @see #CoordinatorLayout_Layout_layout_anchor
@@ -10887,17 +10924,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CoordinatorLayout_Layout_android_layout_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#layout_anchor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#layout_anchor}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:layout_anchor
+          @attr name com.suctan.huigang:layout_anchor
         */
         public static final int CoordinatorLayout_Layout_layout_anchor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#layout_anchorGravity}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#layout_anchorGravity}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -10922,11 +10959,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:layout_anchorGravity
+          @attr name com.suctan.huigang:layout_anchorGravity
         */
         public static final int CoordinatorLayout_Layout_layout_anchorGravity = 4;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#layout_behavior}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#layout_behavior}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -10936,11 +10973,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:layout_behavior
+          @attr name com.suctan.huigang:layout_behavior
         */
         public static final int CoordinatorLayout_Layout_layout_behavior = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#layout_dodgeInsetEdges}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#layout_dodgeInsetEdges}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -10959,11 +10996,11 @@ containing a value of this type.
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 <tr><td><code>all</code></td><td>0x77</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:layout_dodgeInsetEdges
+          @attr name com.suctan.huigang:layout_dodgeInsetEdges
         */
         public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges = 6;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#layout_insetEdge}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#layout_insetEdge}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -10981,11 +11018,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:layout_insetEdge
+          @attr name com.suctan.huigang:layout_insetEdge
         */
         public static final int CoordinatorLayout_Layout_layout_insetEdge = 5;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#layout_keyline}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#layout_keyline}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -10995,7 +11032,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:layout_keyline
+          @attr name com.suctan.huigang:layout_keyline
         */
         public static final int CoordinatorLayout_Layout_layout_keyline = 3;
         /** Attributes that can be used with a DesignTheme.
@@ -11004,9 +11041,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.suctan.huigangdemo:bottomSheetDialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.suctan.huigangdemo:bottomSheetStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_textColorError com.suctan.huigangdemo:textColorError}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.suctan.huigang:bottomSheetDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.suctan.huigang:bottomSheetStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_textColorError com.suctan.huigang:textColorError}</code></td><td></td></tr>
            </table>
            @see #DesignTheme_bottomSheetDialogTheme
            @see #DesignTheme_bottomSheetStyle
@@ -11016,27 +11053,27 @@ containing a value of this type.
             0x7f01010e, 0x7f01010f, 0x7f010110
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#bottomSheetDialogTheme}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#bottomSheetDialogTheme}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:bottomSheetDialogTheme
+          @attr name com.suctan.huigang:bottomSheetDialogTheme
         */
         public static final int DesignTheme_bottomSheetDialogTheme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#bottomSheetStyle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#bottomSheetStyle}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:bottomSheetStyle
+          @attr name com.suctan.huigang:bottomSheetStyle
         */
         public static final int DesignTheme_bottomSheetStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#textColorError}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#textColorError}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
@@ -11047,7 +11084,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:textColorError
+          @attr name com.suctan.huigang:textColorError
         */
         public static final int DesignTheme_textColorError = 2;
         /** Attributes that can be used with a DragTopLayout.
@@ -11056,12 +11093,12 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DragTopLayout_dtlCaptureTop com.suctan.huigangdemo:dtlCaptureTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #DragTopLayout_dtlCollapseOffset com.suctan.huigangdemo:dtlCollapseOffset}</code></td><td></td></tr>
-           <tr><td><code>{@link #DragTopLayout_dtlDragContentView com.suctan.huigangdemo:dtlDragContentView}</code></td><td></td></tr>
-           <tr><td><code>{@link #DragTopLayout_dtlOpen com.suctan.huigangdemo:dtlOpen}</code></td><td></td></tr>
-           <tr><td><code>{@link #DragTopLayout_dtlOverDrag com.suctan.huigangdemo:dtlOverDrag}</code></td><td></td></tr>
-           <tr><td><code>{@link #DragTopLayout_dtlTopView com.suctan.huigangdemo:dtlTopView}</code></td><td></td></tr>
+           <tr><td><code>{@link #DragTopLayout_dtlCaptureTop com.suctan.huigang:dtlCaptureTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #DragTopLayout_dtlCollapseOffset com.suctan.huigang:dtlCollapseOffset}</code></td><td></td></tr>
+           <tr><td><code>{@link #DragTopLayout_dtlDragContentView com.suctan.huigang:dtlDragContentView}</code></td><td></td></tr>
+           <tr><td><code>{@link #DragTopLayout_dtlOpen com.suctan.huigang:dtlOpen}</code></td><td></td></tr>
+           <tr><td><code>{@link #DragTopLayout_dtlOverDrag com.suctan.huigang:dtlOverDrag}</code></td><td></td></tr>
+           <tr><td><code>{@link #DragTopLayout_dtlTopView com.suctan.huigang:dtlTopView}</code></td><td></td></tr>
            </table>
            @see #DragTopLayout_dtlCaptureTop
            @see #DragTopLayout_dtlCollapseOffset
@@ -11075,7 +11112,7 @@ containing a value of this type.
             0x7f010115, 0x7f010116
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#dtlCaptureTop}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#dtlCaptureTop}
           attribute's value can be found in the {@link #DragTopLayout} array.
 
 
@@ -11085,11 +11122,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:dtlCaptureTop
+          @attr name com.suctan.huigang:dtlCaptureTop
         */
         public static final int DragTopLayout_dtlCaptureTop = 5;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#dtlCollapseOffset}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#dtlCollapseOffset}
           attribute's value can be found in the {@link #DragTopLayout} array.
 
 
@@ -11101,21 +11138,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:dtlCollapseOffset
+          @attr name com.suctan.huigang:dtlCollapseOffset
         */
         public static final int DragTopLayout_dtlCollapseOffset = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#dtlDragContentView}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#dtlDragContentView}
           attribute's value can be found in the {@link #DragTopLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:dtlDragContentView
+          @attr name com.suctan.huigang:dtlDragContentView
         */
         public static final int DragTopLayout_dtlDragContentView = 4;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#dtlOpen}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#dtlOpen}
           attribute's value can be found in the {@link #DragTopLayout} array.
 
 
@@ -11125,11 +11162,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:dtlOpen
+          @attr name com.suctan.huigang:dtlOpen
         */
         public static final int DragTopLayout_dtlOpen = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#dtlOverDrag}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#dtlOverDrag}
           attribute's value can be found in the {@link #DragTopLayout} array.
 
 
@@ -11139,17 +11176,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:dtlOverDrag
+          @attr name com.suctan.huigang:dtlOverDrag
         */
         public static final int DragTopLayout_dtlOverDrag = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#dtlTopView}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#dtlTopView}
           attribute's value can be found in the {@link #DragTopLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:dtlTopView
+          @attr name com.suctan.huigang:dtlTopView
         */
         public static final int DragTopLayout_dtlTopView = 3;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -11158,14 +11195,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.suctan.huigangdemo:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.suctan.huigangdemo:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength com.suctan.huigangdemo:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.suctan.huigangdemo:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.suctan.huigangdemo:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.suctan.huigangdemo:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.suctan.huigangdemo:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.suctan.huigangdemo:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.suctan.huigang:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.suctan.huigang:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength com.suctan.huigang:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color com.suctan.huigang:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.suctan.huigang:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.suctan.huigang:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.suctan.huigang:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness com.suctan.huigang:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -11181,7 +11218,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01011b, 0x7f01011c, 0x7f01011d, 0x7f01011e
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -11193,11 +11230,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:arrowHeadLength
+          @attr name com.suctan.huigang:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -11209,11 +11246,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:arrowShaftLength
+          @attr name com.suctan.huigang:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#barLength}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -11225,11 +11262,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:barLength
+          @attr name com.suctan.huigang:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#color}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -11240,11 +11277,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:color
+          @attr name com.suctan.huigang:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -11256,11 +11293,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:drawableSize
+          @attr name com.suctan.huigang:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -11272,11 +11309,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:gapBetweenBars
+          @attr name com.suctan.huigang:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -11286,11 +11323,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:spinBars
+          @attr name com.suctan.huigang:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#thickness}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -11302,7 +11339,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:thickness
+          @attr name com.suctan.huigang:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a FloatingActionButton.
@@ -11311,14 +11348,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.suctan.huigangdemo:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.suctan.huigangdemo:backgroundTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_borderWidth com.suctan.huigangdemo:borderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_elevation com.suctan.huigangdemo:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fabSize com.suctan.huigangdemo:fabSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.suctan.huigangdemo:pressedTranslationZ}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_rippleColor com.suctan.huigangdemo:rippleColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.suctan.huigangdemo:useCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.suctan.huigang:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.suctan.huigang:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_borderWidth com.suctan.huigang:borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_elevation com.suctan.huigang:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabSize com.suctan.huigang:fabSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.suctan.huigang:pressedTranslationZ}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_rippleColor com.suctan.huigang:rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.suctan.huigang:useCompatPadding}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_backgroundTint
            @see #FloatingActionButton_backgroundTintMode
@@ -11334,7 +11371,7 @@ containing a value of this type.
             0x7f010122, 0x7f010123, 0x7f0101e1, 0x7f0101e2
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#backgroundTint}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -11345,11 +11382,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:backgroundTint
+          @attr name com.suctan.huigang:backgroundTint
         */
         public static final int FloatingActionButton_backgroundTint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -11365,11 +11402,11 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:backgroundTintMode
+          @attr name com.suctan.huigang:backgroundTintMode
         */
         public static final int FloatingActionButton_backgroundTintMode = 7;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#borderWidth}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#borderWidth}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -11381,11 +11418,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:borderWidth
+          @attr name com.suctan.huigang:borderWidth
         */
         public static final int FloatingActionButton_borderWidth = 4;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#elevation}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -11397,11 +11434,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:elevation
+          @attr name com.suctan.huigang:elevation
         */
         public static final int FloatingActionButton_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#fabSize}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#fabSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -11415,11 +11452,11 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:fabSize
+          @attr name com.suctan.huigang:fabSize
         */
         public static final int FloatingActionButton_fabSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#pressedTranslationZ}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#pressedTranslationZ}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -11431,11 +11468,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:pressedTranslationZ
+          @attr name com.suctan.huigang:pressedTranslationZ
         */
         public static final int FloatingActionButton_pressedTranslationZ = 3;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#rippleColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#rippleColor}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -11446,11 +11483,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:rippleColor
+          @attr name com.suctan.huigang:rippleColor
         */
         public static final int FloatingActionButton_rippleColor = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#useCompatPadding}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#useCompatPadding}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -11460,7 +11497,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:useCompatPadding
+          @attr name com.suctan.huigang:useCompatPadding
         */
         public static final int FloatingActionButton_useCompatPadding = 5;
         /** Attributes that can be used with a FloatingActionButton_Behavior_Layout.
@@ -11469,7 +11506,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.suctan.huigangdemo:behavior_autoHide}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.suctan.huigang:behavior_autoHide}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
          */
@@ -11477,7 +11514,7 @@ containing a value of this type.
             0x7f010124
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#behavior_autoHide}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#behavior_autoHide}
           attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
 
 
@@ -11487,7 +11524,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:behavior_autoHide
+          @attr name com.suctan.huigang:behavior_autoHide
         */
         public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide = 0;
         /** Attributes that can be used with a ForegroundLinearLayout.
@@ -11498,7 +11535,7 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.suctan.huigangdemo:foregroundInsidePadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.suctan.huigang:foregroundInsidePadding}</code></td><td></td></tr>
            </table>
            @see #ForegroundLinearLayout_android_foreground
            @see #ForegroundLinearLayout_android_foregroundGravity
@@ -11520,7 +11557,7 @@ containing a value of this type.
         */
         public static final int ForegroundLinearLayout_android_foregroundGravity = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#foregroundInsidePadding}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#foregroundInsidePadding}
           attribute's value can be found in the {@link #ForegroundLinearLayout} array.
 
 
@@ -11530,7 +11567,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:foregroundInsidePadding
+          @attr name com.suctan.huigang:foregroundInsidePadding
         */
         public static final int ForegroundLinearLayout_foregroundInsidePadding = 2;
         /** Attributes that can be used with a GenericDraweeView.
@@ -11539,31 +11576,31 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #GenericDraweeView_actualImageScaleType com.suctan.huigangdemo:actualImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_backgroundImage com.suctan.huigangdemo:backgroundImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_fadeDuration com.suctan.huigangdemo:fadeDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_failureImage com.suctan.huigangdemo:failureImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_failureImageScaleType com.suctan.huigangdemo:failureImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_overlayImage com.suctan.huigangdemo:overlayImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_placeholderImage com.suctan.huigangdemo:placeholderImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_placeholderImageScaleType com.suctan.huigangdemo:placeholderImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_pressedStateOverlayImage com.suctan.huigangdemo:pressedStateOverlayImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_progressBarAutoRotateInterval com.suctan.huigangdemo:progressBarAutoRotateInterval}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_progressBarImage com.suctan.huigangdemo:progressBarImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_progressBarImageScaleType com.suctan.huigangdemo:progressBarImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_retryImage com.suctan.huigangdemo:retryImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_retryImageScaleType com.suctan.huigangdemo:retryImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundAsCircle com.suctan.huigangdemo:roundAsCircle}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundBottomLeft com.suctan.huigangdemo:roundBottomLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundBottomRight com.suctan.huigangdemo:roundBottomRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundTopLeft com.suctan.huigangdemo:roundTopLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundTopRight com.suctan.huigangdemo:roundTopRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundWithOverlayColor com.suctan.huigangdemo:roundWithOverlayColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundedCornerRadius com.suctan.huigangdemo:roundedCornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundingBorderColor com.suctan.huigangdemo:roundingBorderColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundingBorderPadding com.suctan.huigangdemo:roundingBorderPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundingBorderWidth com.suctan.huigangdemo:roundingBorderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_viewAspectRatio com.suctan.huigangdemo:viewAspectRatio}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_actualImageScaleType com.suctan.huigang:actualImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_backgroundImage com.suctan.huigang:backgroundImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_fadeDuration com.suctan.huigang:fadeDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_failureImage com.suctan.huigang:failureImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_failureImageScaleType com.suctan.huigang:failureImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_overlayImage com.suctan.huigang:overlayImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_placeholderImage com.suctan.huigang:placeholderImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_placeholderImageScaleType com.suctan.huigang:placeholderImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_pressedStateOverlayImage com.suctan.huigang:pressedStateOverlayImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_progressBarAutoRotateInterval com.suctan.huigang:progressBarAutoRotateInterval}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_progressBarImage com.suctan.huigang:progressBarImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_progressBarImageScaleType com.suctan.huigang:progressBarImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_retryImage com.suctan.huigang:retryImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_retryImageScaleType com.suctan.huigang:retryImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundAsCircle com.suctan.huigang:roundAsCircle}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundBottomLeft com.suctan.huigang:roundBottomLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundBottomRight com.suctan.huigang:roundBottomRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundTopLeft com.suctan.huigang:roundTopLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundTopRight com.suctan.huigang:roundTopRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundWithOverlayColor com.suctan.huigang:roundWithOverlayColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundedCornerRadius com.suctan.huigang:roundedCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundingBorderColor com.suctan.huigang:roundingBorderColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundingBorderPadding com.suctan.huigang:roundingBorderPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_roundingBorderWidth com.suctan.huigang:roundingBorderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeView_viewAspectRatio com.suctan.huigang:viewAspectRatio}</code></td><td></td></tr>
            </table>
            @see #GenericDraweeView_actualImageScaleType
            @see #GenericDraweeView_backgroundImage
@@ -11601,7 +11638,7 @@ containing a value of this type.
             0x7f01013e
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actualImageScaleType}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actualImageScaleType}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -11621,21 +11658,21 @@ containing a value of this type.
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:actualImageScaleType
+          @attr name com.suctan.huigang:actualImageScaleType
         */
         public static final int GenericDraweeView_actualImageScaleType = 11;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#backgroundImage}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#backgroundImage}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:backgroundImage
+          @attr name com.suctan.huigang:backgroundImage
         */
         public static final int GenericDraweeView_backgroundImage = 12;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#fadeDuration}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#fadeDuration}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -11645,21 +11682,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:fadeDuration
+          @attr name com.suctan.huigang:fadeDuration
         */
         public static final int GenericDraweeView_fadeDuration = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#failureImage}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#failureImage}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:failureImage
+          @attr name com.suctan.huigang:failureImage
         */
         public static final int GenericDraweeView_failureImage = 6;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#failureImageScaleType}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#failureImageScaleType}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -11679,31 +11716,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:failureImageScaleType
+          @attr name com.suctan.huigang:failureImageScaleType
         */
         public static final int GenericDraweeView_failureImageScaleType = 7;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#overlayImage}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#overlayImage}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:overlayImage
+          @attr name com.suctan.huigang:overlayImage
         */
         public static final int GenericDraweeView_overlayImage = 13;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#placeholderImage}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#placeholderImage}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:placeholderImage
+          @attr name com.suctan.huigang:placeholderImage
         */
         public static final int GenericDraweeView_placeholderImage = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#placeholderImageScaleType}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#placeholderImageScaleType}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -11723,21 +11760,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:placeholderImageScaleType
+          @attr name com.suctan.huigang:placeholderImageScaleType
         */
         public static final int GenericDraweeView_placeholderImageScaleType = 3;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#pressedStateOverlayImage}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#pressedStateOverlayImage}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:pressedStateOverlayImage
+          @attr name com.suctan.huigang:pressedStateOverlayImage
         */
         public static final int GenericDraweeView_pressedStateOverlayImage = 14;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#progressBarAutoRotateInterval}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#progressBarAutoRotateInterval}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -11747,21 +11784,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:progressBarAutoRotateInterval
+          @attr name com.suctan.huigang:progressBarAutoRotateInterval
         */
         public static final int GenericDraweeView_progressBarAutoRotateInterval = 10;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#progressBarImage}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#progressBarImage}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:progressBarImage
+          @attr name com.suctan.huigang:progressBarImage
         */
         public static final int GenericDraweeView_progressBarImage = 8;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#progressBarImageScaleType}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#progressBarImageScaleType}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -11781,21 +11818,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:progressBarImageScaleType
+          @attr name com.suctan.huigang:progressBarImageScaleType
         */
         public static final int GenericDraweeView_progressBarImageScaleType = 9;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#retryImage}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#retryImage}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:retryImage
+          @attr name com.suctan.huigang:retryImage
         */
         public static final int GenericDraweeView_retryImage = 4;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#retryImageScaleType}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#retryImageScaleType}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -11815,11 +11852,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:retryImageScaleType
+          @attr name com.suctan.huigang:retryImageScaleType
         */
         public static final int GenericDraweeView_retryImageScaleType = 5;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#roundAsCircle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#roundAsCircle}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -11829,11 +11866,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:roundAsCircle
+          @attr name com.suctan.huigang:roundAsCircle
         */
         public static final int GenericDraweeView_roundAsCircle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#roundBottomLeft}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#roundBottomLeft}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -11843,11 +11880,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:roundBottomLeft
+          @attr name com.suctan.huigang:roundBottomLeft
         */
         public static final int GenericDraweeView_roundBottomLeft = 20;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#roundBottomRight}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#roundBottomRight}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -11857,11 +11894,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:roundBottomRight
+          @attr name com.suctan.huigang:roundBottomRight
         */
         public static final int GenericDraweeView_roundBottomRight = 19;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#roundTopLeft}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#roundTopLeft}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -11871,11 +11908,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:roundTopLeft
+          @attr name com.suctan.huigang:roundTopLeft
         */
         public static final int GenericDraweeView_roundTopLeft = 17;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#roundTopRight}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#roundTopRight}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -11885,11 +11922,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:roundTopRight
+          @attr name com.suctan.huigang:roundTopRight
         */
         public static final int GenericDraweeView_roundTopRight = 18;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#roundWithOverlayColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#roundWithOverlayColor}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -11900,11 +11937,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:roundWithOverlayColor
+          @attr name com.suctan.huigang:roundWithOverlayColor
         */
         public static final int GenericDraweeView_roundWithOverlayColor = 21;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#roundedCornerRadius}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#roundedCornerRadius}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -11916,11 +11953,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:roundedCornerRadius
+          @attr name com.suctan.huigang:roundedCornerRadius
         */
         public static final int GenericDraweeView_roundedCornerRadius = 16;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#roundingBorderColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#roundingBorderColor}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -11931,11 +11968,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:roundingBorderColor
+          @attr name com.suctan.huigang:roundingBorderColor
         */
         public static final int GenericDraweeView_roundingBorderColor = 23;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#roundingBorderPadding}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#roundingBorderPadding}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -11947,11 +11984,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:roundingBorderPadding
+          @attr name com.suctan.huigang:roundingBorderPadding
         */
         public static final int GenericDraweeView_roundingBorderPadding = 24;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#roundingBorderWidth}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#roundingBorderWidth}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -11963,11 +12000,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:roundingBorderWidth
+          @attr name com.suctan.huigang:roundingBorderWidth
         */
         public static final int GenericDraweeView_roundingBorderWidth = 22;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#viewAspectRatio}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#viewAspectRatio}
           attribute's value can be found in the {@link #GenericDraweeView} array.
 
 
@@ -11977,7 +12014,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:viewAspectRatio
+          @attr name com.suctan.huigang:viewAspectRatio
         */
         public static final int GenericDraweeView_viewAspectRatio = 1;
         /** Attributes that can be used with a IconTextView.
@@ -11986,7 +12023,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #IconTextView_facePath com.suctan.huigangdemo:facePath}</code></td><td></td></tr>
+           <tr><td><code>{@link #IconTextView_facePath com.suctan.huigang:facePath}</code></td><td></td></tr>
            </table>
            @see #IconTextView_facePath
          */
@@ -11994,7 +12031,7 @@ containing a value of this type.
             0x7f01013f
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#facePath}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#facePath}
           attribute's value can be found in the {@link #IconTextView} array.
 
 
@@ -12004,7 +12041,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:facePath
+          @attr name com.suctan.huigang:facePath
         */
         public static final int IconTextView_facePath = 0;
         /** Attributes that can be used with a LabelView.
@@ -12013,16 +12050,16 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #LabelView_lv_background_color com.suctan.huigangdemo:lv_background_color}</code></td><td></td></tr>
-           <tr><td><code>{@link #LabelView_lv_fill_triangle com.suctan.huigangdemo:lv_fill_triangle}</code></td><td></td></tr>
-           <tr><td><code>{@link #LabelView_lv_gravity com.suctan.huigangdemo:lv_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #LabelView_lv_min_size com.suctan.huigangdemo:lv_min_size}</code></td><td></td></tr>
-           <tr><td><code>{@link #LabelView_lv_padding com.suctan.huigangdemo:lv_padding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LabelView_lv_text com.suctan.huigangdemo:lv_text}</code></td><td></td></tr>
-           <tr><td><code>{@link #LabelView_lv_text_all_caps com.suctan.huigangdemo:lv_text_all_caps}</code></td><td></td></tr>
-           <tr><td><code>{@link #LabelView_lv_text_bold com.suctan.huigangdemo:lv_text_bold}</code></td><td></td></tr>
-           <tr><td><code>{@link #LabelView_lv_text_color com.suctan.huigangdemo:lv_text_color}</code></td><td></td></tr>
-           <tr><td><code>{@link #LabelView_lv_text_size com.suctan.huigangdemo:lv_text_size}</code></td><td></td></tr>
+           <tr><td><code>{@link #LabelView_lv_background_color com.suctan.huigang:lv_background_color}</code></td><td></td></tr>
+           <tr><td><code>{@link #LabelView_lv_fill_triangle com.suctan.huigang:lv_fill_triangle}</code></td><td></td></tr>
+           <tr><td><code>{@link #LabelView_lv_gravity com.suctan.huigang:lv_gravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #LabelView_lv_min_size com.suctan.huigang:lv_min_size}</code></td><td></td></tr>
+           <tr><td><code>{@link #LabelView_lv_padding com.suctan.huigang:lv_padding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LabelView_lv_text com.suctan.huigang:lv_text}</code></td><td></td></tr>
+           <tr><td><code>{@link #LabelView_lv_text_all_caps com.suctan.huigang:lv_text_all_caps}</code></td><td></td></tr>
+           <tr><td><code>{@link #LabelView_lv_text_bold com.suctan.huigang:lv_text_bold}</code></td><td></td></tr>
+           <tr><td><code>{@link #LabelView_lv_text_color com.suctan.huigang:lv_text_color}</code></td><td></td></tr>
+           <tr><td><code>{@link #LabelView_lv_text_size com.suctan.huigang:lv_text_size}</code></td><td></td></tr>
            </table>
            @see #LabelView_lv_background_color
            @see #LabelView_lv_fill_triangle
@@ -12041,7 +12078,7 @@ containing a value of this type.
             0x7f010148, 0x7f010149
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#lv_background_color}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#lv_background_color}
           attribute's value can be found in the {@link #LabelView} array.
 
 
@@ -12052,11 +12089,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:lv_background_color
+          @attr name com.suctan.huigang:lv_background_color
         */
         public static final int LabelView_lv_background_color = 5;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#lv_fill_triangle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#lv_fill_triangle}
           attribute's value can be found in the {@link #LabelView} array.
 
 
@@ -12066,11 +12103,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:lv_fill_triangle
+          @attr name com.suctan.huigang:lv_fill_triangle
         */
         public static final int LabelView_lv_fill_triangle = 9;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#lv_gravity}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#lv_gravity}
           attribute's value can be found in the {@link #LabelView} array.
 
 
@@ -12085,11 +12122,11 @@ containing a value of this type.
 <tr><td><code>BOTTOM_LEFT</code></td><td>83</td><td></td></tr>
 <tr><td><code>BOTTOM_RIGHT</code></td><td>85</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:lv_gravity
+          @attr name com.suctan.huigang:lv_gravity
         */
         public static final int LabelView_lv_gravity = 8;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#lv_min_size}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#lv_min_size}
           attribute's value can be found in the {@link #LabelView} array.
 
 
@@ -12101,11 +12138,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:lv_min_size
+          @attr name com.suctan.huigang:lv_min_size
         */
         public static final int LabelView_lv_min_size = 6;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#lv_padding}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#lv_padding}
           attribute's value can be found in the {@link #LabelView} array.
 
 
@@ -12117,11 +12154,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:lv_padding
+          @attr name com.suctan.huigang:lv_padding
         */
         public static final int LabelView_lv_padding = 7;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#lv_text}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#lv_text}
           attribute's value can be found in the {@link #LabelView} array.
 
 
@@ -12131,11 +12168,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:lv_text
+          @attr name com.suctan.huigang:lv_text
         */
         public static final int LabelView_lv_text = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#lv_text_all_caps}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#lv_text_all_caps}
           attribute's value can be found in the {@link #LabelView} array.
 
 
@@ -12145,11 +12182,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:lv_text_all_caps
+          @attr name com.suctan.huigang:lv_text_all_caps
         */
         public static final int LabelView_lv_text_all_caps = 4;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#lv_text_bold}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#lv_text_bold}
           attribute's value can be found in the {@link #LabelView} array.
 
 
@@ -12159,11 +12196,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:lv_text_bold
+          @attr name com.suctan.huigang:lv_text_bold
         */
         public static final int LabelView_lv_text_bold = 3;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#lv_text_color}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#lv_text_color}
           attribute's value can be found in the {@link #LabelView} array.
 
 
@@ -12174,11 +12211,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:lv_text_color
+          @attr name com.suctan.huigang:lv_text_color
         */
         public static final int LabelView_lv_text_color = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#lv_text_size}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#lv_text_size}
           attribute's value can be found in the {@link #LabelView} array.
 
 
@@ -12190,7 +12227,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:lv_text_size
+          @attr name com.suctan.huigang:lv_text_size
         */
         public static final int LabelView_lv_text_size = 2;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -12204,10 +12241,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.suctan.huigangdemo:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.suctan.huigangdemo:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.suctan.huigangdemo:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.suctan.huigangdemo:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider com.suctan.huigang:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.suctan.huigang:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.suctan.huigang:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.suctan.huigang:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -12255,17 +12292,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:divider
+          @attr name com.suctan.huigang:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -12277,11 +12314,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:dividerPadding
+          @attr name com.suctan.huigang:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -12291,11 +12328,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:measureWithLargestChild
+          @attr name com.suctan.huigang:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -12310,7 +12347,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:showDividers
+          @attr name com.suctan.huigang:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -12449,9 +12486,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.suctan.huigangdemo:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.suctan.huigangdemo:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.suctan.huigangdemo:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout com.suctan.huigang:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass com.suctan.huigang:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass com.suctan.huigang:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -12465,7 +12502,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.suctan.huigangdemo:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction com.suctan.huigang:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -12493,17 +12530,17 @@ containing a value of this type.
             0x7f010150
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:actionLayout
+          @attr name com.suctan.huigang:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -12513,11 +12550,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:actionProviderClass
+          @attr name com.suctan.huigang:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -12527,7 +12564,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:actionViewClass
+          @attr name com.suctan.huigang:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -12609,7 +12646,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -12625,7 +12662,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:showAsAction
+          @attr name com.suctan.huigang:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -12641,8 +12678,8 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.suctan.huigangdemo:preserveIconSpacing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_subMenuArrow com.suctan.huigangdemo:subMenuArrow}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing com.suctan.huigang:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_subMenuArrow com.suctan.huigang:subMenuArrow}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -12702,7 +12739,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -12712,17 +12749,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:preserveIconSpacing
+          @attr name com.suctan.huigang:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#subMenuArrow}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#subMenuArrow}
           attribute's value can be found in the {@link #MenuView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:subMenuArrow
+          @attr name com.suctan.huigang:subMenuArrow
         */
         public static final int MenuView_subMenuArrow = 8;
         /** Attributes that can be used with a NavigationView.
@@ -12734,13 +12771,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_elevation com.suctan.huigangdemo:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_headerLayout com.suctan.huigangdemo:headerLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemBackground com.suctan.huigangdemo:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemIconTint com.suctan.huigangdemo:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextAppearance com.suctan.huigangdemo:itemTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextColor com.suctan.huigangdemo:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_menu com.suctan.huigangdemo:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_elevation com.suctan.huigang:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_headerLayout com.suctan.huigang:headerLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemBackground com.suctan.huigang:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemIconTint com.suctan.huigang:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextAppearance com.suctan.huigang:itemTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextColor com.suctan.huigang:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_menu com.suctan.huigang:menu}</code></td><td></td></tr>
            </table>
            @see #NavigationView_android_background
            @see #NavigationView_android_fitsSystemWindows
@@ -12777,7 +12814,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int NavigationView_android_maxWidth = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#elevation}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -12789,31 +12826,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:elevation
+          @attr name com.suctan.huigang:elevation
         */
         public static final int NavigationView_elevation = 3;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#headerLayout}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#headerLayout}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:headerLayout
+          @attr name com.suctan.huigang:headerLayout
         */
         public static final int NavigationView_headerLayout = 9;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#itemBackground}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:itemBackground
+          @attr name com.suctan.huigang:itemBackground
         */
         public static final int NavigationView_itemBackground = 7;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#itemIconTint}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -12824,21 +12861,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:itemIconTint
+          @attr name com.suctan.huigang:itemIconTint
         */
         public static final int NavigationView_itemIconTint = 5;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#itemTextAppearance}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#itemTextAppearance}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:itemTextAppearance
+          @attr name com.suctan.huigang:itemTextAppearance
         */
         public static final int NavigationView_itemTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#itemTextColor}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -12849,17 +12886,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:itemTextColor
+          @attr name com.suctan.huigang:itemTextColor
         */
         public static final int NavigationView_itemTextColor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#menu}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#menu}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:menu
+          @attr name com.suctan.huigang:menu
         */
         public static final int NavigationView_menu = 4;
         /** Attributes that can be used with a PagerSlidingTab.
@@ -12868,17 +12905,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PagerSlidingTab_dividerColor com.suctan.huigangdemo:dividerColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #PagerSlidingTab_indicatorColor com.suctan.huigangdemo:indicatorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #PagerSlidingTab_indicatorHeight com.suctan.huigangdemo:indicatorHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #PagerSlidingTab_pst_dividerPadding com.suctan.huigangdemo:pst_dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #PagerSlidingTab_pst_textAllCaps com.suctan.huigangdemo:pst_textAllCaps}</code></td><td></td></tr>
-           <tr><td><code>{@link #PagerSlidingTab_sameLine com.suctan.huigangdemo:sameLine}</code></td><td></td></tr>
-           <tr><td><code>{@link #PagerSlidingTab_scrollOffset com.suctan.huigangdemo:scrollOffset}</code></td><td></td></tr>
-           <tr><td><code>{@link #PagerSlidingTab_tabBackgrounds com.suctan.huigangdemo:tabBackgrounds}</code></td><td></td></tr>
-           <tr><td><code>{@link #PagerSlidingTab_tabPaddingLeftRight com.suctan.huigangdemo:tabPaddingLeftRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #PagerSlidingTab_underlineColor com.suctan.huigangdemo:underlineColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #PagerSlidingTab_underlineHeight com.suctan.huigangdemo:underlineHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerSlidingTab_dividerColor com.suctan.huigang:dividerColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerSlidingTab_indicatorColor com.suctan.huigang:indicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerSlidingTab_indicatorHeight com.suctan.huigang:indicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerSlidingTab_pst_dividerPadding com.suctan.huigang:pst_dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerSlidingTab_pst_textAllCaps com.suctan.huigang:pst_textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerSlidingTab_sameLine com.suctan.huigang:sameLine}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerSlidingTab_scrollOffset com.suctan.huigang:scrollOffset}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerSlidingTab_tabBackgrounds com.suctan.huigang:tabBackgrounds}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerSlidingTab_tabPaddingLeftRight com.suctan.huigang:tabPaddingLeftRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerSlidingTab_underlineColor com.suctan.huigang:underlineColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerSlidingTab_underlineHeight com.suctan.huigang:underlineHeight}</code></td><td></td></tr>
            </table>
            @see #PagerSlidingTab_dividerColor
            @see #PagerSlidingTab_indicatorColor
@@ -12898,7 +12935,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010161, 0x7f010162, 0x7f010163
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#dividerColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#dividerColor}
           attribute's value can be found in the {@link #PagerSlidingTab} array.
 
 
@@ -12909,11 +12946,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:dividerColor
+          @attr name com.suctan.huigang:dividerColor
         */
         public static final int PagerSlidingTab_dividerColor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#indicatorColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#indicatorColor}
           attribute's value can be found in the {@link #PagerSlidingTab} array.
 
 
@@ -12924,11 +12961,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:indicatorColor
+          @attr name com.suctan.huigang:indicatorColor
         */
         public static final int PagerSlidingTab_indicatorColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#indicatorHeight}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#indicatorHeight}
           attribute's value can be found in the {@link #PagerSlidingTab} array.
 
 
@@ -12940,11 +12977,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:indicatorHeight
+          @attr name com.suctan.huigang:indicatorHeight
         */
         public static final int PagerSlidingTab_indicatorHeight = 3;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#pst_dividerPadding}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#pst_dividerPadding}
           attribute's value can be found in the {@link #PagerSlidingTab} array.
 
 
@@ -12956,11 +12993,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:pst_dividerPadding
+          @attr name com.suctan.huigang:pst_dividerPadding
         */
         public static final int PagerSlidingTab_pst_dividerPadding = 5;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#pst_textAllCaps}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#pst_textAllCaps}
           attribute's value can be found in the {@link #PagerSlidingTab} array.
 
 
@@ -12970,11 +13007,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:pst_textAllCaps
+          @attr name com.suctan.huigang:pst_textAllCaps
         */
         public static final int PagerSlidingTab_pst_textAllCaps = 10;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#sameLine}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#sameLine}
           attribute's value can be found in the {@link #PagerSlidingTab} array.
 
 
@@ -12984,11 +13021,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:sameLine
+          @attr name com.suctan.huigang:sameLine
         */
         public static final int PagerSlidingTab_sameLine = 9;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#scrollOffset}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#scrollOffset}
           attribute's value can be found in the {@link #PagerSlidingTab} array.
 
 
@@ -13000,21 +13037,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:scrollOffset
+          @attr name com.suctan.huigang:scrollOffset
         */
         public static final int PagerSlidingTab_scrollOffset = 7;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#tabBackgrounds}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#tabBackgrounds}
           attribute's value can be found in the {@link #PagerSlidingTab} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:tabBackgrounds
+          @attr name com.suctan.huigang:tabBackgrounds
         */
         public static final int PagerSlidingTab_tabBackgrounds = 8;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#tabPaddingLeftRight}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#tabPaddingLeftRight}
           attribute's value can be found in the {@link #PagerSlidingTab} array.
 
 
@@ -13026,11 +13063,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:tabPaddingLeftRight
+          @attr name com.suctan.huigang:tabPaddingLeftRight
         */
         public static final int PagerSlidingTab_tabPaddingLeftRight = 6;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#underlineColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#underlineColor}
           attribute's value can be found in the {@link #PagerSlidingTab} array.
 
 
@@ -13041,11 +13078,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:underlineColor
+          @attr name com.suctan.huigang:underlineColor
         */
         public static final int PagerSlidingTab_underlineColor = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#underlineHeight}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#underlineHeight}
           attribute's value can be found in the {@link #PagerSlidingTab} array.
 
 
@@ -13057,7 +13094,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:underlineHeight
+          @attr name com.suctan.huigang:underlineHeight
         */
         public static final int PagerSlidingTab_underlineHeight = 4;
         /** Attributes that can be used with a PopupWindow.
@@ -13068,7 +13105,7 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.suctan.huigangdemo:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor com.suctan.huigang:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupAnimationStyle
            @see #PopupWindow_android_popupBackground
@@ -13090,7 +13127,7 @@ containing a value of this type.
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -13100,7 +13137,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:overlapAnchor
+          @attr name com.suctan.huigang:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 2;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -13109,7 +13146,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.suctan.huigangdemo:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.suctan.huigang:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -13117,7 +13154,7 @@ containing a value of this type.
             0x7f010165
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -13127,7 +13164,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:state_above_anchor
+          @attr name com.suctan.huigang:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a RecycleListView.
@@ -13136,8 +13173,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.suctan.huigangdemo:paddingBottomNoButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.suctan.huigangdemo:paddingTopNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.suctan.huigang:paddingBottomNoButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.suctan.huigang:paddingTopNoTitle}</code></td><td></td></tr>
            </table>
            @see #RecycleListView_paddingBottomNoButtons
            @see #RecycleListView_paddingTopNoTitle
@@ -13146,7 +13183,7 @@ containing a value of this type.
             0x7f010166, 0x7f010167
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#paddingBottomNoButtons}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#paddingBottomNoButtons}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -13158,11 +13195,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:paddingBottomNoButtons
+          @attr name com.suctan.huigang:paddingBottomNoButtons
         */
         public static final int RecycleListView_paddingBottomNoButtons = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#paddingTopNoTitle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#paddingTopNoTitle}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -13174,7 +13211,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:paddingTopNoTitle
+          @attr name com.suctan.huigang:paddingTopNoTitle
         */
         public static final int RecycleListView_paddingTopNoTitle = 1;
         /** Attributes that can be used with a RecyclerView.
@@ -13185,10 +13222,10 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_layoutManager com.suctan.huigangdemo:layoutManager}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_reverseLayout com.suctan.huigangdemo:reverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_spanCount com.suctan.huigangdemo:spanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_stackFromEnd com.suctan.huigangdemo:stackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager com.suctan.huigang:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout com.suctan.huigang:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount com.suctan.huigang:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd com.suctan.huigang:stackFromEnd}</code></td><td></td></tr>
            </table>
            @see #RecyclerView_android_descendantFocusability
            @see #RecyclerView_android_orientation
@@ -13214,7 +13251,7 @@ containing a value of this type.
         */
         public static final int RecyclerView_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#layoutManager}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#layoutManager}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -13224,11 +13261,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:layoutManager
+          @attr name com.suctan.huigang:layoutManager
         */
         public static final int RecyclerView_layoutManager = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#reverseLayout}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -13238,11 +13275,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:reverseLayout
+          @attr name com.suctan.huigang:reverseLayout
         */
         public static final int RecyclerView_reverseLayout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#spanCount}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -13252,11 +13289,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:spanCount
+          @attr name com.suctan.huigang:spanCount
         */
         public static final int RecyclerView_spanCount = 3;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#stackFromEnd}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -13266,7 +13303,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:stackFromEnd
+          @attr name com.suctan.huigang:stackFromEnd
         */
         public static final int RecyclerView_stackFromEnd = 5;
         /** Attributes that can be used with a RefreshView.
@@ -13275,7 +13312,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RefreshView_type com.suctan.huigangdemo:type}</code></td><td></td></tr>
+           <tr><td><code>{@link #RefreshView_type com.suctan.huigang:type}</code></td><td></td></tr>
            </table>
            @see #RefreshView_type
          */
@@ -13283,7 +13320,7 @@ containing a value of this type.
             0x7f01016c
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#type}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#type}
           attribute's value can be found in the {@link #RefreshView} array.
 
 
@@ -13295,7 +13332,7 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>sun</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:type
+          @attr name com.suctan.huigang:type
         */
         public static final int RefreshView_type = 0;
         /** Attributes that can be used with a RollViewPager.
@@ -13304,15 +13341,15 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RollViewPager_rollviewpager_hint_alpha com.suctan.huigangdemo:rollviewpager_hint_alpha}</code></td><td></td></tr>
-           <tr><td><code>{@link #RollViewPager_rollviewpager_hint_color com.suctan.huigangdemo:rollviewpager_hint_color}</code></td><td></td></tr>
-           <tr><td><code>{@link #RollViewPager_rollviewpager_hint_gravity com.suctan.huigangdemo:rollviewpager_hint_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #RollViewPager_rollviewpager_hint_mode com.suctan.huigangdemo:rollviewpager_hint_mode}</code></td><td></td></tr>
-           <tr><td><code>{@link #RollViewPager_rollviewpager_hint_paddingBottom com.suctan.huigangdemo:rollviewpager_hint_paddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #RollViewPager_rollviewpager_hint_paddingLeft com.suctan.huigangdemo:rollviewpager_hint_paddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #RollViewPager_rollviewpager_hint_paddingRight com.suctan.huigangdemo:rollviewpager_hint_paddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #RollViewPager_rollviewpager_hint_paddingTop com.suctan.huigangdemo:rollviewpager_hint_paddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #RollViewPager_rollviewpager_play_delay com.suctan.huigangdemo:rollviewpager_play_delay}</code></td><td></td></tr>
+           <tr><td><code>{@link #RollViewPager_rollviewpager_hint_alpha com.suctan.huigang:rollviewpager_hint_alpha}</code></td><td></td></tr>
+           <tr><td><code>{@link #RollViewPager_rollviewpager_hint_color com.suctan.huigang:rollviewpager_hint_color}</code></td><td></td></tr>
+           <tr><td><code>{@link #RollViewPager_rollviewpager_hint_gravity com.suctan.huigang:rollviewpager_hint_gravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #RollViewPager_rollviewpager_hint_mode com.suctan.huigang:rollviewpager_hint_mode}</code></td><td></td></tr>
+           <tr><td><code>{@link #RollViewPager_rollviewpager_hint_paddingBottom com.suctan.huigang:rollviewpager_hint_paddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #RollViewPager_rollviewpager_hint_paddingLeft com.suctan.huigang:rollviewpager_hint_paddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #RollViewPager_rollviewpager_hint_paddingRight com.suctan.huigang:rollviewpager_hint_paddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #RollViewPager_rollviewpager_hint_paddingTop com.suctan.huigang:rollviewpager_hint_paddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #RollViewPager_rollviewpager_play_delay com.suctan.huigang:rollviewpager_play_delay}</code></td><td></td></tr>
            </table>
            @see #RollViewPager_rollviewpager_hint_alpha
            @see #RollViewPager_rollviewpager_hint_color
@@ -13330,7 +13367,7 @@ containing a value of this type.
             0x7f010175
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#rollviewpager_hint_alpha}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#rollviewpager_hint_alpha}
           attribute's value can be found in the {@link #RollViewPager} array.
 
 
@@ -13340,11 +13377,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:rollviewpager_hint_alpha
+          @attr name com.suctan.huigang:rollviewpager_hint_alpha
         */
         public static final int RollViewPager_rollviewpager_hint_alpha = 8;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#rollviewpager_hint_color}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#rollviewpager_hint_color}
           attribute's value can be found in the {@link #RollViewPager} array.
 
 
@@ -13355,11 +13392,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:rollviewpager_hint_color
+          @attr name com.suctan.huigang:rollviewpager_hint_color
         */
         public static final int RollViewPager_rollviewpager_hint_color = 7;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#rollviewpager_hint_gravity}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#rollviewpager_hint_gravity}
           attribute's value can be found in the {@link #RollViewPager} array.
 
 
@@ -13373,11 +13410,11 @@ containing a value of this type.
 <tr><td><code>center</code></td><td>1</td><td></td></tr>
 <tr><td><code>right</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:rollviewpager_hint_gravity
+          @attr name com.suctan.huigang:rollviewpager_hint_gravity
         */
         public static final int RollViewPager_rollviewpager_hint_gravity = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#rollviewpager_hint_mode}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#rollviewpager_hint_mode}
           attribute's value can be found in the {@link #RollViewPager} array.
 
 
@@ -13390,11 +13427,11 @@ containing a value of this type.
 <tr><td><code>point</code></td><td>0</td><td></td></tr>
 <tr><td><code>number</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:rollviewpager_hint_mode
+          @attr name com.suctan.huigang:rollviewpager_hint_mode
         */
         public static final int RollViewPager_rollviewpager_hint_mode = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#rollviewpager_hint_paddingBottom}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#rollviewpager_hint_paddingBottom}
           attribute's value can be found in the {@link #RollViewPager} array.
 
 
@@ -13406,11 +13443,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:rollviewpager_hint_paddingBottom
+          @attr name com.suctan.huigang:rollviewpager_hint_paddingBottom
         */
         public static final int RollViewPager_rollviewpager_hint_paddingBottom = 5;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#rollviewpager_hint_paddingLeft}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#rollviewpager_hint_paddingLeft}
           attribute's value can be found in the {@link #RollViewPager} array.
 
 
@@ -13422,11 +13459,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:rollviewpager_hint_paddingLeft
+          @attr name com.suctan.huigang:rollviewpager_hint_paddingLeft
         */
         public static final int RollViewPager_rollviewpager_hint_paddingLeft = 3;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#rollviewpager_hint_paddingRight}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#rollviewpager_hint_paddingRight}
           attribute's value can be found in the {@link #RollViewPager} array.
 
 
@@ -13438,11 +13475,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:rollviewpager_hint_paddingRight
+          @attr name com.suctan.huigang:rollviewpager_hint_paddingRight
         */
         public static final int RollViewPager_rollviewpager_hint_paddingRight = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#rollviewpager_hint_paddingTop}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#rollviewpager_hint_paddingTop}
           attribute's value can be found in the {@link #RollViewPager} array.
 
 
@@ -13454,11 +13491,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:rollviewpager_hint_paddingTop
+          @attr name com.suctan.huigang:rollviewpager_hint_paddingTop
         */
         public static final int RollViewPager_rollviewpager_hint_paddingTop = 4;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#rollviewpager_play_delay}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#rollviewpager_play_delay}
           attribute's value can be found in the {@link #RollViewPager} array.
 
 
@@ -13468,7 +13505,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:rollviewpager_play_delay
+          @attr name com.suctan.huigang:rollviewpager_play_delay
         */
         public static final int RollViewPager_rollviewpager_play_delay = 6;
         /** Attributes that can be used with a RoundImageView.
@@ -13477,8 +13514,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RoundImageView_borderRadius com.suctan.huigangdemo:borderRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #RoundImageView_borderType com.suctan.huigangdemo:borderType}</code></td><td></td></tr>
+           <tr><td><code>{@link #RoundImageView_borderRadius com.suctan.huigang:borderRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #RoundImageView_borderType com.suctan.huigang:borderType}</code></td><td></td></tr>
            </table>
            @see #RoundImageView_borderRadius
            @see #RoundImageView_borderType
@@ -13487,7 +13524,7 @@ containing a value of this type.
             0x7f010000, 0x7f010001
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#borderRadius}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#borderRadius}
           attribute's value can be found in the {@link #RoundImageView} array.
 
 
@@ -13499,11 +13536,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:borderRadius
+          @attr name com.suctan.huigang:borderRadius
         */
         public static final int RoundImageView_borderRadius = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#borderType}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#borderType}
           attribute's value can be found in the {@link #RoundImageView} array.
 
 
@@ -13516,7 +13553,7 @@ containing a value of this type.
 <tr><td><code>circle</code></td><td>0</td><td></td></tr>
 <tr><td><code>round</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:borderType
+          @attr name com.suctan.huigang:borderType
         */
         public static final int RoundImageView_borderType = 1;
         /** Attributes that can be used with a ScrimInsetsFrameLayout.
@@ -13525,7 +13562,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.suctan.huigangdemo:insetForeground}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.suctan.huigang:insetForeground}</code></td><td></td></tr>
            </table>
            @see #ScrimInsetsFrameLayout_insetForeground
          */
@@ -13533,7 +13570,7 @@ containing a value of this type.
             0x7f010176
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#insetForeground}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#insetForeground}
           attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
 
 
@@ -13541,7 +13578,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.suctan.huigangdemo:insetForeground
+          @attr name com.suctan.huigang:insetForeground
         */
         public static final int ScrimInsetsFrameLayout_insetForeground = 0;
         /** Attributes that can be used with a ScrollingViewBehavior_Layout.
@@ -13550,7 +13587,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.suctan.huigangdemo:behavior_overlapTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.suctan.huigang:behavior_overlapTop}</code></td><td></td></tr>
            </table>
            @see #ScrollingViewBehavior_Layout_behavior_overlapTop
          */
@@ -13558,7 +13595,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010177
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#behavior_overlapTop}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#behavior_overlapTop}
           attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
 
 
@@ -13570,7 +13607,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:behavior_overlapTop
+          @attr name com.suctan.huigang:behavior_overlapTop
         */
         public static final int ScrollingViewBehavior_Layout_behavior_overlapTop = 0;
         /** Attributes that can be used with a SearchView.
@@ -13583,19 +13620,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.suctan.huigangdemo:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.suctan.huigangdemo:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint com.suctan.huigangdemo:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.suctan.huigangdemo:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.suctan.huigangdemo:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout com.suctan.huigangdemo:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.suctan.huigangdemo:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.suctan.huigangdemo:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon com.suctan.huigangdemo:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.suctan.huigangdemo:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.suctan.huigangdemo:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.suctan.huigangdemo:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.suctan.huigangdemo:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon com.suctan.huigang:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon com.suctan.huigang:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint com.suctan.huigang:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon com.suctan.huigang:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault com.suctan.huigang:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout com.suctan.huigang:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground com.suctan.huigang:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint com.suctan.huigang:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon com.suctan.huigang:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon com.suctan.huigang:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground com.suctan.huigang:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout com.suctan.huigang:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon com.suctan.huigang:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -13647,27 +13684,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:closeIcon
+          @attr name com.suctan.huigang:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:commitIcon
+          @attr name com.suctan.huigang:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -13677,21 +13714,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:defaultQueryHint
+          @attr name com.suctan.huigang:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:goIcon
+          @attr name com.suctan.huigang:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -13701,31 +13738,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:iconifiedByDefault
+          @attr name com.suctan.huigang:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#layout}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:layout
+          @attr name com.suctan.huigang:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:queryBackground
+          @attr name com.suctan.huigang:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -13735,57 +13772,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:queryHint
+          @attr name com.suctan.huigang:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:searchHintIcon
+          @attr name com.suctan.huigang:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:searchIcon
+          @attr name com.suctan.huigang:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:submitBackground
+          @attr name com.suctan.huigang:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:suggestionRowLayout
+          @attr name com.suctan.huigang:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:voiceIcon
+          @attr name com.suctan.huigang:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a SegmentControl.
@@ -13795,18 +13832,18 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #SegmentControl_android_textSize android:textSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #SegmentControl_backgroundColors com.suctan.huigangdemo:backgroundColors}</code></td><td></td></tr>
-           <tr><td><code>{@link #SegmentControl_block_direction com.suctan.huigangdemo:block_direction}</code></td><td></td></tr>
-           <tr><td><code>{@link #SegmentControl_boundWidth com.suctan.huigangdemo:boundWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SegmentControl_cornerRadius com.suctan.huigangdemo:cornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #SegmentControl_gaps com.suctan.huigangdemo:gaps}</code></td><td></td></tr>
-           <tr><td><code>{@link #SegmentControl_horizonGap com.suctan.huigangdemo:horizonGap}</code></td><td></td></tr>
-           <tr><td><code>{@link #SegmentControl_normalColor com.suctan.huigangdemo:normalColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #SegmentControl_selectedColor com.suctan.huigangdemo:selectedColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #SegmentControl_separatorWidth com.suctan.huigangdemo:separatorWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SegmentControl_textColors com.suctan.huigangdemo:textColors}</code></td><td></td></tr>
-           <tr><td><code>{@link #SegmentControl_texts com.suctan.huigangdemo:texts}</code></td><td></td></tr>
-           <tr><td><code>{@link #SegmentControl_verticalGap com.suctan.huigangdemo:verticalGap}</code></td><td></td></tr>
+           <tr><td><code>{@link #SegmentControl_backgroundColors com.suctan.huigang:backgroundColors}</code></td><td></td></tr>
+           <tr><td><code>{@link #SegmentControl_block_direction com.suctan.huigang:block_direction}</code></td><td></td></tr>
+           <tr><td><code>{@link #SegmentControl_boundWidth com.suctan.huigang:boundWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SegmentControl_cornerRadius com.suctan.huigang:cornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #SegmentControl_gaps com.suctan.huigang:gaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #SegmentControl_horizonGap com.suctan.huigang:horizonGap}</code></td><td></td></tr>
+           <tr><td><code>{@link #SegmentControl_normalColor com.suctan.huigang:normalColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #SegmentControl_selectedColor com.suctan.huigang:selectedColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #SegmentControl_separatorWidth com.suctan.huigang:separatorWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SegmentControl_textColors com.suctan.huigang:textColors}</code></td><td></td></tr>
+           <tr><td><code>{@link #SegmentControl_texts com.suctan.huigang:texts}</code></td><td></td></tr>
+           <tr><td><code>{@link #SegmentControl_verticalGap com.suctan.huigang:verticalGap}</code></td><td></td></tr>
            </table>
            @see #SegmentControl_android_textSize
            @see #SegmentControl_backgroundColors
@@ -13835,7 +13872,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SegmentControl_android_textSize = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#backgroundColors}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#backgroundColors}
           attribute's value can be found in the {@link #SegmentControl} array.
 
 
@@ -13843,11 +13880,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.suctan.huigangdemo:backgroundColors
+          @attr name com.suctan.huigang:backgroundColors
         */
         public static final int SegmentControl_backgroundColors = 4;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#block_direction}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#block_direction}
           attribute's value can be found in the {@link #SegmentControl} array.
 
 
@@ -13860,11 +13897,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>horizon</code></td><td>0</td><td></td></tr>
 <tr><td><code>vertical</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:block_direction
+          @attr name com.suctan.huigang:block_direction
         */
         public static final int SegmentControl_block_direction = 7;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#boundWidth}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#boundWidth}
           attribute's value can be found in the {@link #SegmentControl} array.
 
 
@@ -13873,11 +13910,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.suctan.huigangdemo:boundWidth
+          @attr name com.suctan.huigang:boundWidth
         */
         public static final int SegmentControl_boundWidth = 8;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#cornerRadius}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#cornerRadius}
           attribute's value can be found in the {@link #SegmentControl} array.
 
 
@@ -13886,11 +13923,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.suctan.huigangdemo:cornerRadius
+          @attr name com.suctan.huigang:cornerRadius
         */
         public static final int SegmentControl_cornerRadius = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#gaps}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#gaps}
           attribute's value can be found in the {@link #SegmentControl} array.
 
 
@@ -13899,11 +13936,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.suctan.huigangdemo:gaps
+          @attr name com.suctan.huigang:gaps
         */
         public static final int SegmentControl_gaps = 10;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#horizonGap}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#horizonGap}
           attribute's value can be found in the {@link #SegmentControl} array.
 
 
@@ -13912,11 +13949,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.suctan.huigangdemo:horizonGap
+          @attr name com.suctan.huigang:horizonGap
         */
         public static final int SegmentControl_horizonGap = 11;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#normalColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#normalColor}
           attribute's value can be found in the {@link #SegmentControl} array.
 
 
@@ -13924,11 +13961,11 @@ in (inches), mm (millimeters).
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.suctan.huigangdemo:normalColor
+          @attr name com.suctan.huigang:normalColor
         */
         public static final int SegmentControl_normalColor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#selectedColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#selectedColor}
           attribute's value can be found in the {@link #SegmentControl} array.
 
 
@@ -13936,11 +13973,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.suctan.huigangdemo:selectedColor
+          @attr name com.suctan.huigang:selectedColor
         */
         public static final int SegmentControl_selectedColor = 3;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#separatorWidth}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#separatorWidth}
           attribute's value can be found in the {@link #SegmentControl} array.
 
 
@@ -13949,11 +13986,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.suctan.huigangdemo:separatorWidth
+          @attr name com.suctan.huigang:separatorWidth
         */
         public static final int SegmentControl_separatorWidth = 9;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#textColors}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#textColors}
           attribute's value can be found in the {@link #SegmentControl} array.
 
 
@@ -13961,22 +13998,22 @@ in (inches), mm (millimeters).
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.suctan.huigangdemo:textColors
+          @attr name com.suctan.huigang:textColors
         */
         public static final int SegmentControl_textColors = 5;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#texts}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#texts}
           attribute's value can be found in the {@link #SegmentControl} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-          @attr name com.suctan.huigangdemo:texts
+          @attr name com.suctan.huigang:texts
         */
         public static final int SegmentControl_texts = 6;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#verticalGap}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#verticalGap}
           attribute's value can be found in the {@link #SegmentControl} array.
 
 
@@ -13985,7 +14022,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.suctan.huigangdemo:verticalGap
+          @attr name com.suctan.huigang:verticalGap
         */
         public static final int SegmentControl_verticalGap = 12;
         /** Attributes that can be used with a SmoothCheckBox.
@@ -13994,12 +14031,12 @@ in (inches), mm (millimeters).
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SmoothCheckBox_color_checked com.suctan.huigangdemo:color_checked}</code></td><td></td></tr>
-           <tr><td><code>{@link #SmoothCheckBox_color_tick com.suctan.huigangdemo:color_tick}</code></td><td></td></tr>
-           <tr><td><code>{@link #SmoothCheckBox_color_unchecked com.suctan.huigangdemo:color_unchecked}</code></td><td></td></tr>
-           <tr><td><code>{@link #SmoothCheckBox_color_unchecked_stroke com.suctan.huigangdemo:color_unchecked_stroke}</code></td><td></td></tr>
-           <tr><td><code>{@link #SmoothCheckBox_duration com.suctan.huigangdemo:duration}</code></td><td></td></tr>
-           <tr><td><code>{@link #SmoothCheckBox_stroke_width com.suctan.huigangdemo:stroke_width}</code></td><td></td></tr>
+           <tr><td><code>{@link #SmoothCheckBox_color_checked com.suctan.huigang:color_checked}</code></td><td></td></tr>
+           <tr><td><code>{@link #SmoothCheckBox_color_tick com.suctan.huigang:color_tick}</code></td><td></td></tr>
+           <tr><td><code>{@link #SmoothCheckBox_color_unchecked com.suctan.huigang:color_unchecked}</code></td><td></td></tr>
+           <tr><td><code>{@link #SmoothCheckBox_color_unchecked_stroke com.suctan.huigang:color_unchecked_stroke}</code></td><td></td></tr>
+           <tr><td><code>{@link #SmoothCheckBox_duration com.suctan.huigang:duration}</code></td><td></td></tr>
+           <tr><td><code>{@link #SmoothCheckBox_stroke_width com.suctan.huigang:stroke_width}</code></td><td></td></tr>
            </table>
            @see #SmoothCheckBox_color_checked
            @see #SmoothCheckBox_color_tick
@@ -14013,7 +14050,7 @@ in (inches), mm (millimeters).
             0x7f010195, 0x7f010196
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#color_checked}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#color_checked}
           attribute's value can be found in the {@link #SmoothCheckBox} array.
 
 
@@ -14024,11 +14061,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:color_checked
+          @attr name com.suctan.huigang:color_checked
         */
         public static final int SmoothCheckBox_color_checked = 3;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#color_tick}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#color_tick}
           attribute's value can be found in the {@link #SmoothCheckBox} array.
 
 
@@ -14039,11 +14076,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:color_tick
+          @attr name com.suctan.huigang:color_tick
         */
         public static final int SmoothCheckBox_color_tick = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#color_unchecked}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#color_unchecked}
           attribute's value can be found in the {@link #SmoothCheckBox} array.
 
 
@@ -14054,11 +14091,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:color_unchecked
+          @attr name com.suctan.huigang:color_unchecked
         */
         public static final int SmoothCheckBox_color_unchecked = 4;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#color_unchecked_stroke}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#color_unchecked_stroke}
           attribute's value can be found in the {@link #SmoothCheckBox} array.
 
 
@@ -14069,11 +14106,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:color_unchecked_stroke
+          @attr name com.suctan.huigang:color_unchecked_stroke
         */
         public static final int SmoothCheckBox_color_unchecked_stroke = 5;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#duration}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#duration}
           attribute's value can be found in the {@link #SmoothCheckBox} array.
 
 
@@ -14083,11 +14120,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:duration
+          @attr name com.suctan.huigang:duration
         */
         public static final int SmoothCheckBox_duration = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#stroke_width}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#stroke_width}
           attribute's value can be found in the {@link #SmoothCheckBox} array.
 
 
@@ -14099,7 +14136,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:stroke_width
+          @attr name com.suctan.huigang:stroke_width
         */
         public static final int SmoothCheckBox_stroke_width = 1;
         /** Attributes that can be used with a SnackbarLayout.
@@ -14109,8 +14146,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_elevation com.suctan.huigangdemo:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.suctan.huigangdemo:maxActionInlineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_elevation com.suctan.huigang:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.suctan.huigang:maxActionInlineWidth}</code></td><td></td></tr>
            </table>
            @see #SnackbarLayout_android_maxWidth
            @see #SnackbarLayout_elevation
@@ -14126,7 +14163,7 @@ containing a value of this type.
         */
         public static final int SnackbarLayout_android_maxWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#elevation}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -14138,11 +14175,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:elevation
+          @attr name com.suctan.huigang:elevation
         */
         public static final int SnackbarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#maxActionInlineWidth}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#maxActionInlineWidth}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -14154,7 +14191,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:maxActionInlineWidth
+          @attr name com.suctan.huigang:maxActionInlineWidth
         */
         public static final int SnackbarLayout_maxActionInlineWidth = 2;
         /** Attributes that can be used with a Spinner.
@@ -14167,7 +14204,7 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_entries android:entries}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme com.suctan.huigangdemo:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme com.suctan.huigang:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_entries
@@ -14204,13 +14241,13 @@ containing a value of this type.
         */
         public static final int Spinner_android_prompt = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:popupTheme
+          @attr name com.suctan.huigang:popupTheme
         */
         public static final int Spinner_popupTheme = 4;
         /** Attributes that can be used with a StarView.
@@ -14219,13 +14256,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #StarView_mClickImageId com.suctan.huigangdemo:mClickImageId}</code></td><td></td></tr>
-           <tr><td><code>{@link #StarView_mDefaultImageId com.suctan.huigangdemo:mDefaultImageId}</code></td><td></td></tr>
-           <tr><td><code>{@link #StarView_mImageHeight com.suctan.huigangdemo:mImageHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #StarView_mImageWidth com.suctan.huigangdemo:mImageWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #StarView_mMargin com.suctan.huigangdemo:mMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #StarView_mStarChoose com.suctan.huigangdemo:mStarChoose}</code></td><td></td></tr>
-           <tr><td><code>{@link #StarView_mStarNum com.suctan.huigangdemo:mStarNum}</code></td><td></td></tr>
+           <tr><td><code>{@link #StarView_mClickImageId com.suctan.huigang:mClickImageId}</code></td><td></td></tr>
+           <tr><td><code>{@link #StarView_mDefaultImageId com.suctan.huigang:mDefaultImageId}</code></td><td></td></tr>
+           <tr><td><code>{@link #StarView_mImageHeight com.suctan.huigang:mImageHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #StarView_mImageWidth com.suctan.huigang:mImageWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #StarView_mMargin com.suctan.huigang:mMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #StarView_mStarChoose com.suctan.huigang:mStarChoose}</code></td><td></td></tr>
+           <tr><td><code>{@link #StarView_mStarNum com.suctan.huigang:mStarNum}</code></td><td></td></tr>
            </table>
            @see #StarView_mClickImageId
            @see #StarView_mDefaultImageId
@@ -14240,27 +14277,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01019c, 0x7f01019d, 0x7f01019e
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#mClickImageId}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#mClickImageId}
           attribute's value can be found in the {@link #StarView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:mClickImageId
+          @attr name com.suctan.huigang:mClickImageId
         */
         public static final int StarView_mClickImageId = 3;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#mDefaultImageId}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#mDefaultImageId}
           attribute's value can be found in the {@link #StarView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:mDefaultImageId
+          @attr name com.suctan.huigang:mDefaultImageId
         */
         public static final int StarView_mDefaultImageId = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#mImageHeight}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#mImageHeight}
           attribute's value can be found in the {@link #StarView} array.
 
 
@@ -14272,11 +14309,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:mImageHeight
+          @attr name com.suctan.huigang:mImageHeight
         */
         public static final int StarView_mImageHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#mImageWidth}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#mImageWidth}
           attribute's value can be found in the {@link #StarView} array.
 
 
@@ -14288,11 +14325,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:mImageWidth
+          @attr name com.suctan.huigang:mImageWidth
         */
         public static final int StarView_mImageWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#mMargin}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#mMargin}
           attribute's value can be found in the {@link #StarView} array.
 
 
@@ -14304,11 +14341,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:mMargin
+          @attr name com.suctan.huigang:mMargin
         */
         public static final int StarView_mMargin = 4;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#mStarChoose}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#mStarChoose}
           attribute's value can be found in the {@link #StarView} array.
 
 
@@ -14318,11 +14355,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:mStarChoose
+          @attr name com.suctan.huigang:mStarChoose
         */
         public static final int StarView_mStarChoose = 6;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#mStarNum}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#mStarNum}
           attribute's value can be found in the {@link #StarView} array.
 
 
@@ -14332,7 +14369,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:mStarNum
+          @attr name com.suctan.huigang:mStarNum
         */
         public static final int StarView_mStarNum = 5;
         /** Attributes that can be used with a SwitchCompat.
@@ -14344,17 +14381,17 @@ containing a value of this type.
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.suctan.huigangdemo:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.suctan.huigangdemo:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.suctan.huigangdemo:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.suctan.huigangdemo:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.suctan.huigangdemo:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.suctan.huigangdemo:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTint com.suctan.huigangdemo:thumbTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.suctan.huigangdemo:thumbTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.suctan.huigangdemo:track}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTint com.suctan.huigangdemo:trackTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTintMode com.suctan.huigangdemo:trackTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText com.suctan.huigang:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack com.suctan.huigang:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.suctan.huigang:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding com.suctan.huigang:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.suctan.huigang:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.suctan.huigang:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTint com.suctan.huigang:thumbTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.suctan.huigang:thumbTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track com.suctan.huigang:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTint com.suctan.huigang:trackTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTintMode com.suctan.huigang:trackTintMode}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -14396,7 +14433,7 @@ containing a value of this type.
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#showText}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -14406,11 +14443,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:showText
+          @attr name com.suctan.huigang:showText
         */
         public static final int SwitchCompat_showText = 13;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -14420,11 +14457,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:splitTrack
+          @attr name com.suctan.huigang:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 12;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -14436,11 +14473,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:switchMinWidth
+          @attr name com.suctan.huigang:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 10;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -14452,21 +14489,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:switchPadding
+          @attr name com.suctan.huigang:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 11;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:switchTextAppearance
+          @attr name com.suctan.huigang:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -14478,11 +14515,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:thumbTextPadding
+          @attr name com.suctan.huigang:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#thumbTint}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#thumbTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -14493,11 +14530,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:thumbTint
+          @attr name com.suctan.huigang:thumbTint
         */
         public static final int SwitchCompat_thumbTint = 3;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#thumbTintMode}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#thumbTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -14514,21 +14551,21 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:thumbTintMode
+          @attr name com.suctan.huigang:thumbTintMode
         */
         public static final int SwitchCompat_thumbTintMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#track}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:track
+          @attr name com.suctan.huigang:track
         */
         public static final int SwitchCompat_track = 5;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#trackTint}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#trackTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -14539,11 +14576,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:trackTint
+          @attr name com.suctan.huigang:trackTint
         */
         public static final int SwitchCompat_trackTint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#trackTintMode}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#trackTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -14560,7 +14597,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:trackTintMode
+          @attr name com.suctan.huigang:trackTintMode
         */
         public static final int SwitchCompat_trackTintMode = 7;
         /** Attributes that can be used with a TabItem.
@@ -14604,22 +14641,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TabLayout_tabBackground com.suctan.huigangdemo:tabBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabContentStart com.suctan.huigangdemo:tabContentStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabGravity com.suctan.huigangdemo:tabGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.suctan.huigangdemo:tabIndicatorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.suctan.huigangdemo:tabIndicatorHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMaxWidth com.suctan.huigangdemo:tabMaxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMinWidth com.suctan.huigangdemo:tabMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMode com.suctan.huigangdemo:tabMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPadding com.suctan.huigangdemo:tabPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.suctan.huigangdemo:tabPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.suctan.huigangdemo:tabPaddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingStart com.suctan.huigangdemo:tabPaddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingTop com.suctan.huigangdemo:tabPaddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.suctan.huigangdemo:tabSelectedTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextAppearance com.suctan.huigangdemo:tabTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextColor com.suctan.huigangdemo:tabTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabBackground com.suctan.huigang:tabBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabContentStart com.suctan.huigang:tabContentStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabGravity com.suctan.huigang:tabGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.suctan.huigang:tabIndicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.suctan.huigang:tabIndicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMaxWidth com.suctan.huigang:tabMaxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMinWidth com.suctan.huigang:tabMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMode com.suctan.huigang:tabMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPadding com.suctan.huigang:tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.suctan.huigang:tabPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.suctan.huigang:tabPaddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingStart com.suctan.huigang:tabPaddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingTop com.suctan.huigang:tabPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.suctan.huigang:tabSelectedTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextAppearance com.suctan.huigang:tabTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextColor com.suctan.huigang:tabTextColor}</code></td><td></td></tr>
            </table>
            @see #TabLayout_tabBackground
            @see #TabLayout_tabContentStart
@@ -14645,17 +14682,17 @@ containing a value of this type.
             0x7f0101b6, 0x7f0101b7, 0x7f0101b8, 0x7f0101b9
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#tabBackground}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#tabBackground}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:tabBackground
+          @attr name com.suctan.huigang:tabBackground
         */
         public static final int TabLayout_tabBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#tabContentStart}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#tabContentStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -14667,11 +14704,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:tabContentStart
+          @attr name com.suctan.huigang:tabContentStart
         */
         public static final int TabLayout_tabContentStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#tabGravity}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#tabGravity}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -14684,11 +14721,11 @@ containing a value of this type.
 <tr><td><code>fill</code></td><td>0</td><td></td></tr>
 <tr><td><code>center</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:tabGravity
+          @attr name com.suctan.huigang:tabGravity
         */
         public static final int TabLayout_tabGravity = 5;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#tabIndicatorColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#tabIndicatorColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -14699,11 +14736,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:tabIndicatorColor
+          @attr name com.suctan.huigang:tabIndicatorColor
         */
         public static final int TabLayout_tabIndicatorColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#tabIndicatorHeight}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#tabIndicatorHeight}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -14715,11 +14752,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:tabIndicatorHeight
+          @attr name com.suctan.huigang:tabIndicatorHeight
         */
         public static final int TabLayout_tabIndicatorHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#tabMaxWidth}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#tabMaxWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -14731,11 +14768,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:tabMaxWidth
+          @attr name com.suctan.huigang:tabMaxWidth
         */
         public static final int TabLayout_tabMaxWidth = 7;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#tabMinWidth}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#tabMinWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -14747,11 +14784,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:tabMinWidth
+          @attr name com.suctan.huigang:tabMinWidth
         */
         public static final int TabLayout_tabMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#tabMode}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#tabMode}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -14764,11 +14801,11 @@ containing a value of this type.
 <tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
 <tr><td><code>fixed</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:tabMode
+          @attr name com.suctan.huigang:tabMode
         */
         public static final int TabLayout_tabMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#tabPadding}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#tabPadding}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -14780,11 +14817,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:tabPadding
+          @attr name com.suctan.huigang:tabPadding
         */
         public static final int TabLayout_tabPadding = 15;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#tabPaddingBottom}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#tabPaddingBottom}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -14796,11 +14833,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:tabPaddingBottom
+          @attr name com.suctan.huigang:tabPaddingBottom
         */
         public static final int TabLayout_tabPaddingBottom = 14;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#tabPaddingEnd}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#tabPaddingEnd}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -14812,11 +14849,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:tabPaddingEnd
+          @attr name com.suctan.huigang:tabPaddingEnd
         */
         public static final int TabLayout_tabPaddingEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#tabPaddingStart}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#tabPaddingStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -14828,11 +14865,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:tabPaddingStart
+          @attr name com.suctan.huigang:tabPaddingStart
         */
         public static final int TabLayout_tabPaddingStart = 11;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#tabPaddingTop}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#tabPaddingTop}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -14844,11 +14881,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:tabPaddingTop
+          @attr name com.suctan.huigang:tabPaddingTop
         */
         public static final int TabLayout_tabPaddingTop = 12;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#tabSelectedTextColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#tabSelectedTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -14859,21 +14896,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:tabSelectedTextColor
+          @attr name com.suctan.huigang:tabSelectedTextColor
         */
         public static final int TabLayout_tabSelectedTextColor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#tabTextAppearance}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#tabTextAppearance}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:tabTextAppearance
+          @attr name com.suctan.huigang:tabTextAppearance
         */
         public static final int TabLayout_tabTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#tabTextColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#tabTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -14884,7 +14921,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:tabTextColor
+          @attr name com.suctan.huigang:tabTextColor
         */
         public static final int TabLayout_tabTextColor = 9;
         /** Attributes that can be used with a TextAppearance.
@@ -14902,7 +14939,7 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps com.suctan.huigangdemo:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps com.suctan.huigang:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_shadowColor
            @see #TextAppearance_android_shadowDx
@@ -14975,14 +15012,14 @@ containing a value of this type.
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.suctan.huigangdemo:textAllCaps
+          @attr name com.suctan.huigang:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 9;
         /** Attributes that can be used with a TextInputLayout.
@@ -14993,20 +15030,20 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
            <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterEnabled com.suctan.huigangdemo:counterEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterMaxLength com.suctan.huigangdemo:counterMaxLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.suctan.huigangdemo:counterOverflowTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.suctan.huigangdemo:counterTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorEnabled com.suctan.huigangdemo:errorEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.suctan.huigangdemo:errorTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.suctan.huigangdemo:hintAnimationEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintEnabled com.suctan.huigangdemo:hintEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.suctan.huigangdemo:hintTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.suctan.huigangdemo:passwordToggleContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.suctan.huigangdemo:passwordToggleDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.suctan.huigangdemo:passwordToggleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.suctan.huigangdemo:passwordToggleTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.suctan.huigangdemo:passwordToggleTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterEnabled com.suctan.huigang:counterEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterMaxLength com.suctan.huigang:counterMaxLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.suctan.huigang:counterOverflowTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.suctan.huigang:counterTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorEnabled com.suctan.huigang:errorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.suctan.huigang:errorTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.suctan.huigang:hintAnimationEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintEnabled com.suctan.huigang:hintEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.suctan.huigang:hintTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.suctan.huigang:passwordToggleContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.suctan.huigang:passwordToggleDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.suctan.huigang:passwordToggleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.suctan.huigang:passwordToggleTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.suctan.huigang:passwordToggleTintMode}</code></td><td></td></tr>
            </table>
            @see #TextInputLayout_android_hint
            @see #TextInputLayout_android_textColorHint
@@ -15044,7 +15081,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextInputLayout_android_textColorHint = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#counterEnabled}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#counterEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15054,11 +15091,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:counterEnabled
+          @attr name com.suctan.huigang:counterEnabled
         */
         public static final int TextInputLayout_counterEnabled = 6;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#counterMaxLength}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#counterMaxLength}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15068,31 +15105,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:counterMaxLength
+          @attr name com.suctan.huigang:counterMaxLength
         */
         public static final int TextInputLayout_counterMaxLength = 7;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#counterOverflowTextAppearance}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#counterOverflowTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:counterOverflowTextAppearance
+          @attr name com.suctan.huigang:counterOverflowTextAppearance
         */
         public static final int TextInputLayout_counterOverflowTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#counterTextAppearance}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#counterTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:counterTextAppearance
+          @attr name com.suctan.huigang:counterTextAppearance
         */
         public static final int TextInputLayout_counterTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#errorEnabled}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#errorEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15102,21 +15139,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:errorEnabled
+          @attr name com.suctan.huigang:errorEnabled
         */
         public static final int TextInputLayout_errorEnabled = 4;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#errorTextAppearance}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#errorTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:errorTextAppearance
+          @attr name com.suctan.huigang:errorTextAppearance
         */
         public static final int TextInputLayout_errorTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#hintAnimationEnabled}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#hintAnimationEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15126,11 +15163,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:hintAnimationEnabled
+          @attr name com.suctan.huigang:hintAnimationEnabled
         */
         public static final int TextInputLayout_hintAnimationEnabled = 10;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#hintEnabled}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#hintEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15140,21 +15177,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:hintEnabled
+          @attr name com.suctan.huigang:hintEnabled
         */
         public static final int TextInputLayout_hintEnabled = 3;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#hintTextAppearance}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#hintTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:hintTextAppearance
+          @attr name com.suctan.huigang:hintTextAppearance
         */
         public static final int TextInputLayout_hintTextAppearance = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#passwordToggleContentDescription}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#passwordToggleContentDescription}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15164,21 +15201,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:passwordToggleContentDescription
+          @attr name com.suctan.huigang:passwordToggleContentDescription
         */
         public static final int TextInputLayout_passwordToggleContentDescription = 13;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#passwordToggleDrawable}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#passwordToggleDrawable}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:passwordToggleDrawable
+          @attr name com.suctan.huigang:passwordToggleDrawable
         */
         public static final int TextInputLayout_passwordToggleDrawable = 12;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#passwordToggleEnabled}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#passwordToggleEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15188,11 +15225,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:passwordToggleEnabled
+          @attr name com.suctan.huigang:passwordToggleEnabled
         */
         public static final int TextInputLayout_passwordToggleEnabled = 11;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#passwordToggleTint}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#passwordToggleTint}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15203,11 +15240,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:passwordToggleTint
+          @attr name com.suctan.huigang:passwordToggleTint
         */
         public static final int TextInputLayout_passwordToggleTint = 14;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#passwordToggleTintMode}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#passwordToggleTintMode}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -15223,7 +15260,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:passwordToggleTintMode
+          @attr name com.suctan.huigang:passwordToggleTintMode
         */
         public static final int TextInputLayout_passwordToggleTintMode = 15;
         /** Attributes that can be used with a ThumbUpView.
@@ -15232,11 +15269,11 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ThumbUpView_bgColor com.suctan.huigangdemo:bgColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #ThumbUpView_cracksColor com.suctan.huigangdemo:cracksColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #ThumbUpView_edgeColor com.suctan.huigangdemo:edgeColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #ThumbUpView_fillColor com.suctan.huigangdemo:fillColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #ThumbUpView_unlikeType com.suctan.huigangdemo:unlikeType}</code></td><td></td></tr>
+           <tr><td><code>{@link #ThumbUpView_bgColor com.suctan.huigang:bgColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ThumbUpView_cracksColor com.suctan.huigang:cracksColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ThumbUpView_edgeColor com.suctan.huigang:edgeColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ThumbUpView_fillColor com.suctan.huigang:fillColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #ThumbUpView_unlikeType com.suctan.huigang:unlikeType}</code></td><td></td></tr>
            </table>
            @see #ThumbUpView_bgColor
            @see #ThumbUpView_cracksColor
@@ -15249,7 +15286,7 @@ containing a value of this type.
             0x7f0101cc
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#bgColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#bgColor}
           attribute's value can be found in the {@link #ThumbUpView} array.
 
 
@@ -15257,11 +15294,11 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.suctan.huigangdemo:bgColor
+          @attr name com.suctan.huigang:bgColor
         */
         public static final int ThumbUpView_bgColor = 3;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#cracksColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#cracksColor}
           attribute's value can be found in the {@link #ThumbUpView} array.
 
 
@@ -15269,11 +15306,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.suctan.huigangdemo:cracksColor
+          @attr name com.suctan.huigang:cracksColor
         */
         public static final int ThumbUpView_cracksColor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#edgeColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#edgeColor}
           attribute's value can be found in the {@link #ThumbUpView} array.
 
 
@@ -15281,11 +15318,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.suctan.huigangdemo:edgeColor
+          @attr name com.suctan.huigang:edgeColor
         */
         public static final int ThumbUpView_edgeColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#fillColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#fillColor}
           attribute's value can be found in the {@link #ThumbUpView} array.
 
 
@@ -15293,11 +15330,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.suctan.huigangdemo:fillColor
+          @attr name com.suctan.huigang:fillColor
         */
         public static final int ThumbUpView_fillColor = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#unlikeType}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#unlikeType}
           attribute's value can be found in the {@link #ThumbUpView} array.
 
 
@@ -15307,7 +15344,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:unlikeType
+          @attr name com.suctan.huigang:unlikeType
         */
         public static final int ThumbUpView_unlikeType = 4;
         /** Attributes that can be used with a Toolbar.
@@ -15318,33 +15355,33 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_buttonGravity com.suctan.huigangdemo:buttonGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.suctan.huigangdemo:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.suctan.huigangdemo:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.suctan.huigangdemo:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.suctan.huigangdemo:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.suctan.huigangdemo:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.suctan.huigangdemo:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.suctan.huigangdemo:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.suctan.huigangdemo:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo com.suctan.huigangdemo:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription com.suctan.huigangdemo:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.suctan.huigangdemo:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.suctan.huigangdemo:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.suctan.huigangdemo:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.suctan.huigangdemo:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.suctan.huigangdemo:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.suctan.huigangdemo:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor com.suctan.huigangdemo:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title com.suctan.huigangdemo:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargin com.suctan.huigangdemo:titleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.suctan.huigangdemo:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.suctan.huigangdemo:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.suctan.huigangdemo:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.suctan.huigangdemo:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.suctan.huigangdemo:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.suctan.huigangdemo:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor com.suctan.huigangdemo:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_buttonGravity com.suctan.huigang:buttonGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription com.suctan.huigang:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon com.suctan.huigang:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd com.suctan.huigang:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.suctan.huigang:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft com.suctan.huigang:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight com.suctan.huigang:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart com.suctan.huigang:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.suctan.huigang:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo com.suctan.huigang:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription com.suctan.huigang:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight com.suctan.huigang:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription com.suctan.huigang:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon com.suctan.huigang:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme com.suctan.huigang:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle com.suctan.huigang:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.suctan.huigang:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor com.suctan.huigang:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title com.suctan.huigang:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargin com.suctan.huigang:titleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom com.suctan.huigang:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd com.suctan.huigang:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart com.suctan.huigang:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop com.suctan.huigang:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins com.suctan.huigang:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance com.suctan.huigang:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor com.suctan.huigang:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -15399,7 +15436,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#buttonGravity}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#buttonGravity}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15412,11 +15449,11 @@ containing a value of this type.
 <tr><td><code>top</code></td><td>0x30</td><td></td></tr>
 <tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:buttonGravity
+          @attr name com.suctan.huigang:buttonGravity
         */
         public static final int Toolbar_buttonGravity = 21;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15426,21 +15463,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:collapseContentDescription
+          @attr name com.suctan.huigang:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 23;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:collapseIcon
+          @attr name com.suctan.huigang:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 22;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15452,11 +15489,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:contentInsetEnd
+          @attr name com.suctan.huigang:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15468,11 +15505,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:contentInsetEndWithActions
+          @attr name com.suctan.huigang:contentInsetEndWithActions
         */
         public static final int Toolbar_contentInsetEndWithActions = 10;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15484,11 +15521,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:contentInsetLeft
+          @attr name com.suctan.huigang:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15500,11 +15537,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:contentInsetRight
+          @attr name com.suctan.huigang:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15516,11 +15553,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:contentInsetStart
+          @attr name com.suctan.huigang:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15532,21 +15569,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:contentInsetStartWithNavigation
+          @attr name com.suctan.huigang:contentInsetStartWithNavigation
         */
         public static final int Toolbar_contentInsetStartWithNavigation = 9;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:logo
+          @attr name com.suctan.huigang:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15556,11 +15593,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:logoDescription
+          @attr name com.suctan.huigang:logoDescription
         */
         public static final int Toolbar_logoDescription = 26;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15572,11 +15609,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:maxButtonHeight
+          @attr name com.suctan.huigang:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 20;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15586,31 +15623,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:navigationContentDescription
+          @attr name com.suctan.huigang:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 25;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:navigationIcon
+          @attr name com.suctan.huigang:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 24;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:popupTheme
+          @attr name com.suctan.huigang:popupTheme
         */
         public static final int Toolbar_popupTheme = 11;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15620,21 +15657,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:subtitle
+          @attr name com.suctan.huigang:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:subtitleTextAppearance
+          @attr name com.suctan.huigang:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 13;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15645,11 +15682,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:subtitleTextColor
+          @attr name com.suctan.huigang:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 28;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#title}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15659,11 +15696,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:title
+          @attr name com.suctan.huigang:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#titleMargin}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#titleMargin}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15675,11 +15712,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:titleMargin
+          @attr name com.suctan.huigang:titleMargin
         */
         public static final int Toolbar_titleMargin = 14;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15691,11 +15728,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:titleMarginBottom
+          @attr name com.suctan.huigang:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 18;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15707,11 +15744,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:titleMarginEnd
+          @attr name com.suctan.huigang:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 16;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15723,11 +15760,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:titleMarginStart
+          @attr name com.suctan.huigang:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 15;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15739,11 +15776,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:titleMarginTop
+          @attr name com.suctan.huigang:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 17;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15755,21 +15792,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:titleMargins
+          @attr name com.suctan.huigang:titleMargins
         */
         public static final int Toolbar_titleMargins = 19;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:titleTextAppearance
+          @attr name com.suctan.huigang:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 12;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -15780,7 +15817,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:titleTextColor
+          @attr name com.suctan.huigang:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 27;
         /** Attributes that can be used with a View.
@@ -15791,9 +15828,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.suctan.huigangdemo:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.suctan.huigangdemo:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme com.suctan.huigangdemo:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd com.suctan.huigang:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart com.suctan.huigang:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme com.suctan.huigang:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -15818,7 +15855,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -15830,11 +15867,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:paddingEnd
+          @attr name com.suctan.huigang:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -15846,17 +15883,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:paddingStart
+          @attr name com.suctan.huigang:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#theme}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.suctan.huigangdemo:theme
+          @attr name com.suctan.huigang:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -15866,8 +15903,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.suctan.huigangdemo:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.suctan.huigangdemo:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.suctan.huigang:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.suctan.huigang:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -15883,7 +15920,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -15894,11 +15931,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:backgroundTint
+          @attr name com.suctan.huigang:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -15914,7 +15951,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:backgroundTintMode
+          @attr name com.suctan.huigang:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.
@@ -15958,11 +15995,11 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #pickerview_pickerview_dividerColor com.suctan.huigangdemo:pickerview_dividerColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #pickerview_pickerview_gravity com.suctan.huigangdemo:pickerview_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #pickerview_pickerview_textColorCenter com.suctan.huigangdemo:pickerview_textColorCenter}</code></td><td></td></tr>
-           <tr><td><code>{@link #pickerview_pickerview_textColorOut com.suctan.huigangdemo:pickerview_textColorOut}</code></td><td></td></tr>
-           <tr><td><code>{@link #pickerview_pickerview_textSize com.suctan.huigangdemo:pickerview_textSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #pickerview_pickerview_dividerColor com.suctan.huigang:pickerview_dividerColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #pickerview_pickerview_gravity com.suctan.huigang:pickerview_gravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #pickerview_pickerview_textColorCenter com.suctan.huigang:pickerview_textColorCenter}</code></td><td></td></tr>
+           <tr><td><code>{@link #pickerview_pickerview_textColorOut com.suctan.huigang:pickerview_textColorOut}</code></td><td></td></tr>
+           <tr><td><code>{@link #pickerview_pickerview_textSize com.suctan.huigang:pickerview_textSize}</code></td><td></td></tr>
            </table>
            @see #pickerview_pickerview_dividerColor
            @see #pickerview_pickerview_gravity
@@ -15975,7 +16012,7 @@ containing a value of this type.
             0x7f0101e7
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#pickerview_dividerColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#pickerview_dividerColor}
           attribute's value can be found in the {@link #pickerview} array.
 
 
@@ -15986,11 +16023,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:pickerview_dividerColor
+          @attr name com.suctan.huigang:pickerview_dividerColor
         */
         public static final int pickerview_pickerview_dividerColor = 4;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#pickerview_gravity}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#pickerview_gravity}
           attribute's value can be found in the {@link #pickerview} array.
 
 
@@ -16004,11 +16041,11 @@ containing a value of this type.
 <tr><td><code>left</code></td><td>3</td><td></td></tr>
 <tr><td><code>right</code></td><td>5</td><td></td></tr>
 </table>
-          @attr name com.suctan.huigangdemo:pickerview_gravity
+          @attr name com.suctan.huigang:pickerview_gravity
         */
         public static final int pickerview_pickerview_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#pickerview_textColorCenter}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#pickerview_textColorCenter}
           attribute's value can be found in the {@link #pickerview} array.
 
 
@@ -16019,11 +16056,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:pickerview_textColorCenter
+          @attr name com.suctan.huigang:pickerview_textColorCenter
         */
         public static final int pickerview_pickerview_textColorCenter = 3;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#pickerview_textColorOut}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#pickerview_textColorOut}
           attribute's value can be found in the {@link #pickerview} array.
 
 
@@ -16034,11 +16071,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:pickerview_textColorOut
+          @attr name com.suctan.huigang:pickerview_textColorOut
         */
         public static final int pickerview_pickerview_textColorOut = 2;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#pickerview_textSize}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#pickerview_textSize}
           attribute's value can be found in the {@link #pickerview} array.
 
 
@@ -16050,7 +16087,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:pickerview_textSize
+          @attr name com.suctan.huigang:pickerview_textSize
         */
         public static final int pickerview_pickerview_textSize = 1;
         /** Attributes that can be used with a progressLayout.
@@ -16059,10 +16096,10 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #progressLayout_autoProgress com.suctan.huigangdemo:autoProgress}</code></td><td></td></tr>
-           <tr><td><code>{@link #progressLayout_emptyColor com.suctan.huigangdemo:emptyColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #progressLayout_loadedColor com.suctan.huigangdemo:loadedColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #progressLayout_maxProgress com.suctan.huigangdemo:maxProgress}</code></td><td></td></tr>
+           <tr><td><code>{@link #progressLayout_autoProgress com.suctan.huigang:autoProgress}</code></td><td></td></tr>
+           <tr><td><code>{@link #progressLayout_emptyColor com.suctan.huigang:emptyColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #progressLayout_loadedColor com.suctan.huigang:loadedColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #progressLayout_maxProgress com.suctan.huigang:maxProgress}</code></td><td></td></tr>
            </table>
            @see #progressLayout_autoProgress
            @see #progressLayout_emptyColor
@@ -16073,7 +16110,7 @@ containing a value of this type.
             0x7f0101e8, 0x7f0101e9, 0x7f0101ea, 0x7f0101eb
         };
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#autoProgress}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#autoProgress}
           attribute's value can be found in the {@link #progressLayout} array.
 
 
@@ -16083,11 +16120,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:autoProgress
+          @attr name com.suctan.huigang:autoProgress
         */
         public static final int progressLayout_autoProgress = 3;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#emptyColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#emptyColor}
           attribute's value can be found in the {@link #progressLayout} array.
 
 
@@ -16098,11 +16135,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:emptyColor
+          @attr name com.suctan.huigang:emptyColor
         */
         public static final int progressLayout_emptyColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#loadedColor}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#loadedColor}
           attribute's value can be found in the {@link #progressLayout} array.
 
 
@@ -16113,11 +16150,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:loadedColor
+          @attr name com.suctan.huigang:loadedColor
         */
         public static final int progressLayout_loadedColor = 1;
         /**
-          <p>This symbol is the offset where the {@link com.suctan.huigangdemo.R.attr#maxProgress}
+          <p>This symbol is the offset where the {@link com.suctan.huigang.R.attr#maxProgress}
           attribute's value can be found in the {@link #progressLayout} array.
 
 
@@ -16127,7 +16164,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.suctan.huigangdemo:maxProgress
+          @attr name com.suctan.huigang:maxProgress
         */
         public static final int progressLayout_maxProgress = 2;
     };

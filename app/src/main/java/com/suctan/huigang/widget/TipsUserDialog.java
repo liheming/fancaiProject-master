@@ -18,7 +18,6 @@ public class TipsUserDialog extends AlertDialog implements View.OnClickListener 
     private TextView tipdialog_content;
     private Button tipdialog_comfirm;
     private Button tipdialog_cancel;
-
     public TipsUserDialog(Context context) {
         super(context);
     }

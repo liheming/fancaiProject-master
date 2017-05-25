@@ -25,14 +25,14 @@ public class release_new_todayfoodActivity$$ViewBinder<T extends release_new_tod
     protected InnerUnbinder(T target, Finder finder, Object source) {
       this.target = target;
 
-      target.new_food_idea = finder.findRequiredViewAsType(source, 2131558893, "field 'new_food_idea'", LinearLayout.class);
-      target.new_food_back = finder.findRequiredViewAsType(source, 2131558887, "field 'new_food_back'", ImageView.class);
-      target.imv_addFood = finder.findRequiredViewAsType(source, 2131558890, "field 'imv_addFood'", ImageView.class);
-      target.edt_addFood_name = finder.findRequiredViewAsType(source, 2131558888, "field 'edt_addFood_name'", EditText.class);
-      target.edt_addFood_moneny = finder.findRequiredViewAsType(source, 2131558889, "field 'edt_addFood_moneny'", EditText.class);
-      target.edt_addFood_detail = finder.findRequiredViewAsType(source, 2131558891, "field 'edt_addFood_detail'", EditText.class);
-      target.btn_addFood_comfirm = finder.findRequiredViewAsType(source, 2131558894, "field 'btn_addFood_comfirm'", Button.class);
-      target.segmentViewControlChoose = finder.findRequiredViewAsType(source, 2131558892, "field 'segmentViewControlChoose'", SegmentControl.class);
+      target.new_food_idea = finder.findRequiredViewAsType(source, 2131558906, "field 'new_food_idea'", LinearLayout.class);
+      target.new_food_back = finder.findRequiredViewAsType(source, 2131558900, "field 'new_food_back'", ImageView.class);
+      target.imv_addFood = finder.findRequiredViewAsType(source, 2131558903, "field 'imv_addFood'", ImageView.class);
+      target.edt_addFood_name = finder.findRequiredViewAsType(source, 2131558901, "field 'edt_addFood_name'", EditText.class);
+      target.edt_addFood_moneny = finder.findRequiredViewAsType(source, 2131558902, "field 'edt_addFood_moneny'", EditText.class);
+      target.edt_addFood_detail = finder.findRequiredViewAsType(source, 2131558904, "field 'edt_addFood_detail'", EditText.class);
+      target.btn_addFood_comfirm = finder.findRequiredViewAsType(source, 2131558907, "field 'btn_addFood_comfirm'", Button.class);
+      target.segmentViewControlChoose = finder.findRequiredViewAsType(source, 2131558905, "field 'segmentViewControlChoose'", SegmentControl.class);
     }
 
     @Override

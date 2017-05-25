@@ -76,7 +76,7 @@
                     android:layout_marginRight="10dp"
                     style="@style/tips_font"
                     android:id="@+id/item_boolean"
-                    android:text="暂无人接"/>
+                    android:text=" "/>
             </LinearLayout>
             <LinearLayout
                 android:layout_width="match_parent"
@@ -97,7 +97,7 @@
                     android:textColor="@color/red"
                     android:id="@+id/item_money"/>
                 <TextView
-                    android:textColor="@color/common_green"
+                    android:textColor="@color/gray_h"
                     android:layout_marginRight="10dp"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"

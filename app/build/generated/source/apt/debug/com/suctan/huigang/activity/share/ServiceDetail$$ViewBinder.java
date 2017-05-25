@@ -23,18 +23,18 @@ public class ServiceDetail$$ViewBinder<T extends ServiceDetail> implements ViewB
     protected InnerUnbinder(T target, Finder finder, Object source) {
       this.target = target;
 
-      target.loginBack = finder.findRequiredViewAsType(source, 2131558784, "field 'loginBack'", ImageView.class);
-      target.loginTitle = finder.findRequiredViewAsType(source, 2131558785, "field 'loginTitle'", TextView.class);
-      target.search = finder.findRequiredViewAsType(source, 2131558786, "field 'search'", ImageView.class);
-      target.user_name = finder.findRequiredViewAsType(source, 2131559144, "field 'user_name'", TextView.class);
-      target.user_phone = finder.findRequiredViewAsType(source, 2131559145, "field 'user_phone'", TextView.class);
-      target.user_icon = finder.findRequiredViewAsType(source, 2131559139, "field 'user_icon'", ImageView.class);
-      target.address = finder.findRequiredViewAsType(source, 2131559146, "field 'address'", TextView.class);
-      target.content = finder.findRequiredViewAsType(source, 2131559142, "field 'content'", TextView.class);
-      target.price = finder.findRequiredViewAsType(source, 2131559143, "field 'price'", TextView.class);
-      target.pub_time = finder.findRequiredViewAsType(source, 2131559141, "field 'pub_time'", TextView.class);
-      target.pub_user = finder.findRequiredViewAsType(source, 2131559140, "field 'pub_user'", TextView.class);
-      target.help = finder.findRequiredViewAsType(source, 2131559147, "field 'help'", Button.class);
+      target.loginBack = finder.findRequiredViewAsType(source, 2131558798, "field 'loginBack'", ImageView.class);
+      target.loginTitle = finder.findRequiredViewAsType(source, 2131558799, "field 'loginTitle'", TextView.class);
+      target.search = finder.findRequiredViewAsType(source, 2131558800, "field 'search'", ImageView.class);
+      target.user_name = finder.findRequiredViewAsType(source, 2131559152, "field 'user_name'", TextView.class);
+      target.user_phone = finder.findRequiredViewAsType(source, 2131559153, "field 'user_phone'", TextView.class);
+      target.user_icon = finder.findRequiredViewAsType(source, 2131559147, "field 'user_icon'", ImageView.class);
+      target.address = finder.findRequiredViewAsType(source, 2131559154, "field 'address'", TextView.class);
+      target.content = finder.findRequiredViewAsType(source, 2131559150, "field 'content'", TextView.class);
+      target.price = finder.findRequiredViewAsType(source, 2131559151, "field 'price'", TextView.class);
+      target.pub_time = finder.findRequiredViewAsType(source, 2131559149, "field 'pub_time'", TextView.class);
+      target.pub_user = finder.findRequiredViewAsType(source, 2131559148, "field 'pub_user'", TextView.class);
+      target.help = finder.findRequiredViewAsType(source, 2131559155, "field 'help'", Button.class);
     }
 
     @Override

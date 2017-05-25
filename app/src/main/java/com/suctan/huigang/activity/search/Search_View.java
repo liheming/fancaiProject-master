@@ -5,6 +5,7 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.support.annotation.Nullable;
 import android.text.Editable;
+import android.text.TextUtils;
 import android.text.TextWatcher;
 import android.util.AttributeSet;
 import android.util.Log;
@@ -21,9 +22,11 @@ import android.widget.SimpleCursorAdapter;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.androidbase.utils.ToastTool;
 import com.suctan.huigang.R;
 import com.suctan.huigang.acache.TokenManager;
 import com.suctan.huigang.activity.SQLiteHelper.SQLiteOpenHelper;
+import com.suctan.huigang.util.Utils;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -153,13 +156,17 @@ public class Search_View extends LinearLayout{
                     queryData("");
                 }
                 // FIXME: 2017/5/4 根据输入的内容模糊查询商品，并跳转到另一个界面，这个根据需求实现
-                   Map<String , Object>   map  =  new HashMap<>();
-                map.put("user_token", TokenManager.getToken());
-                String key = et_search.getText().toString().trim();
-                Log.i(TAG, "onClick: "+key);
-                map.put("key",key);
-                search.onSearch(map);
+                if (TextUtils.isEmpty(et_search.getText().toString().trim())) {
+                    ToastTool.showToast("你还没有输入搜索关键字呢",2);
+                } else {
+                    Map<String , Object>   map  =  new HashMap<>();
+                    map.put("user_token", TokenManager.getToken());
+                    String key = et_search.getText().toString().trim();
+                    Log.i(TAG, "onClick: "+key);
+                    map.put("key",key);
+                    search.onSearch(map);
 //                v.getContext().startActivity(new Intent(v.getContext(),Search_Result.class));
+                }
             }
         });
 

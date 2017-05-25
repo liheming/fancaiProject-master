@@ -56,7 +56,7 @@
     <application
         android:name=".acache.HuiGangApplication"
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/logo"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
@@ -68,15 +68,30 @@
         <service android:name="com.amap.api.location.APSService" >
         </service>
         <!-- " -->
+
+
         <activity
-            android:name=".activity.login.LoginActivity"
+            android:name=".activity.WelcomeActivity"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:label="享我"
             android:configChanges="screenSize|keyboardHidden|screenLayout"
             android:windowSoftInputMode="adjustResize|stateHidden">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity android:name=".activity.GuideActivity"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden">
+
+        </activity>
+
+        <activity
+            android:name=".activity.login.LoginActivity"
+            android:configChanges="screenSize|keyboardHidden|screenLayout"
+            android:windowSoftInputMode="adjustResize|stateHidden">
+
         </activity>
         <activity
             android:name=".activity.MainActivity"

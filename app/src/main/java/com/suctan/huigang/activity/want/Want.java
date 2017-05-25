@@ -3,6 +3,7 @@ package com.suctan.huigang.activity.want;
 import android.content.Intent;
 import android.os.Bundle;
 import android.text.TextUtils;
+import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.Button;
@@ -24,6 +25,7 @@ import com.suctan.huigang.R;
 import com.suctan.huigang.acache.CurrentUser;
 import com.suctan.huigang.acache.TokenManager;
 import com.suctan.huigang.activity.address.addressActivity;
+import com.suctan.huigang.activity.order.BuyActivity;
 import com.suctan.huigang.adapter.wanteat.AddFoodItemAdapter;
 import com.suctan.huigang.adapter.wanteat.AddFoodSpinneItemAdapter;
 import com.suctan.huigang.bean.index.EatFoodBean;
@@ -175,7 +177,8 @@ public class Want extends MvpActivity<WantEatPresenter> implements View.OnClickL
             Toast.makeText(BaseApplication.getContext(), "请选择期望时间！", Toast.LENGTH_LONG).show();
             return;
         }
-        if (CurrentUser.getInstance().getUserBean().getUser_address() != null) {
+        if (TextUtils.isEmpty(CurrentUser.getInstance().getUserBean().getUser_address())) {
+            showCatLoadingDialog(false);
             final TipsAddAddressDialog tipsAddAddressDialog = new TipsAddAddressDialog(this);
             tipsAddAddressDialog.setTipClickLisener(new TipsAddAddressDialog.OnTipLisetner() {
                 @Override
@@ -191,8 +194,10 @@ public class Want extends MvpActivity<WantEatPresenter> implements View.OnClickL
                 }
             });
             tipsAddAddressDialog.show();
+            Log.i("mainactivity", "VeriatyOrther:我没有地址 ");
+            return;
         }
-
+        Log.i("hello ", "VeriatyOrther: 我有地址");
 
 //转换相应时间
         int intRp = (int) reponseTime;
@@ -226,7 +231,6 @@ public class Want extends MvpActivity<WantEatPresenter> implements View.OnClickL
         map.put("order_expect_time", wantEatFoodBean.getFoodHopeTime());
         map.put("order_note", wantEatFoodBean.getFoodDetail());
         map.put("eatStrArr", getFoodSortList(wantEatFoodItemsList));
-
         mvpPresenter.PostWantEat(map);
     }
 
@@ -396,9 +400,11 @@ public class Want extends MvpActivity<WantEatPresenter> implements View.OnClickL
 
     }
 
+
     @Override
     public void postWantEatSuc() {
         ToastTool.showToast("发布成功,请留意察看!", 1);
+        startActivity(new Intent(this, BuyActivity.class));
         finish();
         showCatLoadingDialog(false);
     }

@@ -21,7 +21,7 @@ public class ThirdFragment$$ViewBinder<T extends ThirdFragment> implements ViewB
     protected InnerUnbinder(T target, Finder finder, Object source) {
       this.target = target;
 
-      target.My_evaluation_thridFrament_gridview = finder.findRequiredViewAsType(source, 2131559176, "field 'My_evaluation_thridFrament_gridview'", GridView.class);
+      target.My_evaluation_thridFrament_gridview = finder.findRequiredViewAsType(source, 2131559187, "field 'My_evaluation_thridFrament_gridview'", GridView.class);
     }
 
     @Override

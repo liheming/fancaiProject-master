@@ -10,7 +10,7 @@ android {
          * 设置你的keystore相关
          * demo中只是一个示例，使用时请根据实际情况进行配置
          */
-        release {
+        debug {
             //keystore中key的别名
             keyAlias 'share'
             //keystore中key的密码

@@ -21,14 +21,14 @@ public class FragmentChanel$$ViewBinder<T extends FragmentChanel> implements Vie
     protected InnerUnbinder(T target, Finder finder, Object source) {
       this.target = target;
 
-      target.share_jz = finder.findRequiredViewAsType(source, 2131558728, "field 'share_jz'", BGABadgeRadioButton.class);
-      target.share_dg = finder.findRequiredViewAsType(source, 2131558729, "field 'share_dg'", BGABadgeRadioButton.class);
-      target.share_sfc = finder.findRequiredViewAsType(source, 2131558730, "field 'share_sfc'", BGABadgeRadioButton.class);
-      target.share_dskd = finder.findRequiredViewAsType(source, 2131558731, "field 'share_dskd'", BGABadgeRadioButton.class);
-      target.share_jsxh = finder.findRequiredViewAsType(source, 2131558733, "field 'share_jsxh'", BGABadgeRadioButton.class);
-      target.share_phlr = finder.findRequiredViewAsType(source, 2131558734, "field 'share_phlr'", BGABadgeRadioButton.class);
-      target.share_esjy = finder.findRequiredViewAsType(source, 2131558735, "field 'share_esjy'", BGABadgeRadioButton.class);
-      target.share_jqqd = finder.findRequiredViewAsType(source, 2131558736, "field 'share_jqqd'", BGABadgeRadioButton.class);
+      target.share_jz = finder.findRequiredViewAsType(source, 2131558733, "field 'share_jz'", BGABadgeRadioButton.class);
+      target.share_dg = finder.findRequiredViewAsType(source, 2131558734, "field 'share_dg'", BGABadgeRadioButton.class);
+      target.share_sfc = finder.findRequiredViewAsType(source, 2131558735, "field 'share_sfc'", BGABadgeRadioButton.class);
+      target.share_dskd = finder.findRequiredViewAsType(source, 2131558736, "field 'share_dskd'", BGABadgeRadioButton.class);
+      target.share_jsxh = finder.findRequiredViewAsType(source, 2131558738, "field 'share_jsxh'", BGABadgeRadioButton.class);
+      target.share_phlr = finder.findRequiredViewAsType(source, 2131558739, "field 'share_phlr'", BGABadgeRadioButton.class);
+      target.share_esjy = finder.findRequiredViewAsType(source, 2131558740, "field 'share_esjy'", BGABadgeRadioButton.class);
+      target.share_jqqd = finder.findRequiredViewAsType(source, 2131558741, "field 'share_jqqd'", BGABadgeRadioButton.class);
     }
 
     @Override

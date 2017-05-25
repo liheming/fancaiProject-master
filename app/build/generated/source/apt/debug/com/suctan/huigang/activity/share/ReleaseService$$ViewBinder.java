@@ -23,17 +23,17 @@ public class ReleaseService$$ViewBinder<T extends ReleaseService> implements Vie
     protected InnerUnbinder(T target, Finder finder, Object source) {
       this.target = target;
 
-      target.loginBack = finder.findRequiredViewAsType(source, 2131558784, "field 'loginBack'", ImageView.class);
-      target.loginTitle = finder.findRequiredViewAsType(source, 2131558785, "field 'loginTitle'", TextView.class);
-      target.search = finder.findRequiredViewAsType(source, 2131558786, "field 'search'", ImageView.class);
-      target.addTime = finder.findRequiredViewAsType(source, 2131559155, "field 'addTime'", Button.class);
-      target.minusTime = finder.findRequiredViewAsType(source, 2131559153, "field 'minusTime'", Button.class);
-      target.service_time = finder.findRequiredViewAsType(source, 2131559154, "field 'service_time'", TextView.class);
-      target.service_money = finder.findRequiredViewAsType(source, 2131559143, "field 'service_money'", TextView.class);
-      target.service_title = finder.findRequiredViewAsType(source, 2131558661, "field 'service_title'", TextView.class);
-      target.service_content = finder.findRequiredViewAsType(source, 2131559152, "field 'service_content'", TextView.class);
-      target.eat_select_time = finder.findRequiredViewAsType(source, 2131559156, "field 'eat_select_time'", Button.class);
-      target.service_fb = finder.findRequiredViewAsType(source, 2131559157, "field 'service_fb'", Button.class);
+      target.loginBack = finder.findRequiredViewAsType(source, 2131558798, "field 'loginBack'", ImageView.class);
+      target.loginTitle = finder.findRequiredViewAsType(source, 2131558799, "field 'loginTitle'", TextView.class);
+      target.search = finder.findRequiredViewAsType(source, 2131558800, "field 'search'", ImageView.class);
+      target.addTime = finder.findRequiredViewAsType(source, 2131559163, "field 'addTime'", Button.class);
+      target.minusTime = finder.findRequiredViewAsType(source, 2131559161, "field 'minusTime'", Button.class);
+      target.service_time = finder.findRequiredViewAsType(source, 2131559162, "field 'service_time'", TextView.class);
+      target.service_money = finder.findRequiredViewAsType(source, 2131559151, "field 'service_money'", TextView.class);
+      target.service_title = finder.findRequiredViewAsType(source, 2131558666, "field 'service_title'", TextView.class);
+      target.service_content = finder.findRequiredViewAsType(source, 2131559160, "field 'service_content'", TextView.class);
+      target.eat_select_time = finder.findRequiredViewAsType(source, 2131559164, "field 'eat_select_time'", Button.class);
+      target.service_fb = finder.findRequiredViewAsType(source, 2131559165, "field 'service_fb'", Button.class);
     }
 
     @Override

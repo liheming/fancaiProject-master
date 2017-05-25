@@ -2,6 +2,7 @@ package com.suctan.huigang.activity.do_want;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
@@ -19,6 +20,7 @@ import com.suctan.huigang.bean.dowant.DoWantOrderBean;
 import com.suctan.huigang.bean.wanteat.WantEatFoodItem;
 import com.suctan.huigang.mvp.login.dowant.DoWantSubmitPresenter;
 import com.suctan.huigang.mvp.login.dowant.DoWantSubmitView;
+import com.suctan.huigang.widget.TipsAcceptOrderDialog;
 import com.suctan.huigang.widget.TipsCancelOrderDialog;
 
 import java.util.ArrayList;
@@ -29,6 +31,7 @@ import java.util.Map;
  * Created by 黄淑翰 on 2017/4/23.
  */
 public class DoWantOrderDetatil extends MvpActivity<DoWantSubmitPresenter> implements DoWantSubmitView, View.OnClickListener {
+    public static final String TAG = "DoWantOrderDetatil";
     private Button btnSubmitOrder;
     private ImageView dowant_ordertail_back;
     private TextView tv_dodeatil_title;//标题
@@ -163,8 +166,8 @@ public class DoWantOrderDetatil extends MvpActivity<DoWantSubmitPresenter> imple
     }
 
     private void showSubmitlTip() {
-        final TipsCancelOrderDialog cancelDialog = new TipsCancelOrderDialog(this);
-        cancelDialog.setTipClickLisener(new TipsCancelOrderDialog.OnTipLisetner() {
+        final TipsAcceptOrderDialog cancelDialog = new TipsAcceptOrderDialog(this);
+        cancelDialog.setTipClickLisener(new TipsAcceptOrderDialog.OnTipLisetner() {
             @Override
             public void comfirm() {
                 cancelDialog.dismiss();
@@ -206,26 +209,29 @@ public class DoWantOrderDetatil extends MvpActivity<DoWantSubmitPresenter> imple
      * //成功后跳转到我卖出的页面
      * */
     private void showGoMyBuyTip() {
-        final TipsCancelOrderDialog cancelDialog = new TipsCancelOrderDialog(this);
-        cancelDialog.setTipClickLisener(new TipsCancelOrderDialog.OnTipLisetner() {
-            @Override
-            public void comfirm() {
-                cancelDialog.dismiss();
-                startActivity(new Intent(DoWantOrderDetatil.this , SellActivity.class));
-            }
+        startActivity(new Intent(DoWantOrderDetatil.this , SellActivity.class));
 
-            @Override
-            public void cancel() {
-                cancelDialog.dismiss();
-            }
-        });
-        cancelDialog.show();
+//        final TipsCancelOrderDialog cancelDialog = new TipsCancelOrderDialog(this);
+//        cancelDialog.setTipClickLisener(new TipsCancelOrderDialog.OnTipLisetner() {
+//            @Override
+//            public void comfirm() {
+
+//                cancelDialog.dismiss();
+//                startActivity(new Intent(DoWantOrderDetatil.this , SellActivity.class));
+//            }
+//
+//            @Override
+//            public void cancel() {
+//                cancelDialog.dismiss();
+//            }
+//        });-
+//        cancelDialog.show();
     }
 
     @Override
     public void submitOrderReturn(String msg, int status) {
         showGoMyBuyTip();
-
+        Log.i(TAG, "submitOrderReturn: status: "+status+"msg："+msg);
         ToastTool.showToast(msg,status);//提交订单的回调
     }
 }

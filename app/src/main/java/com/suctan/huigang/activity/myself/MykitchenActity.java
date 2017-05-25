@@ -199,7 +199,7 @@ public class MykitchenActity extends MvpActivity<MyChikenPresenter> implements V
                 });
         mDialog = builder.create();
         mDialog.show();
-
+    }
 //        final TipsCancelOrderDialog cancelDialog = new TipsCancelOrderDialog(this);
 //        cancelDialog.setTipClickLisener(new TipsCancelOrderDialog.OnTipLisetner() {
 //            @Override
@@ -214,7 +214,7 @@ public class MykitchenActity extends MvpActivity<MyChikenPresenter> implements V
 //            }
 //        });
 //        cancelDialog.show();
-    }
+
 
 
     //请求删除菜色

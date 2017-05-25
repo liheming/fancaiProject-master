@@ -7,7 +7,9 @@ import com.suctan.huigang.bean.topic.AddCommentBean;
 import com.suctan.huigang.bean.user.ComomBeanReturn;
 import com.suctan.huigang.bean.user.LoginReturn;
 import com.suctan.huigang.bean.user.ModifyReturn;
+
 import java.util.Map;
+
 import retrofit2.http.POST;
 import retrofit2.http.QueryMap;
 import rx.Observable;
@@ -19,10 +21,12 @@ import rx.Observable;
 public interface ApiStores {
     //    String ServerUrl = "http://112.74.195.131:8666/api/";
 //String ServerUrl = "http://10.0.2.2/tp/index.php/home/index/login_test/username/合明/password/94682431/";
-//    String ServerUrl = "http://10.5.12.125/tp/index.php/home/index/";
-    String ServerUrl = "http://119.29.137.109/tp/index.php/home/index/";
-//    String ServerUrl = "http://10.130.236.194/tp/index.php/home/index/";
-//        String ServerUrl = "http://119.29.137.109/hello/";
+//  String ServerUrl = "http://10.5.12.125/tp/index.php/home/index/";
+  String ServerUrl = "http://192.168.43.105/tp/index.php/home/index/";
+//    String ServerUrl = "http://119.29.137.109/tp/index.php/home/index/";
+//  String ServerUrl = "http://10.130.236.194/tp/index.php/home/index/";
+//  String ServerUrl = "http://127.0.0.1/tp/index.php/home/index/";
+//  String ServerUrl = "http://119.29.137.109/hello/";
 /**********************************************************************************************************************/
     /**
      * 用户登录请求
@@ -60,9 +64,9 @@ public interface ApiStores {
     @POST("get_userLocation")
     Observable<ModifyReturn> get_userLocation(@QueryMap Map<String, Object> userReturn);
     /**
-//    /**
-//     * 发布我要吃的饭菜
-//     */
+     //    /**
+     //     * 发布我要吃的饭菜
+     //     */
 //    @POST("pub_eatFood")
 //    Observable<ModifyReturn> PubEatFood(@QueryMap Map<String, Object> needReturn);
 
@@ -104,13 +108,14 @@ public interface ApiStores {
     Observable<String> getTopicCommentListReturn(@QueryMap Map<String, Object> topiccoment);
 
     /**
-    * 删除帖子
-    **/
+     * 删除帖子
+     **/
     @POST("delete_topic")
     Observable<ModifyReturn> getdeletetopic(@QueryMap Map<String, Object> topiccoment);
+
     /**
-    * delete_topic_comment 删除一条记录
-    * */
+     * delete_topic_comment 删除一条记录
+     */
     @POST("delete_topic_comment")
     Observable<ModifyReturn> delete_topic_comment(@QueryMap Map<String, Object> delete_topic_comment);
 
@@ -128,42 +133,37 @@ public interface ApiStores {
     Observable<String> getEatFoodList(@QueryMap Map<String, Object> EatListReturn);
 
 
-
-       /**
+    /**
      * 首页的搜索功能
      */
     @POST("search_MakeFood")
     Observable<String> search_MakeFood(@QueryMap Map<String, Object> search_MakeFood);
 
 
-
-
-
-
     /**
      * 8.7.3 上架今日菜色
      */
     @POST("put_today_makeFood")
-    Observable<ModifyReturn>put_today_makeFood(@QueryMap Map<String, Object> put_today_makeFood);
+    Observable<ModifyReturn> put_today_makeFood(@QueryMap Map<String, Object> put_today_makeFood);
 
 
     /**
      * 8.7.4 查看今日上架的菜色
      */
     @POST("look_today_makeFood")
-    Observable<String>look_today_makeFood(@QueryMap Map<String, Object> look_today_makeFood);
+    Observable<String> look_today_makeFood(@QueryMap Map<String, Object> look_today_makeFood);
 
     /**
      * 8.7.5下架今日上架的菜色
      */
     @POST("down_today_makeFood")
-    Observable<ModifyReturn>down_today_makeFood(@QueryMap Map<String, Object> down_today_makeFood);
+    Observable<ModifyReturn> down_today_makeFood(@QueryMap Map<String, Object> down_today_makeFood);
 
     /**
      * 8.7.6  删除我的菜色
      */
     @POST("delete_makeFood")
-    Observable<ModifyReturn>delete_makeFood(@QueryMap Map<String, Object> delete_makeFood);
+    Observable<ModifyReturn> delete_makeFood(@QueryMap Map<String, Object> delete_makeFood);
 
 
     /**
@@ -189,14 +189,15 @@ public interface ApiStores {
      * 我的厨房所有菜品
      */
     @POST("get_my_makeFoodList")
-    Observable<String>getMakeOrderListReturn(@QueryMap Map<String, Object> mykitchenBeenlist);
+    Observable<String> getMakeOrderListReturn(@QueryMap Map<String, Object> mykitchenBeenlist);
 
 
     /**
      * 我的厨房未上架的菜品
      */
     @POST("look_unLoad_makeFood")
-    Observable<String>look_unLoad_makeFood(@QueryMap Map<String, Object> look_unLoad_makeFood);
+    Observable<String> look_unLoad_makeFood(@QueryMap Map<String, Object> look_unLoad_makeFood);
+
     /**
      * 地址管理,里面的添加地址管理功能,目前这个功能待定
      */
@@ -220,19 +221,19 @@ public interface ApiStores {
 
     /**
      * 发布我想要吃
-     * */
+     */
     @POST("pub_eatFood")
     Observable<ComomBeanReturn> PostWantEatReturn(@QueryMap Map<String, Object> wanteatReturn);
 
     /**
      * 获得我要做列表
-     * */
+     */
     @POST("get_eatFoodList")
     Observable<String> getDoWantListReturn(@QueryMap Map<String, Object> doeatReturn);
 
     /**
      * 厨师接单
-     * */
+     */
     @POST("take_order")
     Observable<ModifyReturn> submitOrder(@QueryMap Map<String, Object> take_order);
 
@@ -273,8 +274,6 @@ public interface ApiStores {
     Observable<String> getNeedList(@QueryMap Map<String, Object> needReturn);
 
 
-
-
     /**********************************************************************************************/
                                                    /*订单*/
 
@@ -305,7 +304,6 @@ public interface ApiStores {
     //查看订单的评论
     @POST("cusLookCommentEatOrder")
     Observable<BuyPCommendReturn> BuyCheckOrderCommentReturn(@QueryMap Map<String, Object> comfrimOrderReturn);
-
 
 
     //添加订单的评论

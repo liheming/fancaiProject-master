@@ -16,7 +16,7 @@
         <!--背景图-->
         <FrameLayout
             android:layout_width="wrap_content"
-            android:layout_height="180dp"
+            android:layout_height="120dp"
             android:background="@mipmap/bj">
 
             <!--头像位置摆放-->
@@ -77,7 +77,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="45dp"
-                android:gravity="right"
+                android:layout_gravity="right"
                 android:orientation="horizontal">
 
 
@@ -92,116 +92,6 @@
             </LinearLayout>
 
 
-            <LinearLayout
-                android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
-                android:layout_gravity="bottom"
-                android:background="@mipmap/my_wait_transparent_bar"
-                android:paddingBottom="2dp"
-                android:paddingTop="3dp">
-
-
-                <LinearLayout
-                    android:id="@+id/waiting_orders"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:gravity="center_horizontal"
-                    android:orientation="vertical">
-
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        android:src="@mipmap/my_wait_list_32" />
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        android:text="待接单"
-                        android:textColor="@color/white" />
-
-                </LinearLayout>
-
-                <LinearLayout
-                    android:id="@+id/wait_food"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:gravity="center_horizontal"
-                    android:orientation="vertical">
-
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        android:src="@mipmap/my_wait_room_32" />
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        android:text="待送餐"
-                        android:textColor="@color/white"
-
-                        />
-
-                </LinearLayout>
-
-                <LinearLayout
-                    android:id="@+id/wait_real"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:gravity="center_horizontal"
-                    android:orientation="vertical">
-
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        android:src="@mipmap/my_wait_confirm_32" />
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        android:text="待确认"
-                        android:textColor="@color/white"
-
-                        />
-
-                </LinearLayout>
-
-                <LinearLayout
-                    android:id="@+id/wait_assess"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:gravity="center_horizontal"
-                    android:orientation="vertical">
-
-                    <ImageView
-                        android:id="@+id/imageView"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        android:src="@mipmap/my_wait_assess_32" />
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        android:text="待评价"
-                        android:textColor="@color/white"
-
-                        />
-
-                </LinearLayout>
-
-
-            </LinearLayout>
 
 
         </FrameLayout>
@@ -312,7 +202,7 @@
 
             <TextView
                 style="@style/usertext"
-                android:text="我的优惠券" />
+                android:text="   我的优惠券" />
 
             <ImageView style="@style/img_arrow" />
         </LinearLayout>

@@ -12,8 +12,7 @@ import retrofit.client.OkClient;
 public class ServiceGenerator {
 
 
-    public static final String API_BASE_URL = "http://10.5.12.125";
-
+    public static final String API_BASE_URL = "http://192.168.43.105";
 
     private static RestAdapter.Builder builder = new RestAdapter.Builder()
             .setLogLevel(RestAdapter.LogLevel.FULL)

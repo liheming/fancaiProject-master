@@ -87,6 +87,7 @@ public class RecommendindexAdapter extends BaseAdapter {
         holder.btn_book_eatfood.setMaxCount(mFoodBean.getNum());
         holder.btn_book_eatfood.setHintText("加入购物车");
         holder.btn_book_eatfood.setOnAddDelListener(new IOnAddDelListener() {
+
             @Override
             public void onAddSuccess(int count) {
                 Toast.makeText(BaseApplication.getContext(), "获得当前前添加的购物车数量"+count, Toast.LENGTH_LONG).show();
@@ -96,6 +97,10 @@ public class RecommendindexAdapter extends BaseAdapter {
 
             @Override
             public void onAddFailed(int count, FailType failType) {
+
+
+
+
 
             }
 
@@ -122,6 +127,7 @@ public class RecommendindexAdapter extends BaseAdapter {
         TextView recommend_today_ItemMoney;
         AnimShopButton btn_book_eatfood;
     }
+
 
     Recommend RecommendListener;
 

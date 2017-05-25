@@ -23,6 +23,7 @@ public interface FileUploadService {
             @Part("order_pic") TypedFile file,
             @Part("user_token") String token,
             @Part("order_title") String order_title,
+            @Part("food_description") String food_description,
             @Part("order_price") double order_price,
             @Part("order_type") int order_type,
             @Part("makeFood_res") String makeFood_res,

@@ -1,4 +1,4 @@
-#Thu May 11 11:13:57 CST 2017
+#Tue May 16 15:00:56 CST 2017
 file.63=H\:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_bd97b9af05feda2ce7434d1507bf5ffe4176b149\\classes.dex
 file.62=H\:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_dafb20de1173f312e8ce1a25361ecc5995d7a1c1\\classes.dex
 file.61=H\:\\Users\\haily\\Desktop\\fancaiProject-master\\fancaiProject-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ae2fd2769316b6b2d36017db8b509958a3b42fe0\\classes.dex

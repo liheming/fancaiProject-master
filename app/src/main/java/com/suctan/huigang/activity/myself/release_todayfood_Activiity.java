@@ -1,5 +1,6 @@
 package com.suctan.huigang.activity.myself;
 
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -16,6 +17,7 @@ import com.suctan.huigang.bean.user.MykitchenBean;
 import com.suctan.huigang.mvp.login.myChiken.UploadFoodPresenter;
 import com.suctan.huigang.mvp.login.myChiken.UploadFoodView;
 import com.suctan.huigang.widget.TipsCancelOrderDialog;
+import com.suctan.huigang.widget.dialog.AlertDialog;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -85,22 +87,51 @@ public class release_todayfood_Activiity extends MvpActivity<UploadFoodPresenter
         mvpPresenter.LoadMakeFood(map);
     }
 
-    private void showUploadTip() {
-        final TipsCancelOrderDialog cancelDialog = new TipsCancelOrderDialog(this);
-        cancelDialog.setTipClickLisener(new TipsCancelOrderDialog.OnTipLisetner() {
-            @Override
-            public void comfirm() {
-                cancelDialog.dismiss();
-                requestUploadFood();
-            }
 
-            @Override
-            public void cancel() {
-                cancelDialog.dismiss();
-            }
-        });
-        cancelDialog.show();
+
+
+    private AlertDialog mDialog;
+    private void showUploadTip() {
+
+        AlertDialog.Builder builder = new AlertDialog.Builder(this);
+        builder.setTitle("提示")
+                .setMessage("确定要上架这些菜色嘛！")
+                .setTopImage(R.drawable.icon_tanchuang_wenhao)
+                .setNegativeButton("取消", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+                        mDialog.dismiss();
+                    }
+                })
+                .setPositiveButton("确定", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+                        mDialog.dismiss();
+                        requestUploadFood();
+                    }
+                });
+        mDialog = builder.create();
+        mDialog.show();
     }
+
+
+
+//    private void showUploadTip() {
+//        final TipsCancelOrderDialog cancelDialog = new TipsCancelOrderDialog(this);
+//        cancelDialog.setTipClickLisener(new TipsCancelOrderDialog.OnTipLisetner() {
+//            @Override
+//            public void comfirm() {
+//                cancelDialog.dismiss();
+//                requestUploadFood();
+//            }
+//
+//            @Override
+//            public void cancel() {
+//                cancelDialog.dismiss();
+//            }
+//        });
+//        cancelDialog.show();
+//    }
 
 
     @Override

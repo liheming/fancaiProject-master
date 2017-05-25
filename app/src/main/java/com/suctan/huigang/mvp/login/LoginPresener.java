@@ -43,7 +43,7 @@ public class LoginPresener extends DemoBasePresenter<LoginView> {
                     public void onSuccess(ModifyReturn model) {
                         mvpView.LocationReturn(model.getMsg(),model.getStatus());
                         Log.i(TAG, "onSuccess: "+model.getMsg()+model.getStatus());
-                        ToastTool.showToast(model.getMsg(),model.getStatus());
+//                        ToastTool.showToast(model.getMsg(),model.getStatus());
 
                     }
 

@@ -78,14 +78,16 @@ public class LoginActivity extends MvpActivity<LoginPresener> implements LoginVi
         }
         }
 
-        if (!TextUtils.isEmpty(TokenManager.getToken()) && CurrentUser.getInstance().getUserBean().getLatitude()!=0 && CurrentUser.getInstance().getUserBean().getLongitude()!=0) {
-            goActivity();
-            String token = TokenManager.getToken();
-            ToastTool.showToast(token,2);
-            Log.i(TAG, "onCreate: 用户信息是： "+ CurrentUser.getInstance().getUserBean());
-            return;
-        }
-        Bmob.initialize(this, "1fe47f6bb8ec6a3eb640c3617952b5a6");
+      if (CurrentUser.getInstance().getUserBean()!=null){
+          if (!TextUtils.isEmpty(TokenManager.getToken()) && CurrentUser.getInstance().getUserBean().getLatitude()!=0 && CurrentUser.getInstance().getUserBean().getLongitude()!=0) {
+              goActivity();
+              String token = TokenManager.getToken();
+              ToastTool.showToast(token,2);
+              Log.i(TAG, "onCreate: 用户信息是： "+ CurrentUser.getInstance().getUserBean());
+              return;
+          }
+      }
+
         setContentView(R.layout.activity_login);
         StatusBarUtil.setColor(this, getResources().getColor(R.color.colorPrimary), 0);
 
@@ -282,7 +284,7 @@ public class LoginActivity extends MvpActivity<LoginPresener> implements LoginVi
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
         Log.i(TAG, "onActivityResult: 返回");
-        if (requestCode == 1) {
+        if (requestCode == 1 && resultCode==2) {
             double latitude = data.getDoubleExtra("latitude", 0);
             double longitude = data.getDoubleExtra("longitude", 0);
             String area = data.getStringExtra("area");

@@ -54,15 +54,15 @@ public class FragmentMySelft extends MvpFragment<MySelftPresenter> implements Vi
             LinearLayout my_discount;
     @BindView(R.id.Mykitchen)       //绑定我的中  我的厨房
             LinearLayout mykitchen;
-    @BindView(R.id.waiting_orders)     //绑定我的中 待接单选项页面
-            LinearLayout wait_orders;
-    @BindView(R.id.wait_food)      //绑定我的中 待送餐选项页面
-            LinearLayout wait_food;
-    @BindView(R.id.wait_assess)       //绑定我的中 待评价选项页面
-            LinearLayout wait_assess;
-    @BindView(R.id.wait_real)      //绑定我的中 待确认选项页面
-            LinearLayout wait_real;
-    @BindView(R.id.my_assess_me)      //绑定我的中 我的评价页面
+//    @BindView(R.id.waiting_orders)     //绑定我的中 待接单选项页面
+//            LinearLayout wait_orders;
+//    @BindView(R.id.wait_food)      //绑定我的中 待送餐选项页面
+//            LinearLayout wait_food;
+//    @BindView(R.id.wait_assess)       //绑定我的中 待评价选项页面
+//            LinearLayout wait_assess;
+//    @BindView(R.id.wait_real)      //绑定我的中 待确认选项页面
+//            LinearLayout wait_real;
+    @BindView(R.id.my_assess_me)      //绑定我的中 我的购物车页面
             LinearLayout my_assess_me;
     private TextView tv_user_name;//用户名
     private CircleImageView imv_head;//头像
@@ -168,45 +168,45 @@ public class FragmentMySelft extends MvpFragment<MySelftPresenter> implements Vi
             }
         });
 
-        //设置我中，横向栏的 待接单事件
-        wait_orders.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent wait_orders = new Intent(getActivity(), WaitOrdersActivity.class);
-                startActivity(wait_orders);
-            }
-        });
-
-        //我的页面中的  待送餐
-        wait_food.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent wait_food = new Intent(getActivity(), WaitfoodActitity.class);
-                startActivity(wait_food);
-            }
-        });
-
-        //我的页面中的  待评价
-        wait_assess.setOnClickListener(new View.OnClickListener() {
-
-            @Override
-            public void onClick(View v) {
-                Intent wait_assess = new Intent(getActivity(), WaitassessActivity.class);
-                startActivity(wait_assess);
-            }
-        });
-
-        //我的页面中的 待确认
-        wait_real.setOnClickListener(new View.OnClickListener() {
-
-            @Override
-            public void onClick(View v) {
-                Intent wait_real = new Intent(getActivity(), WaitrealActivity.class);
-                startActivity(wait_real);
-            }
-        });
-
-        //我的页面中的 我的评价页面跳转
+//        //设置我中，横向栏的 待接单事件
+//        wait_orders.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View v) {
+//                Intent wait_orders = new Intent(getActivity(), WaitOrdersActivity.class);
+//                startActivity(wait_orders);
+//            }
+//        });
+//
+//        //我的页面中的  待送餐
+//        wait_food.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View v) {
+//                Intent wait_food = new Intent(getActivity(), WaitfoodActitity.class);
+//                startActivity(wait_food);
+//            }
+//        });
+//
+//        //我的页面中的  待评价
+//        wait_assess.setOnClickListener(new View.OnClickListener() {
+//
+//            @Override
+//            public void onClick(View v) {
+//                Intent wait_assess = new Intent(getActivity(), WaitassessActivity.class);
+//                startActivity(wait_assess);
+//            }
+//        });
+//
+//        //我的页面中的 待确认
+//        wait_real.setOnClickListener(new View.OnClickListener() {
+//
+//            @Override
+//            public void onClick(View v) {
+//                Intent wait_real = new Intent(getActivity(), WaitrealActivity.class);
+//                startActivity(wait_real);
+//            }
+//        });
+//
+//        //我的页面中的 我的购物车页面跳转
         my_assess_me.setOnClickListener(new View.OnClickListener() {
 
             @Override
@@ -231,10 +231,10 @@ public class FragmentMySelft extends MvpFragment<MySelftPresenter> implements Vi
     @Override
     public void onClick(View v) {
         switch (v.getId()) {
-            case R.id.imv_head:
-                Drawable drawavle = getResources().getDrawable(R.mipmap.tou);
-                BigImgDialog bigDialog = new BigImgDialog(getActivity(), 0, drawavle);
-                bigDialog.show();
+            case R.id.imv_head: //查看头像大图
+//                Drawable drawavle = getResources().getDrawable(R.mipmap.tou);
+//                BigImgDialog bigDialog = new BigImgDialog(getActivity(), 0, drawavle);
+//                bigDialog.show();
                 break;
         }
 

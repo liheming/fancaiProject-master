@@ -2,7 +2,9 @@ package com.suctan.huigang.activity.cart;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.text.TextUtils;
 import android.util.Log;
+import android.view.Gravity;
 import android.view.View;
 import android.widget.Button;
 import android.widget.CheckBox;
@@ -21,12 +23,13 @@ import com.suctan.huigang.R;
 import com.suctan.huigang.acache.CurrentUser;
 import com.suctan.huigang.acache.TokenManager;
 import com.suctan.huigang.activity.address.addressActivity;
-import com.suctan.huigang.activity.order.BuyActivity;
+import com.suctan.huigang.activity.recommend.RecommendActivity;
 import com.suctan.huigang.adapter.cart.ShoppingCartAdapter;
 import com.suctan.huigang.bean.cart.CartBean;
 import com.suctan.huigang.bean.index.EatFoodReturn;
 import com.suctan.huigang.mvp.login.cart.CartPresenter;
 import com.suctan.huigang.mvp.login.cart.CartView;
+import com.suctan.huigang.widget.TakePhotoPopWin;
 import com.suctan.huigang.widget.TimePickDialog;
 import com.suctan.huigang.widget.TipsAddAddressDialog;
 
@@ -37,7 +40,7 @@ import java.util.Map;
 /**
  * Created by 黄淑翰 on 2017/4/24.
  */
-public class ShoppingCart extends MvpActivity<CartPresenter> implements View.OnClickListener, CartView, ShoppingCartAdapter.OnCartListClickListner {
+public class ShoppingCart extends MvpActivity<CartPresenter> implements TakePhotoPopWin.PayInterface, View.OnClickListener, CartView, ShoppingCartAdapter.OnCartListClickListner {
     private static final String TAG = "ShoppingCart";
     private ImageButton imb_cart_back;
     private TextView tv_anore_address;
@@ -90,6 +93,7 @@ public class ShoppingCart extends MvpActivity<CartPresenter> implements View.OnC
 
     private void initView() {
 
+
         catLoadingView = new CatLoadingView();
         ly_change_receiveTime = (LinearLayout) findViewById(R.id.ly_change_receiveTime);
         imb_cart_back = (ImageButton) findViewById(R.id.imb_cart_back);
@@ -129,43 +133,24 @@ public class ShoppingCart extends MvpActivity<CartPresenter> implements View.OnC
     }
 
     /**
-     *请求结算购物车
+     * 请求结算购物车
      */
     private void requestCartPay() {
-        if (CurrentUser.getInstance().getUserBean().getUser_address() != null) {
-            Map<String, Object> map = new HashMap<>();
-            map.put("user_token", TokenManager.getToken());
-            map.put("expect_time", tempTime);
-            map.put("address", CurrentUser.getInstance().getUserBean().getUser_address());
-            System.out.println("结算的购物车包括：" + PayCart());
-            map.put("orderArrStr", PayCart());
-            mvpPresenter.payCartPrice(map);
-        } else {
-            final TipsAddAddressDialog tipsAddAddressDialog = new TipsAddAddressDialog(this);
-            tipsAddAddressDialog.setTipClickLisener(new TipsAddAddressDialog.OnTipLisetner() {
-                @Override
-                public void comfirm() {
-                    Intent intent = new Intent(ShoppingCart.this, addressActivity.class);//如果没有地址信息就跳转到选择地址
-                    // FIXME: 2017/5/2 结算购物车选择地址问题待解决 &&
-                    startActivity(intent);
-                    tipsAddAddressDialog.dismiss();
-                }
 
-                @Override
-                public void cancel() {
-                    tipsAddAddressDialog.dismiss();
-                }
-            });
-
-            tipsAddAddressDialog.show();
-        }
+        Map<String, Object> map = new HashMap<>();
+        map.put("user_token", TokenManager.getToken());
+        map.put("expect_time", tempTime);
+        map.put("address", CurrentUser.getInstance().getUserBean().getUser_address());
+        System.out.println("结算的购物车包括：" + PayCart());
+        map.put("orderArrStr", PayCart());
+        mvpPresenter.payCartPrice(map);
 
     }
 
 
     /**
-     *拼接订单id和数量字符串
-     * */
+     * 拼接订单id和数量字符串
+     */
     private String PayCart() {
         StringBuffer cartBuffer = new StringBuffer();
         for (int i = 0; i < cartBeanList.size(); i++) {
@@ -184,8 +169,6 @@ public class ShoppingCart extends MvpActivity<CartPresenter> implements View.OnC
     }
 
 
-
-
     @Override
     public void onClick(View view) {
         switch (view.getId()) {
@@ -193,8 +176,34 @@ public class ShoppingCart extends MvpActivity<CartPresenter> implements View.OnC
                 finish();
                 break;
             case R.id.btn_pay_cart:
-                requestCartPay();
-                toogleShowCataloading(true);
+
+                if (tv_allMoney.getText() == "0.0") {
+                    ToastTool.showToast("至少选中一个商品才能结算哦", 2);
+                } else if (TextUtils.isEmpty(CurrentUser.getInstance().getUserBean().getUser_address())) {
+                    Log.i(TAG, "initView: 我没有地址");
+                    final TipsAddAddressDialog tipsAddAddressDialog = new TipsAddAddressDialog(this);
+                    tipsAddAddressDialog.setTipClickLisener(new TipsAddAddressDialog.OnTipLisetner() {
+                        @Override
+                        public void comfirm() {
+                            Intent intent = new Intent(ShoppingCart.this, addressActivity.class);//如果没有地址信息就跳转到选择地址
+                            // FIXME: 2017/5/2 结算购物车选择地址问题待解决 &&
+                            startActivity(intent);
+                            tipsAddAddressDialog.dismiss();
+                        }
+
+                        @Override
+                        public void cancel() {
+                            tipsAddAddressDialog.dismiss();
+                        }
+                    });
+
+                    tipsAddAddressDialog.show();
+
+                } else {
+
+                    showPopFormBottom();
+                }
+
                 break;
             case R.id.tv_anore_address:
 
@@ -251,7 +260,7 @@ public class ShoppingCart extends MvpActivity<CartPresenter> implements View.OnC
      * 更新购物车数量
      *
      * @param position int
-     * @param count int
+     * @param count    int
      */
     private void updateCartCount(int position, int count) {
 
@@ -266,6 +275,7 @@ public class ShoppingCart extends MvpActivity<CartPresenter> implements View.OnC
 //            Log.i(TAG, "onCaculatePrice: 应该减去之后的金额是"+money);
 //        }
     }
+
     /**
      * 删除购物车该菜品
      *
@@ -294,7 +304,7 @@ public class ShoppingCart extends MvpActivity<CartPresenter> implements View.OnC
         Log.i(TAG, "getCartListSuc: 回调成功 ");
         this.cartBeanList.addAll(cartBeenLists);
         if (!isFirstCreatCartAdapter) {
-            cartAdapter = new ShoppingCartAdapter(ShoppingCart.this,  this.cartBeanList);
+            cartAdapter = new ShoppingCartAdapter(ShoppingCart.this, this.cartBeanList);
             cartAdapter.setOnCartListClick(ShoppingCart.this);
             shopping_cart_gridView.setAdapter(cartAdapter);
             isFirstCreatCartAdapter = true;
@@ -309,43 +319,46 @@ public class ShoppingCart extends MvpActivity<CartPresenter> implements View.OnC
     public void getCartListFail() {
 
     }
+
     /**
-     *  删除购物车菜品成功后的回调
+     * 删除购物车菜品成功后的回调
      */
     @Override
     public void deleteCartSuc(int position, String msg, int status) {
-                    Log.i(TAG, "deleteCartSuc:删除购物车菜品成功后的回调移除当前的item"+position+"size"+cartBeanList.size());
+        Log.i(TAG, "deleteCartSuc:删除购物车菜品成功后的回调移除当前的item" + position + "size" + cartBeanList.size());
         ToastTool.showToast(msg, status);
-            for (int i = 0; i < cartBeanList.size(); i++) {
-                if (cartBeanList.get(i).getSc_id() == position) {
-                    Log.i(TAG, "deleteCartSuc: 移除当前的item");
-                    cartBeanList.remove(cartBeanList.get(i));
+        for (int i = 0; i < cartBeanList.size(); i++) {
+            if (cartBeanList.get(i).getSc_id() == position) {
+                Log.i(TAG, "deleteCartSuc: 移除当前的item");
+                cartBeanList.remove(cartBeanList.get(i));
 //                cartAdapter.setDataChange(cartBeanList);
 //                    cartAdapter.notifyDataSetInvalidated();
-                    break;
-                }
+                break;
             }
-            if (cartBeanList != null) {
-                cartAdapter.setDataChange(cartBeanList);
-            }
+        }
+        if (cartBeanList != null) {
+            cartAdapter.setDataChange(cartBeanList);
+        }
 
     }
 
     /**
-     *  结算购物车成功后的回调
+     * 结算购物车成功后的回调
      */
     @Override
     public void payCartSuc(String msg, int status) {
         ToastTool.showToast(msg, status);
         toogleShowCataloading(false);
-        startActivity(new Intent(this, BuyActivity.class));
+        startActivity(new Intent(this, RecommendActivity.class));
+        finish();
     }
+
     /**
-     *  修改购物车菜品数量成功后的回调
+     * 修改购物车菜品数量成功后的回调
      */
     @Override
     public void changeCarNumSuc(String msg, int status) {
-        Log.i(TAG, "changeCarNumSuc: "+msg+status);
+        Log.i(TAG, "changeCarNumSuc: " + msg + status);
     }
 
     @Override
@@ -372,20 +385,20 @@ public class ShoppingCart extends MvpActivity<CartPresenter> implements View.OnC
      * 更新购物车数量
      *
      * @param position int
-     * @param count int
+     * @param count    int
      */
     @Override
-    public void onChangeNum(int type,boolean ischeck, int position, int count) {
+    public void onChangeNum(int type, boolean ischeck, int position, int count) {
         if (ischeck) {
             if (type == 1) {
-                money  =  money + cartBeanList.get(position).getOrder_price();
-                tv_allMoney.setText(money+"");
-                Log.i(TAG, "onCaculatePrice: 加上之后的金额是"+money);
+                money = money + cartBeanList.get(position).getOrder_price();
+                tv_allMoney.setText(money + "");
+                Log.i(TAG, "onCaculatePrice: 加上之后的金额是" + money);
             } else {
 
-                    money  =  money - cartBeanList.get(position).getOrder_price();
-                tv_allMoney.setText(money+"");
-                    Log.i(TAG, "onCaculatePrice: 加上之后的金额是"+money);
+                money = money - cartBeanList.get(position).getOrder_price();
+                tv_allMoney.setText(money + "");
+                Log.i(TAG, "onCaculatePrice: 加上之后的金额是" + money);
             }
         }
         Map<String, Object> map = new HashMap();
@@ -401,7 +414,8 @@ public class ShoppingCart extends MvpActivity<CartPresenter> implements View.OnC
         dealCartItme(position);
     }
 
-   public double money = 0.0;
+    public double money = 0.0;
+
     @Override
     public void onCaculatePrice(int i, double price) {
 
@@ -426,7 +440,7 @@ public class ShoppingCart extends MvpActivity<CartPresenter> implements View.OnC
         for (int i = 0; i < cartBeanList.size(); i++) {
             if (cartBeanList.get(i).isCheck() == true) {
                 CartBean cartBean = cartBeanList.get(i);
-                 allMoney  = cartBean.getOrder_allprice()+allMoney;
+                allMoney = cartBean.getOrder_allprice() + allMoney;
 //                if (cartBeanList.size() == cartBeanList.size() - 1) {
 // FIXME: 2017/5/2 在购物车调整数量不会自动更新问题
 //                    String item = cartBean.getOrder_id() + "comma" + cartBean.getOrder_num();
@@ -437,8 +451,8 @@ public class ShoppingCart extends MvpActivity<CartPresenter> implements View.OnC
 //                }
             }
         }
-        Log.i(TAG, "setAllMoney: 返回的金额是多少"+allMoney);
-            return allMoney;
+        Log.i(TAG, "setAllMoney: 返回的金额是多少" + allMoney);
+        return allMoney;
     }
 
     private void toogleCheckAll(boolean isCheck) {
@@ -456,6 +470,47 @@ public class ShoppingCart extends MvpActivity<CartPresenter> implements View.OnC
     @Override
     public void onCheckBoxItemClick(int position) {
         money = setAllMoney();
-        tv_allMoney.setText(money+"");
+        tv_allMoney.setText(money + "");
+    }
+
+
+    //dialog的加载等待框
+//    Dialog dialog = null;
+//    public void showDialog() {
+//        dialog = LoadingDialog.createLoading(this, "加载中...");
+//        dialog.show();
+//    }
+//    public void dismissDialog() {
+//        dialog.dismiss();
+//    }
+
+
+    //跳去popupwindiw的方法
+    public void showPopFormBottom() {
+        TakePhotoPopWin takePhotoPopWin = new TakePhotoPopWin(this, onClickListener);
+        takePhotoPopWin.onLisener(this);
+        takePhotoPopWin.showAtLocation(findViewById(R.id.main_view_pop), Gravity.CENTER, 0, 0);
+        takePhotoPopWin.setPay_type("支付宝");
+        takePhotoPopWin.setTotal_money(money + "");
+        takePhotoPopWin.setUser_account(CurrentUser.getInstance().getUserBean().getUser_phone());
+
+    }
+
+    private View.OnClickListener onClickListener = new View.OnClickListener() {
+        @Override
+        public void onClick(View v) {
+
+        }
+    };
+
+
+    /**
+     * 输入支付密码后
+     */
+    @Override
+    public void paySuccess() {
+        requestCartPay();
+//        showDialog();
+        toogleShowCataloading(true);
     }
 }

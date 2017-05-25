@@ -23,10 +23,10 @@ public class ServiceList$$ViewBinder<T extends ServiceList> implements ViewBinde
     protected InnerUnbinder(T target, Finder finder, Object source) {
       this.target = target;
 
-      target.loginBack = finder.findRequiredViewAsType(source, 2131558784, "field 'loginBack'", ImageView.class);
-      target.loginTitle = finder.findRequiredViewAsType(source, 2131558785, "field 'loginTitle'", TextView.class);
-      target.search = finder.findRequiredViewAsType(source, 2131558786, "field 'search'", ImageView.class);
-      target.serviceFb = finder.findRequiredViewAsType(source, 2131558787, "field 'serviceFb'", Button.class);
+      target.loginBack = finder.findRequiredViewAsType(source, 2131558798, "field 'loginBack'", ImageView.class);
+      target.loginTitle = finder.findRequiredViewAsType(source, 2131558799, "field 'loginTitle'", TextView.class);
+      target.search = finder.findRequiredViewAsType(source, 2131558800, "field 'search'", ImageView.class);
+      target.serviceFb = finder.findRequiredViewAsType(source, 2131558801, "field 'serviceFb'", Button.class);
     }
 
     @Override

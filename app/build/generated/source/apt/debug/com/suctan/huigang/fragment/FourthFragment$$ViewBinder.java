@@ -21,7 +21,7 @@ public class FourthFragment$$ViewBinder<T extends FourthFragment> implements Vie
     protected InnerUnbinder(T target, Finder finder, Object source) {
       this.target = target;
 
-      target.I_have_received_Up_gridview = finder.findRequiredViewAsType(source, 2131558710, "field 'I_have_received_Up_gridview'", GridView.class);
+      target.I_have_received_Up_gridview = finder.findRequiredViewAsType(source, 2131558715, "field 'I_have_received_Up_gridview'", GridView.class);
     }
 
     @Override

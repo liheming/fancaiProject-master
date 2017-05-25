@@ -25,13 +25,13 @@ public class FragmentIndex$$ViewBinder<T extends FragmentIndex> implements ViewB
     protected InnerUnbinder(T target, Finder finder, Object source) {
       this.target = target;
 
-      target.tab_index = finder.findRequiredViewAsType(source, 2131558721, "field 'tab_index'", BGABadgeRadioButton.class);
-      target.tab_want = finder.findRequiredViewAsType(source, 2131558722, "field 'tab_want'", BGABadgeRadioButton.class);
-      target.tab_do = finder.findRequiredViewAsType(source, 2131558723, "field 'tab_do'", BGABadgeRadioButton.class);
-      target.rollPagerView = finder.findRequiredViewAsType(source, 2131558719, "field 'rollPagerView'", RollPagerView.class);
-      target.more_text = finder.findRequiredViewAsType(source, 2131558725, "field 'more_text'", TextView.class);
-      target.swipeRayout = finder.findRequiredViewAsType(source, 2131558676, "field 'swipeRayout'", SwipeRefreshLayout.class);
-      target.gridView = finder.findRequiredViewAsType(source, 2131558726, "field 'gridView'", GridView.class);
+      target.tab_index = finder.findRequiredViewAsType(source, 2131558726, "field 'tab_index'", BGABadgeRadioButton.class);
+      target.tab_want = finder.findRequiredViewAsType(source, 2131558727, "field 'tab_want'", BGABadgeRadioButton.class);
+      target.tab_do = finder.findRequiredViewAsType(source, 2131558728, "field 'tab_do'", BGABadgeRadioButton.class);
+      target.rollPagerView = finder.findRequiredViewAsType(source, 2131558724, "field 'rollPagerView'", RollPagerView.class);
+      target.more_text = finder.findRequiredViewAsType(source, 2131558730, "field 'more_text'", TextView.class);
+      target.swipeRayout = finder.findRequiredViewAsType(source, 2131558681, "field 'swipeRayout'", SwipeRefreshLayout.class);
+      target.gridView = finder.findRequiredViewAsType(source, 2131558731, "field 'gridView'", GridView.class);
     }
 
     @Override

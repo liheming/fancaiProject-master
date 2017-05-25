@@ -356,7 +356,7 @@ public class release_new_todayfoodActivity extends MvpActivity implements View.O
     private void AddFoodPublic(File file) {
         FileUploadService serviceGenerator = ServiceGenerator.createService(FileUploadService.class);
         TypedFile typedFile = new TypedFile("multipart/form-data", file);
-        serviceGenerator.FoodPublic(typedFile, TokenManager.getToken(), tempMyChikenBean.getOrder_title(), tempMyChikenBean.getOrder_price()
+        serviceGenerator.FoodPublic(typedFile, TokenManager.getToken(), tempMyChikenBean.getOrder_title(),tempMyChikenBean.getFood_description(), tempMyChikenBean.getOrder_price()
                 , tempMyChikenBean.getOrder_type(), tempMyChikenBean.getMakeFood_res(), tempMyChikenBean.getMakeFood_float(), tempMyChikenBean.getMakeFood_note()
                 , new retrofit.Callback<String>() {
                     @Override

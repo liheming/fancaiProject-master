@@ -36,8 +36,8 @@ public class TipsAddCartDialog extends AlertDialog implements View.OnClickListen
         //监听点击事件
         tipdialog_comfirm.setOnClickListener(this);
         tipdialog_cancel.setOnClickListener(this);
-        Window win = getWindow();
-        win.getDecorView().setPadding(20, 0, 20, 0);
+        /*Window win = getWindow();
+        win.getDecorView().setPadding(0, 20, 20, 0);*/
     }
 
 

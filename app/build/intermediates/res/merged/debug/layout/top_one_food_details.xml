@@ -119,18 +119,9 @@
                         <com.suctan.huigang.activity.dianzan.ThumbUpView
                             android:id="@+id/tpv1"
                             android:layout_width="20dp"
-                            android:layout_height="20dp" />
+                            android:layout_height="20dp"
+                            />
 
-                        <TextView
-                            android:id="@+id/tv1"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_gravity="center_vertical"
-                            android:maxEms="3"
-                            android:paddingLeft="5dp"
-                            android:singleLine="true"
-                            android:text="100"
-                            android:textSize="12sp" />
 
                     </LinearLayout>
 
@@ -208,12 +199,7 @@
                         android:layout_weight="1"
                         android:text="菜品描述" />
 
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_gravity="center_vertical"
-                        android:paddingRight="10dp"
-                        android:src="@mipmap/more_black" />
+
                 </LinearLayout>
 
                 //菜品描述 ,一般都是四行字体左右,不过最大的设置行数,为3

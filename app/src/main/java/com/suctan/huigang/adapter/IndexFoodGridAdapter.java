@@ -10,6 +10,7 @@ import android.widget.TextView;
 
 import com.example.androidbase.LoadImageManager;
 import com.suctan.huigang.R;
+import com.suctan.huigang.activity.dianzan.ThumbUpView;
 import com.suctan.huigang.bean.index.EatFoodBean;
 
 import java.util.ArrayList;
@@ -51,6 +52,20 @@ public class IndexFoodGridAdapter extends BaseAdapter {
             viewHolder = new FootGridHolder();
             viewHolder.ItemImage = (ImageView) view.findViewById(R.id.recommend_index_ItemImage);
             viewHolder.ItemText = (TextView) view.findViewById(R.id.recommend_index_ItemText);
+            viewHolder.tpv1 = (ThumbUpView) view.findViewById(R.id.tpv1);
+            viewHolder.tv1 = (TextView) view.findViewById(R.id.tv1);
+            final FootGridHolder finalViewHolder = viewHolder;
+            viewHolder.tpv1.setOnThumbUp(new ThumbUpView.OnThumbUp() {
+                @Override
+                public void like(boolean like) {
+                    if (like){
+                        finalViewHolder.tv1.setText(String.valueOf(Integer.valueOf(finalViewHolder.tv1.getText().toString()) + 1));
+                    }else {
+                        finalViewHolder.tv1.setText(String.valueOf(Integer.valueOf(finalViewHolder.tv1.getText().toString()) - 1));
+                    }
+
+                }
+            });
             view.setTag(viewHolder);
         } else {
             viewHolder = (FootGridHolder) view.getTag();
@@ -66,5 +81,7 @@ public class IndexFoodGridAdapter extends BaseAdapter {
     class FootGridHolder {
         ImageView ItemImage;
         TextView ItemText;
+        ThumbUpView tpv1;
+        TextView tv1;
     }
 }
